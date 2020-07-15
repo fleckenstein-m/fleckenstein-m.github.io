@@ -1,4 +1,4 @@
-# Matt's Markdown/LaTeX/pdf CV/Website
+# Matt's Markdown/LaTeX/PDF CV/Website
 
 The main CV file is the markdown file `index.md`.
 The `makefile` compiles the CV into a LaTeX .pdf and an HTML via pandoc.
