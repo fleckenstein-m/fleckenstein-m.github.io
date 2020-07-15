@@ -1,0 +1,19 @@
+---
+geometry: left=0.75in,top=0.4in,right=0.75in,bottom=0.6in,includehead=true,includefoot=true
+indent: false
+header-includes: |
+  \thispagestyle{empty}  
+  \usepackage{fancyhdr}
+  \renewcommand{\footrulewidth}{0.4pt}
+  \pagestyle{fancy}
+  \fancyhead[L]{}
+  \fancyhead[R]{Matthias Fleckenstein, Ph.D.}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{}
+  \usepackage{tcolorbox}
+  \usepackage{titling}
+  \posttitle{\par\rule{\linewidth}{0.4pt}\end{center}}
+  \usepackage{enumitem}
+  \setlist[itemize]{topsep=5pt, partopsep=5pt, itemsep=0pt}
+  \setlist[itemize,2]{label={$\star$}}
+---
