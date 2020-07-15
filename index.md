@@ -7,6 +7,9 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 <br />
 \vskip -0.5in
 
+![](Fleckenstein_Matthias-2016.jpg)
+
+
 **Matthias Fleckenstein**  
 _Assistant Professor of Finance_  
 University of Delaware  
