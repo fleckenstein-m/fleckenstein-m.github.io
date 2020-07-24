@@ -66,7 +66,7 @@ Associate, 2013 -- 2016.
 
 + [The Treasury Floating Rate Note Puzzle: Is there a premium for mark-to-market stability?](https://doi.org/10.1016/j.jfineco.2020.04.006)  
   - *With Francis A. Longstaff*
-  - __Journal of Financial Economics__. 2020. Forthcoming.
+  - __Journal of Financial Economics__. 2020. Vol. 137(3), p. 637--658.
   : **Abstract:** We find that Treasury floating rate notes (FRNs) trade at a significant premium relative to the prices of Treasury bills and notes. This premium is directly related to the near-constant nature of FRN prices and is correlated with measures reflecting investor demand for safe assets. Money market funds are often the primary investors in FRNs, and the FRN premium is related to flows into funds with fixed net asset values, but not to flows into funds with variable net asset values. These results provide strong evidence that the FRN premium represents a convenience yield for the mark-to-market stability feature of FRNs.  
   
 
