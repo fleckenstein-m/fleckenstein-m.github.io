@@ -9,7 +9,6 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 
 ![](Fleckenstein_Matthias-2016.jpg)
 
-
 **Matthias Fleckenstein**  
 _Assistant Professor of Finance_  
 University of Delaware  
@@ -101,6 +100,8 @@ Associate, 2013 -- 2016.
 + [The Market Risk Premium for Unsecured Consumer Credit Risk](http://www.nber.org/papers/w28029)  
   - *With Francis A. Longstaff*
   - NBER Working Paper 28029, 2020.
+  - NBER Featured Working Papers, January 14, 2021
+  - UCLA Anderson Review, Research Brief, featured article December 16, 2020
   : **Abstract:** We use the prices of credit card asset-backed securities to study the market risk premium associated with unsecured consumer credit risk. The consumer credit risk premium has historically been comparable to high yield corporate bond spreads, but has increased dramatically since the financial crisis. We find evidence that this increase is primarily due to balance-sheet costs imposed by recent changes in regulatory capital requirements which have effectively placed credit card securitizations back onto issuer balance sheets. These changes in capital regulation may have added hundreds of basis points to the cost of unsecured household credit. 
 
 
@@ -186,6 +187,11 @@ Associate, 2013 -- 2016.
 <br />
 
 ## Invited Discussions
++ Easter Finance Associtaion (EFA) 2021 Annual Meeting
+: Does Liquidity Management Induce Fragility in Treasury Prices?
+  Evidence from Bond Mutual Funds
+  (by Shiyang Huang, Xiaoxi Liu, Xin Liu, Wenxi Jiang)
+
 + Chicago Financial Institutions Conference
 : Zombie Credit and (Dis)-Inflation: Evidence from Europe
   (by Viral V. Acharya, Matteo Crosignani, Tim Eisert, Christian Eufinger)
