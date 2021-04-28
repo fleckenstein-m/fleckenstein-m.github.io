@@ -7,7 +7,7 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 <br />
 \vskip -0.5in
 
-![](Fleckenstein_Matthias-2016.jpg)
+<!-- ![](Fleckenstein_Matthias-2016.jpg) -->
 
 **Matthias Fleckenstein**  
 _Assistant Professor of Finance_  
@@ -49,43 +49,43 @@ Associate, 2013 -- 2016.
 
 ## Published and Forthcoming Papers
 
-+ [Treasury Yield Implied Volatility and Real Activity](https://dx.doi.org/10.2139/ssrn.3006473)  
++ [Treasury Yield Implied Volatility and Real Activity (2021)](https://doi.org/10.1016/j.jfineco.2020.12.009)  
   - *With Priyank Gandhi and Martijn Cremers*
-  - __Journal of Financial Economics__, 2020, in press.
+  - __Journal of Financial Economics__, Volume 140, Issue 2, May 2021, 412--435.
   : **Abstract:**  
   We show that at-the-money implied volatility of options on futures of 5-year Treasury notes (Treasury ‘yield implied volatility’) predicts both the growth rate and volatility of gross domestic product, as well as of other macroeconomic variables, like industrial production, consumption, and employment. This predictability is robust to controlling for the term spread, credit spread, stock returns, stock market implied volatility, and several other variables that prior literature showed to predict macroeconomic activity. Our results indicate that Treasury yield implied volatility is a useful forward-looking state variable to characterize risks and opportunities in the macro economy.
 
 
-+ [Renting Balance Sheet Space: Intermediary Balance Sheet Rental Costs and the Valuation of Derivatives](https://doi.org/10.1093/rfs/hhaa033)  
++ [Renting Balance Sheet Space: Intermediary Balance Sheet Rental Costs and the Valuation of Derivatives (2020)](https://doi.org/10.1093/rfs/hhaa033)  
   - *With Francis A. Longstaff*
-  - __Review of Financial Studies__, Volume 33, Issue 11, 2020, pp. 5051--5091. 
+  - __Review of Financial Studies__, Volume 33, Issue 11, 2020, 5051--5091. 
   : **Abstract:**  
    A long-standing asset pricing puzzle is that the funding rates in derivatives contracts often differ from those in cash markets. We propose that the cost of renting intermediary balance sheet space may help resolve this puzzle. We study a persistent basis in what is arguably the largest derivatives market, namely, the interest rate futures market. This basis is strongly related to exogenous measures of intermediary balance sheet usage and proxies for the balance sheet costs imposed by debt overhang problems and capital regulation. These results extend to the cash derivatives bases documented in many of the other largest financial markets.
 
 
-+ [The Treasury Floating Rate Note Puzzle: Is there a premium for mark-to-market stability?](https://doi.org/10.1016/j.jfineco.2020.04.006)  
++ [The Treasury Floating Rate Note Puzzle: Is there a premium for mark-to-market stability? (2020)](https://doi.org/10.1016/j.jfineco.2020.04.006)  
   - *With Francis A. Longstaff*
-  - __Journal of Financial Economics__, Volume 137, Issue 3, 2020, pp. 637--658.
+  - __Journal of Financial Economics__, Volume 137, Issue 3, 2020, 637--658.
   : **Abstract:** We find that Treasury floating rate notes (FRNs) trade at a significant premium relative to the prices of Treasury bills and notes. This premium is directly related to the near-constant nature of FRN prices and is correlated with measures reflecting investor demand for safe assets. Money market funds are often the primary investors in FRNs, and the FRN premium is related to flows into funds with fixed net asset values, but not to flows into funds with variable net asset values. These results provide strong evidence that the FRN premium represents a convenience yield for the mark-to-market stability feature of FRNs.  
   
 
-+ [Corporate Taxes and Capital Structure: A Long-Term Historical Perspective](http://dx.doi.org/10.1561/104.00000069)
++ [Corporate Taxes and Capital Structure: A Long-Term Historical Perspective (2020)](http://dx.doi.org/10.1561/104.00000069)
   - *With Francis A. Longstaff and Ilya A. Strebulaev*
-  - __Critical Finance Review__, 2020, Volume 9: No. 1--2, pp. 1--28.
+  - __Critical Finance Review__, Volume 9: No. 1--2, 2020, 1--28.
   : **Abstract:** We study the time series relation between leverage and corporate tax rates using an extensive data set constructed from all corporate income tax returns filed with the Internal Revenue Service from 1926 to 2013. This data set includes financial statement data from millions of private and public corporations. We find strong evidence that changes in corporate leverage are directly related to changes in corporate tax rates for all but the smallest firms. These results are robust to the inclusion of control variables for the costs of financial distress, corporate liquidity, and capital market and macroeconomic conditions. Furthermore, the results hold for both financial and nonfinancial firms as well as for different measures of firm leverage and the marginal corporate income tax rate. An increase in the marginal corporate tax rate of 1% translates into a 0.15% increase in corporate leverage, representing a $132 billion increase in aggregate leverage based on current values.
 
 
-+ [Deflation Risk](https://doi.org/10.1093/rfs/hhx021)  
++ [Deflation Risk (2017)](https://doi.org/10.1093/rfs/hhx021)  
   - *With Francis A. Longstaff and Hanno Lustig*
-  - __Review of Financial Studies__, 2017, Volume 30, Issue 8, pp. 2719--2760.
+  - __Review of Financial Studies__, Volume 30, Issue 8, 2017, 2719--2760.
   : **Abstract:** We study the nature of deflation risk by extracting the objective distribution of inflation from the market prices of inflation swaps and options. We find that the market expects inflation to average about 2.5% over the next 30 years. Despite this, the market places substantial weight on deflation scenarios in which prices significantly decline over extended horizons. The market prices the economic tail risk of deflation similarly to other types of tail risks, such as corporate default or catastrophic insurance losses. We find that deflation risk is strongly negatively correlated with outcomes in the financial markets and with consumer confidence.
 
 
-+ [The TIPS--Treasury Bond Puzzle](https://doi.org/10.1111/jofi.12032)  
++ [The TIPS--Treasury Bond Puzzle (2014)](https://doi.org/10.1111/jofi.12032)  
   - *With Francis A. Longstaff and Hanno Lustig*
-  - __Journal of Finance__, 2014, Volume 69, Issue 5, pp. 2151--2197.
+  - __Journal of Finance__, Volume 69, Issue 5, 2014, 2151--2197.
   - **_Winner of the Amundi Smith Breeden Award 2014_**
-  : **Abstract:** We show that the price of a Treasury bond and an inflation‐swapped Treasury Inflation‐Protected Securities (TIPS) issue exactly replicating the cash flows of the Treasury bond can differ by more than $20 per $100 notional. Treasury bonds are almost always overvalued relative to TIPS. Total TIPS‐Treasury mispricing has exceeded $56 billion, representing nearly 8% of the total amount of TIPS outstanding. We find direct evidence that the mispricing narrows as additional capital flows into the markets. This provides strong support for the slow‐moving‐capital explanation of arbitrage persistence.
+  : **Abstract:** We show that the price of a Treasury bond and an inflation‐swapped Treasury Inflation‐Protected Securities (TIPS) issue exactly replicating the cash flows of the Treasury bond can differ by more than $20 per $100 notional. Treasury bonds are almost always overvalued relative to TIPS. Total TIPS‐Treasury mispricing has exceeded $56 billion, representing nearly 8% of the total amount of TIPS outstanding. We find direct evidence that the mispricing narrows as additional capital flows into the markets. This provides strong support for the slow-moving-capital explanation of arbitrage persistence.
 
 <br />
 
@@ -99,9 +99,10 @@ Associate, 2013 -- 2016.
 ## Working Papers
 + [The Market Risk Premium for Unsecured Consumer Credit Risk](http://www.nber.org/papers/w28029)  
   - *With Francis A. Longstaff*
+  - __Revise and Resubmit at Review of Financial Studies.__
   - NBER Working Paper 28029, 2020.
-  - NBER Featured Working Papers, January 14, 2021
-  - UCLA Anderson Review, Research Brief, featured article December 16, 2020
+  - NBER Featured Working Papers, January 14, 2021.
+  - UCLA Anderson Review, Research Brief, featured article December 16, 2020.
   : **Abstract:** We use the prices of credit card asset-backed securities to study the market risk premium associated with unsecured consumer credit risk. The consumer credit risk premium has historically been comparable to high yield corporate bond spreads, but has increased dramatically since the financial crisis. We find evidence that this increase is primarily due to balance-sheet costs imposed by recent changes in regulatory capital requirements which have effectively placed credit card securitizations back onto issuer balance sheets. These changes in capital regulation may have added hundreds of basis points to the cost of unsecured household credit. 
 
 
@@ -122,10 +123,10 @@ Associate, 2013 -- 2016.
 
 ## Citations
 + Google Scholar  
-  407 (as of February 2021)  
+  415 (as of April 2021)  
 + Web of Science  
-  _Published citing published_: 61 (as of July 2020)  
-  _Cited references_: 84 (as of January 2020)
+  _Published citing published_: 74 (as of April 2021)  
+  _Cited references_: 115 (as of April 2021)
 	
 
 <br />
@@ -136,14 +137,13 @@ Associate, 2013 -- 2016.
 
 + The Market Risk Premium for Unsecured Consumer Credit Risk
   - *Conferences*  
-  Midwest Finance Association Annual Meeting 2021, Easter Finance Association Annual Meeting 2021
+  Western Finance Association (WFA) 2021, Midwest Finance Association Annual Meeting 2021, Easter Finance Association Annual Meeting 2021
 
 + Renting Balance Sheet Space: Intermediary Balance Sheet Rental Costs and the Valuation of Derivatives  
   - *Conferences*  
   Drexel, Lehigh, Temple and University of Delaware Research Symposium (Philly 5) 2017; Eastern Finance Association Annual Meeting 2018; Duke/University of North Carolina Asset Pricing Conference 2018; 7th Fixed Income and Financial Institutions Conference (FIFI); Canadian Derivatives Institute (CDI) Seventh Conference on Derivatives 2018; Paris Financial Management Conference 2019; Midwest Finance Association Annual Conference 2020
   - *Seminars*  
   University of Delaware, Claremont Graduate University&#8224; Commodity Futures Trading Commission (CFTC)&#8224;; Virtual Derivatives Workshop&#8224;; Federal Reserve Bank of San Francisco&#8224;
-
 
 + The Treasury Floating Rate Note Puzzle: Is there a premium for mark-to-market stability  
   - *Conferences*  
@@ -242,19 +242,19 @@ Associate, 2013 -- 2016.
 <br />
 
 ## Teaching
-+ __University of Delaware__ (Instructor)  
-  FINC 662: Fixed Income Securities (MS; Spring 2021)
-  FINC 462: Fixed Income Securities (Undergraduate; Spring 2021)
-  FINC 313: Fixed Income Securities (Undergraduate; Spring 2017, 2018, 2019, 2020)  
-  FINC 862: Fixed Income Securities (MS; Spring 2017, 2018, 2020)
++ __University of Delaware__ (Instructor)
+  - FINC 314: Investments (Undergraduate; Spring 2021)
+  - FINC 662: Fixed Income Securities (MS; Spring 2021)
+  - FINC 462: Fixed Income Securities (Undergraduate; Spring 2021)
+  - FINC 313: Fixed Income Securities (Undergraduate; Spring 2017, 2018, 2019, 2020)
+  - FINC 862: Fixed Income Securities (MS; Spring 2017, 2018, 2020)
 	
 + __UCLA__ (Teaching Assistant)  
-  MGMT 232A: Security Analysis and Investment Management (MBA; Spring 2011)  
-  MGMT 231C: Corporate Valuation (MBA; Winter 2011, Spring 2011, Fall 2011, Spring 2012)  
-  MGMT 237J: Asset-Backed Securities (MFE; Fall 2009, Fall 2011)  
-  MGMT 2387K: Introduction to Credit Markets (MFE; Fall 2011)  
-  MGMT 408: Securities Markets and Investments (MBA, FEMBA; Spring 2009, Fall 2009)  
-
+  - MGMT 232A: Security Analysis and Investment Management (MBA; Spring 2011)
+  - MGMT 231C: Corporate Valuation (MBA; Winter 2011, Spring 2011, Fall 2011, Spring 2012)
+  - MGMT 237J: Asset-Backed Securities (MFE; Fall 2009, Fall 2011)
+  - MGMT 2387K: Introduction to Credit Markets (MFE; Fall 2011)
+  - MGMT 408: Securities Markets and Investments (MBA, FEMBA; Spring 2009, Fall 2009)
 
 <br />
 
@@ -265,7 +265,7 @@ Associate, 2013 -- 2016.
 + University of Delaware, 2020  
   *Lerner College Outstanding Junion Faculty Award*
 + Amundi Smith Breeden Distinguished Paper Award 2014  
-  for *The Tips-Treasury Bond Puzzle*
+  for *The TIPS--Treasury Bond Puzzle*
 + Naumann–Etienne Foundation  (2005--2007)  
   *Georgia Tech Full Scholarship*
 + University of Delaware Lerner College of Business and Economics (2017, 2018)  
@@ -279,17 +279,15 @@ Associate, 2013 -- 2016.
 ## Professional Activity
      
 + __Referee__  
-  American Economic Review; Financial Management; Finance Research Letters; International Finance;
-  Journal of Banking \& Finance; Journal of Economic Dynamics, and Control;
-  Journal of Empirical Finance; Journal of Finance; 
-  Journal of Financial Intermediation; Journal of Financial and Quantitative
-  Analysis; Journal of Monetary Economics; Journal of Money, Credit, and Banking; 
-  Management Science; Review of Asset Pricing Studies; Review of Economics and Statistics;
-  Review of Finance; Review of Financial Studies
-  
+  American Economic Review; Economic Letters; Finance Research Letters; Financial Management;
+  International Finance; Journal of Banking and Finance; Journal of Economic Dynamics and Control;
+  Journal of Empirical Finance; Journal of Finance; Journal of Financial and Quantitative Analysis;
+  Journal of Financial Intermediation; Journal of Financial Markets; Journal of Monetary Economics;
+  Journal of Money, Credit, and Banking; Management Science; Review of Asset Pricing Studies;
+  Review of Economic Dynamics; Review of Economics and Statistics; Review of Finance; Review of Financial Studies
+    
 + __Conference Program Committee__  
-  2nd Short-Term Funding Markets Conference; Northern Finance Association 2019;
-  Northern Finance Association 2020
+  Northern Finance Association 2019--2021; 2nd Short-Term Funding Markets Conference
   
 + __Conference Session Chair__  
   ASSA Annual Meeting 2017 (Liquidity and Trading in Bond and Derivatives Markets I); Paris Financial Management Conference 2017 (Financial Engineering and Derivatives I)
