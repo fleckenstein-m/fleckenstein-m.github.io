@@ -9,6 +9,7 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 
 ![](Fleckenstein_Matthias-2016.jpg)
 
+
 **Matthias Fleckenstein**  
 _Assistant Professor of Finance_  
 University of Delaware  
