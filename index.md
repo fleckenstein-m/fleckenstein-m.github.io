@@ -114,6 +114,7 @@ Associate, 2013 -- 2016.
 
 + [Private Equity Returns: Empirical Evidence from the Business Credit Card Securitization Market](https://www.nber.org/papers/w28134)  
   - *With Francis A. Longstaff*
+  - __Revise and Resubmit at Journal of Finance.__
   - NBER Working Paper 28134, 2020.
   : **Abstract:** We present a new approach for estimating private equity returns using secondary market prices for entrepreneurial business credit card securitizations. We show that the market requires a significantly higher premium for entrepreneurial credit risk than for household credit risk. Entrepreneurial risk is systematic in nature and has much in common with risks in corporate bond and real-estate-backed lending markets. The expected return on private equity is on the order of 14 percent and the volatility of private equity returns is comparable to that of the smallest quintile of publicly traded firms.
 
