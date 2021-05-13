@@ -1,0 +1,6 @@
+For pdf (no picture), comment out line 10
+Active line /*white-space: pre-wrap;*/ in style.css file
+Run: 
+git add .
+git comitt --all
+git push
