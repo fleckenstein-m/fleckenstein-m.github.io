@@ -100,6 +100,7 @@ Associate, 2013 -- 2016.
 ## Working Papers
 + [Treasury Richness]() 
   - *With Francis A. Longstaff*
+  - Working Paper. 2021.
   : **Abstract:** Although Treasuries are generally rich relative to other fixed-income securities, they actually often trade at a discount to their fair values as implied by a riskfree discounting curve. We study the richness/cheapness of Treasury securities and test implications of current near-money safe-asset theories. Treasuries sometimes become cheaper rather than richer following crises. Furthermore, Treasuries have cheapened dramatically since 2015. Using exogenous instruments provided by several natural experiments, we find that Treasury richness is driven by the opportunity cost of holding money, liquidity-of-last-resort concerns about inflation and taxes, and security-specific illiquidity.
 
 
