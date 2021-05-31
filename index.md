@@ -8,7 +8,7 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 \vskip -0.5in
 
 
-![](Fleckenstein_Matthias-2016.jpg)
+
 
 **Matthias Fleckenstein**  
 _Assistant Professor of Finance_  
@@ -64,7 +64,7 @@ Associate, 2013 -- 2016.
    A long-standing asset pricing puzzle is that the funding rates in derivatives contracts often differ from those in cash markets. We propose that the cost of renting intermediary balance sheet space may help resolve this puzzle. We study a persistent basis in what is arguably the largest derivatives market, namely, the interest rate futures market. This basis is strongly related to exogenous measures of intermediary balance sheet usage and proxies for the balance sheet costs imposed by debt overhang problems and capital regulation. These results extend to the cash derivatives bases documented in many of the other largest financial markets.
 
 
-+ [The Treasury Floating Rate Note Puzzle: Is there a premium for mark-to-market stability? (2020)](https://doi.org/10.1016/j.jfineco.2020.04.006)  
++ [The Treasury Floating Rate Note Puzzle: Is there a Premium for Mark-to-Market Stability? (2020)](https://doi.org/10.1016/j.jfineco.2020.04.006)  
   - *With Francis A. Longstaff*
   - __Journal of Financial Economics__, Volume 137, Issue 3, 2020, 637--658.
   : **Abstract:** We find that Treasury floating rate notes (FRNs) trade at a significant premium relative to the prices of Treasury bills and notes. This premium is directly related to the near-constant nature of FRN prices and is correlated with measures reflecting investor demand for safe assets. Money market funds are often the primary investors in FRNs, and the FRN premium is related to flows into funds with fixed net asset values, but not to flows into funds with variable net asset values. These results provide strong evidence that the FRN premium represents a convenience yield for the mark-to-market stability feature of FRNs.  
