@@ -7,7 +7,6 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 <br />
 \vskip -0.5in
 
-
 ![](Fleckenstein_Matthias-2016.jpg)
 
 **Matthias Fleckenstein**  
@@ -98,10 +97,10 @@ Associate, 2013 -- 2016.
 <br />
 
 ## Working Papers
-+ [Treasury Richness]() 
++ [Treasury Richness](https://www.nber.org/papers/w29081) 
   - *With Francis A. Longstaff*
-  - Working Paper. 2021.
-  : **Abstract:** Although Treasuries are generally rich relative to other fixed-income securities, they actually often trade at a discount to their fair values as implied by a riskfree discounting curve. We study the richness/cheapness of Treasury securities and test implications of current near-money safe-asset theories. Treasuries sometimes become cheaper rather than richer following crises. Furthermore, Treasuries have cheapened dramatically since 2015. Using exogenous instruments provided by several natural experiments, we find that Treasury richness is driven by the opportunity cost of holding money, liquidity-of-last-resort concerns about inflation and taxes, and security-specific illiquidity.
+  - NBER Working Paper 29081, 2021. 
+  : **Abstract:** It is widely believed that Treasuries trade at premium prices because of their safety and money-like properties. In reality, this is only true on a relative basis when compared to other bonds, but is often not true on an absolute basis. Many Treasuries have repeatedly traded at substantial discounts to their intrinsic fair values for extended periods during the past 25 years. Since 2015, Treasuries have consistently been priced at an aggregate discount of $100 to $300 billion below their fair values. Treasuries often actually become cheaper following crises. These results provide new perspectives on safe-asset theories.
 
 
 + [The Market Risk Premium for Unsecured Consumer Credit Risk](http://www.nber.org/papers/w28029)  
@@ -109,7 +108,7 @@ Associate, 2013 -- 2016.
   - __Revise and Resubmit at Review of Financial Studies.__
   - NBER Working Paper 28029, 2020.
   - NBER Featured Working Papers, January 14, 2021.
-  - UCLA Anderson Review, Research Brief, featured article December 16, 2020.
+  - [UCLA Anderson Review](https://anderson-review.ucla.edu/did-bank-capital-rules-make-credit-card-borrowing-more-expensive/), Research Brief, featured article December 16, 2020.
   : **Abstract:** We use the prices of credit card asset-backed securities to study the market risk premium associated with unsecured consumer credit risk. The consumer credit risk premium has historically been comparable to high yield corporate bond spreads, but has increased dramatically since the financial crisis. We find evidence that this increase is primarily due to balance-sheet costs imposed by recent changes in regulatory capital requirements which have effectively placed credit card securitizations back onto issuer balance sheets. These changes in capital regulation may have added hundreds of basis points to the cost of unsecured household credit. 
 
 
@@ -117,6 +116,7 @@ Associate, 2013 -- 2016.
   - *With Francis A. Longstaff*
   - __Revise and Resubmit at Journal of Finance.__
   - NBER Working Paper 28134, 2020.
+  - [UCLA Anderson Review](https://anderson-review.ucla.edu/borrowings-suggest-small-company-owners-face-higher-risk/), Research Brief, featured article July 28, 2021.
   : **Abstract:** We present a new approach for estimating private equity returns using secondary market prices for entrepreneurial business credit card securitizations. We show that the market requires a significantly higher premium for entrepreneurial credit risk than for household credit risk. Entrepreneurial risk is systematic in nature and has much in common with risks in corporate bond and real-estate-backed lending markets. The expected return on private equity is on the order of 14 percent and the volatility of private equity returns is comparable to that of the smallest quintile of publicly traded firms.
 
 
@@ -125,15 +125,15 @@ Associate, 2013 -- 2016.
   - Working Paper. 2020.
   : **Abstract:** Little is known about how the risk of unexpected changes in tax policy is priced in financial markets. We measure how tax risk affects asset prices using a novel dataset of taxable and tax-exempt corporate bonds in the 19th century, and the introduction of federal taxes as a natural experiment. Our tax risk measure is derived from bonds with a tax-exempt clause that requires firms to pay coupons to investors in full, and to pay investors’ taxes on coupons. Tax risk is pro-cyclical and is priced in the cross-section of asset returns with a statistically and economically significant positive risk premium.
 
+
 <br />
 
 
-
 ## Citations
-+ Google Scholar  
-  415 (as of April 2021)  
-+ Web of Science  
-  _Published citing published_: 74 (as of April 2021)  
++ Google Scholar
+  415 (as of April 2021)
++ Web of Science
+  _Published citing published_: 74 (as of April 2021)
   _Cited references_: 115 (as of April 2021)
 	
 
@@ -145,7 +145,7 @@ Associate, 2013 -- 2016.
 
 + The Market Risk Premium for Unsecured Consumer Credit Risk
   - *Conferences*  
-  Western Finance Association (WFA) 2021, Midwest Finance Association Annual Meeting 2021, Easter Finance Association Annual Meeting 2021
+  Western Finance Association (WFA) 2021&#8224;, Midwest Finance Association Annual Meeting 2021, Easter Finance Association Annual Meeting 2021
 
 + Renting Balance Sheet Space: Intermediary Balance Sheet Rental Costs and the Valuation of Derivatives  
   - *Conferences*  
@@ -292,7 +292,8 @@ Associate, 2013 -- 2016.
   Journal of Empirical Finance; Journal of Finance; Journal of Financial and Quantitative Analysis;
   Journal of Financial Intermediation; Journal of Financial Markets; Journal of Monetary Economics;
   Journal of Money, Credit, and Banking; Management Science; Review of Asset Pricing Studies;
-  Review of Economic Dynamics; Review of Economics and Statistics; Review of Finance; Review of Financial Studies
+  Review of Economic Dynamics; Review of Economics and Statistics; Review of Finance; Review of Financial Studies;
+  Review of Economic Studies
     
 + __Conference Program Committee__  
   Northern Finance Association 2019--2021; 2nd Short-Term Funding Markets Conference
