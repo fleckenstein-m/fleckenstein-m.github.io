@@ -100,6 +100,7 @@ Associate, 2013 -- 2016.
 + [Treasury Richness](https://www.nber.org/papers/w29081) 
   - *With Francis A. Longstaff*
   - NBER Working Paper 29081, 2021. 
+  - [UCLA Anderson Review](https://anderson-review.ucla.edu/treasury-securities-are-actually-cheap-sometimes/), Research Brief, featured article August 18, 2021.
   : **Abstract:** It is widely believed that Treasuries trade at premium prices because of their safety and money-like properties. In reality, this is only true on a relative basis when compared to other bonds, but is often not true on an absolute basis. Many Treasuries have repeatedly traded at substantial discounts to their intrinsic fair values for extended periods during the past 25 years. Since 2015, Treasuries have consistently been priced at an aggregate discount of $100 to $300 billion below their fair values. Treasuries often actually become cheaper following crises. These results provide new perspectives on safe-asset theories.
 
 
