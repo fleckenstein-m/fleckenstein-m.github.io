@@ -7,7 +7,7 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 <br />
 \vskip -0.5in
 
-![](Fleckenstein_Matthias-2016.jpg)
+<!-- ![](Fleckenstein_Matthias-2016.jpg) -->
 
 **Matthias Fleckenstein**  
 _Assistant Professor of Finance_  
@@ -49,6 +49,16 @@ Associate, 2013 -- 2016.
 
 ## Published and Forthcoming Papers
 
+
++ [The Market Risk Premium for Unsecured Consumer Credit Risk](https://doi.org/10.1093/rfs/hhac002)  
+  - *With Francis A. Longstaff*
+  - __Review of Financial Studies,__ forthcoming.
+  - NBER Working Paper 28029, 2020.
+  - NBER Featured Working Papers, January 14, 2021.
+  - [UCLA Anderson Review](https://anderson-review.ucla.edu/did-bank-capital-rules-make-credit-card-borrowing-more-expensive/), Research Brief, featured article December 16, 2020.
+  : **Abstract:** We use the prices of credit card asset-backed securities to study the market risk premium associated with unsecured consumer credit risk. The consumer credit risk premium has historically been comparable to high yield corporate bond spreads, but has increased dramatically since the financial crisis. We find evidence that this increase is primarily due to balance-sheet costs imposed by recent changes in regulatory capital requirements which have effectively placed credit card securitizations back onto issuer balance sheets. These changes in capital regulation may have added hundreds of basis points to the cost of unsecured household credit. 
+
+
 + [Treasury Yield Implied Volatility and Real Activity (2021)](https://doi.org/10.1016/j.jfineco.2020.12.009)  
   - *With Priyank Gandhi and Martijn Cremers*
   - __Journal of Financial Economics__, Volume 140, Issue 2, May 2021, 412--435.
@@ -59,6 +69,7 @@ Associate, 2013 -- 2016.
 + [Renting Balance Sheet Space: Intermediary Balance Sheet Rental Costs and the Valuation of Derivatives (2020)](https://doi.org/10.1093/rfs/hhaa033)  
   - *With Francis A. Longstaff*
   - __Review of Financial Studies__, Volume 33, Issue 11, 2020, 5051--5091. 
+  - [UCLA Anderson Review](https://anderson-review.ucla.edu/banks-rent-out-their-balance-sheets-so-derivatives-cost-more/), Research Brief, featured article November 17, 2021.
   : **Abstract:**  
    A long-standing asset pricing puzzle is that the funding rates in derivatives contracts often differ from those in cash markets. We propose that the cost of renting intermediary balance sheet space may help resolve this puzzle. We study a persistent basis in what is arguably the largest derivatives market, namely, the interest rate futures market. This basis is strongly related to exogenous measures of intermediary balance sheet usage and proxies for the balance sheet costs imposed by debt overhang problems and capital regulation. These results extend to the cash derivatives bases documented in many of the other largest financial markets.
 
@@ -102,15 +113,6 @@ Associate, 2013 -- 2016.
   - NBER Working Paper 29081, 2021. 
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/treasury-securities-are-actually-cheap-sometimes/), Research Brief, featured article August 18, 2021.
   : **Abstract:** It is widely believed that Treasuries trade at premium prices because of their safety and money-like properties. In reality, this is only true on a relative basis when compared to other bonds, but is often not true on an absolute basis. Many Treasuries have repeatedly traded at substantial discounts to their intrinsic fair values for extended periods during the past 25 years. Since 2015, Treasuries have consistently been priced at an aggregate discount of $100 to $300 billion below their fair values. Treasuries often actually become cheaper following crises. These results provide new perspectives on safe-asset theories.
-
-
-+ [The Market Risk Premium for Unsecured Consumer Credit Risk](http://www.nber.org/papers/w28029)  
-  - *With Francis A. Longstaff*
-  - __Revise and Resubmit at Review of Financial Studies.__
-  - NBER Working Paper 28029, 2020.
-  - NBER Featured Working Papers, January 14, 2021.
-  - [UCLA Anderson Review](https://anderson-review.ucla.edu/did-bank-capital-rules-make-credit-card-borrowing-more-expensive/), Research Brief, featured article December 16, 2020.
-  : **Abstract:** We use the prices of credit card asset-backed securities to study the market risk premium associated with unsecured consumer credit risk. The consumer credit risk premium has historically been comparable to high yield corporate bond spreads, but has increased dramatically since the financial crisis. We find evidence that this increase is primarily due to balance-sheet costs imposed by recent changes in regulatory capital requirements which have effectively placed credit card securitizations back onto issuer balance sheets. These changes in capital regulation may have added hundreds of basis points to the cost of unsecured household credit. 
 
 
 + [Private Equity Returns: Empirical Evidence from the Business Credit Card Securitization Market](https://www.nber.org/papers/w28134)  
