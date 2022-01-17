@@ -198,12 +198,12 @@ Associate, 2013 -- 2016.
 <br />
 
 ## Invited Discussions
-+ Easter Finance Associtaion (EFA) 2021 Annual Meeting
++ Eastern Finance Associtaion (EFA) 2021 Annual Meeting
 : Does Liquidity Management Induce Fragility in Treasury Prices?
   Evidence from Bond Mutual Funds
   (by Shiyang Huang, Xiaoxi Liu, Xin Liu, Wenxi Jiang)
 
-+ Chicago Financial Institutions Conference
++ Chicago Financial Institutions Conference 2020
 : Zombie Credit and (Dis)-Inflation: Evidence from Europe
   (by Viral V. Acharya, Matteo Crosignani, Tim Eisert, Christian Eufinger)
 
@@ -254,6 +254,9 @@ Associate, 2013 -- 2016.
 
 ## Teaching
 + __University of Delaware__ (Instructor)
+  - FINC 672: Workshop in Finance - Empirical Research (MS; Spring 2022)
+  - FINC 462: Fixed Income Securities (Undergraduate; Spring 2022)
+  - FINC 662: Fixed Income Securities (MS; Spring 2022)
   - FINC 314: Investments (Undergraduate; Spring 2021)
   - FINC 662: Fixed Income Securities (MS; Spring 2021)
   - FINC 462: Fixed Income Securities (Undergraduate; Spring 2021)
@@ -273,9 +276,9 @@ Associate, 2013 -- 2016.
 
 ## Honors and Awards
 
-+ University of Delaware, 2020  
++ University of Delaware (2020)
   *Lerner College Outstanding Junion Faculty Award*
-+ Amundi Smith Breeden Distinguished Paper Award 2014  
++ Amundi Smith Breeden Distinguished Paper Award (2014)
   for *The TIPS--Treasury Bond Puzzle*
 + Naumann–Etienne Foundation  (2005--2007)  
   *Georgia Tech Full Scholarship*
@@ -290,7 +293,7 @@ Associate, 2013 -- 2016.
 ## Professional Activity
      
 + __Referee__  
-  American Economic Review; Economic Letters; Finance Research Letters; Financial Management;
+  American Economic Review; Economic Letters; Financial Management; Finance Research Letters; Financial Review;
   International Finance; Journal of Banking and Finance; Journal of Economic Dynamics and Control;
   Journal of Empirical Finance; Journal of Finance; Journal of Financial and Quantitative Analysis;
   Journal of Financial Intermediation; Journal of Financial Markets; Journal of Monetary Economics;
@@ -299,7 +302,7 @@ Associate, 2013 -- 2016.
   Review of Economic Studies
     
 + __Conference Program Committee__  
-  Northern Finance Association 2019--2021; 2nd Short-Term Funding Markets Conference
+  Midwest Finance Association (2022); Northern Finance Association (2019, 2020, 2021); 2nd Short-Term Funding Markets Conference (2018)
   
 + __Conference Session Chair__  
   ASSA Annual Meeting 2017 (Liquidity and Trading in Bond and Derivatives Markets I); Paris Financial Management Conference 2017 (Financial Engineering and Derivatives I)
