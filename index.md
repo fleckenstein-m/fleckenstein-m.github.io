@@ -7,7 +7,8 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 <br />
 \vskip -0.5in
 
-<!-- ![](Fleckenstein_Matthias-2016.jpg) -->
+![](Fleckenstein_Matthias-2016.jpg)
+
 
 **Matthias Fleckenstein**  
 _Assistant Professor of Finance_  
@@ -198,52 +199,52 @@ Associate, 2013 -- 2016.
 <br />
 
 ## Invited Discussions
-+ Eastern Finance Associtaion (EFA) 2021 Annual Meeting
++ Eastern Finance Associtaion (2021)
 : Does Liquidity Management Induce Fragility in Treasury Prices?
   Evidence from Bond Mutual Funds
   (by Shiyang Huang, Xiaoxi Liu, Xin Liu, Wenxi Jiang)
 
-+ Chicago Financial Institutions Conference 2020
++ Chicago Financial Institutions Conference (2020)
 : Zombie Credit and (Dis)-Inflation: Evidence from Europe
   (by Viral V. Acharya, Matteo Crosignani, Tim Eisert, Christian Eufinger)
 
-+ Paris December Finance Meeting 2019
++ Paris December Finance Meeting (2019)
 : Overcoming Arbitrage Limits: Option Trading and Momentum Returns  
   (by A. Abhyankar, I. Filippou, P. A. Garcia-Ares, and O. Haykir) 
 	
-+ Paris Financial Management Conference 2019
++ Paris Financial Management Conference (2019)
 : Price bias and common practice in option Pricing  
   (by J.-F. B&#233;gin and G. Gauthier)
 	
-+ Northern Finance Association Meeting 2019
++ Northern Finance Association Meeting (2019)
 : Default Risk and the Pricing of U.S. Sovereign Bonds
   (by R. Dittmar, A. Hsu, G. Roussellet, P. Simasek)
 	
-+ Midwest Finance Association Annual Conference 2019
++ Midwest Finance Association Annual Conference (2019)
 : A Result and Finding to Differentiate Among Models of Term-Structure and Interest-Rate Claims  
   (by G. Bakshi, J. Crosby, X. Gao Bakshi)
 
-+ Paris Financial Management Conference 2018
++ Paris Financial Management Conference (2018)
 : A Day Late and a Dollar Short: Liquidity and Household Formation among Student Borrowers  
   (by S. Goodman, A. Isen, and C. Yannelis)
 
-+ 2nd Short-Term Funding Markets Conference
++ 2nd Short-Term Funding Markets Conference (2018)
 : Liquidity Risk and Funding Cost  
   (by A. Bechtel, A. Ranaldo, and J. Wrampelmeyer)
 	  
-+ Eastern Finance Association Annual Meeting 2018
++ Eastern Finance Association Annual Meeting (2018)
 : R&D Investment Intensity and Jump Volatility of Stock Prices  
   (by C. Jiang, J. Kose, and D. Larsen)
 	  
-+ Paris Financial Management Conference 2017
++ Paris Financial Management Conference (2017)
 : The Volatility-of-Volatility Term Structure  
   (by N. Brager, H. H{\"u}lsbusch, and A. Kraftschnik)
 	  
-+ Northern Finance Association Conference 2017
++ Northern Finance Association Conference (2017)
 : Basel III LCR: A Regulatory Shock on a Bank and Beyond  
   (by Y. K. Gam)
 	  
-+ Western Finance Association Annual Meeting 2016
++ Western Finance Association Annual Meeting (2016)
 : The Invisible Hand of the Government: Moral Suasion During the European Debt Crisis  
   (by A. Popov, S. Ongena, and N. van Horen)
 
