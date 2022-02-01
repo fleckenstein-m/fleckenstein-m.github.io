@@ -277,6 +277,8 @@ Associate, 2013 -- 2016.
 
 ## Honors and Awards
 
++ University of Delaware (2022--)
+  *SWUFE-UD Joint Institute Fellow*
 + University of Delaware (2020)
   *Lerner College Outstanding Junion Faculty Award*
 + Amundi Smith Breeden Distinguished Paper Award (2014)
