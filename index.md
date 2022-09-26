@@ -11,7 +11,7 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 
 
 **Matthias Fleckenstein**  
-_Assistant Professor of Finance_  
+_Associate Professor of Finance_  
 University of Delaware  
 Lerner College of Business and Economics  
 310 Purnell Hall, Newark, Delaware 19716  
@@ -23,7 +23,10 @@ Website: [http://www.mfleckenstein.com](http://www.mfleckenstein.com)
 
 # Employment
 + **Lerner College of Business and Economics, University of Delaware**  
-  Assistant Professor of Finance, 2016 -- Present.
+  Associate Professor of Finance, 2022 -- Present.
+
++ **Lerner College of Business and Economics, University of Delaware**  
+  Assistant Professor of Finance, 2016 -- 2022.
 
 + **Cornerstone Research, New York**  
 Associate, 2013 -- 2016.   
@@ -50,10 +53,17 @@ Associate, 2013 -- 2016.
 
 ## Published and Forthcoming Papers
 
-
-+ [The Market Risk Premium for Unsecured Consumer Credit Risk](https://doi.org/10.1093/rfs/hhac002)  
++ [Private Equity Returns: Empirical Evidence from the Business Credit Card Securitization Market (2022)](https://www.nber.org/papers/w28134)  
   - *With Francis A. Longstaff*
-  - __Review of Financial Studies,__ forthcoming.
+  - __Accepted at the Journal of Finance.__
+  - NBER Working Paper 28134, 2020.
+  - [UCLA Anderson Review](https://anderson-review.ucla.edu/borrowings-suggest-small-company-owners-face-higher-risk/), Research Brief, featured article July 28, 2021.
+  : **Abstract:** We present a new approach for estimating private equity returns using secondary market prices for entrepreneurial business credit card securitizations. We show that the market requires a significantly higher premium for entrepreneurial credit risk than for household credit risk. Entrepreneurial risk is systematic in nature and has much in common with risks in corporate bond and real-estate-backed lending markets. The expected return on private equity is on the order of 14 percent and the volatility of private equity returns is comparable to that of the smallest quintile of publicly traded firms.
+
+
++ [The Market Risk Premium for Unsecured Consumer Credit Risk (2022)](https://academic.oup.com/rfs/article/35/10/4756/6500307)  
+  - *With Francis A. Longstaff*
+  - __Review of Financial Studies__, Volume 35, Issue 10, October 2022, 4756--4801.
   - NBER Working Paper 28029, 2020.
   - NBER Featured Working Papers, January 14, 2021.
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/did-bank-capital-rules-make-credit-card-borrowing-more-expensive/), Research Brief, featured article December 16, 2020.
@@ -111,17 +121,10 @@ Associate, 2013 -- 2016.
 ## Working Papers
 + [Treasury Richness](https://www.nber.org/papers/w29081) 
   - *With Francis A. Longstaff*
+  - Revise and Resubmit at Journal of Finance.
   - NBER Working Paper 29081, 2021. 
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/treasury-securities-are-actually-cheap-sometimes/), Research Brief, featured article August 18, 2021.
   : **Abstract:** It is widely believed that Treasuries trade at premium prices because of their safety and money-like properties. In reality, this is only true on a relative basis when compared to other bonds, but is often not true on an absolute basis. Many Treasuries have repeatedly traded at substantial discounts to their intrinsic fair values for extended periods during the past 25 years. Since 2015, Treasuries have consistently been priced at an aggregate discount of $100 to $300 billion below their fair values. Treasuries often actually become cheaper following crises. These results provide new perspectives on safe-asset theories.
-
-
-+ [Private Equity Returns: Empirical Evidence from the Business Credit Card Securitization Market](https://www.nber.org/papers/w28134)  
-  - *With Francis A. Longstaff*
-  - __Revise and Resubmit at Journal of Finance.__
-  - NBER Working Paper 28134, 2020.
-  - [UCLA Anderson Review](https://anderson-review.ucla.edu/borrowings-suggest-small-company-owners-face-higher-risk/), Research Brief, featured article July 28, 2021.
-  : **Abstract:** We present a new approach for estimating private equity returns using secondary market prices for entrepreneurial business credit card securitizations. We show that the market requires a significantly higher premium for entrepreneurial credit risk than for household credit risk. Entrepreneurial risk is systematic in nature and has much in common with risks in corporate bond and real-estate-backed lending markets. The expected return on private equity is on the order of 14 percent and the volatility of private equity returns is comparable to that of the smallest quintile of publicly traded firms.
 
 
 + [Tax Policy Uncertainty and Asset Prices: Evidence from Dual-class Corporate Bonds in the Early 20th Century](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3364309)  
@@ -199,6 +202,10 @@ Associate, 2013 -- 2016.
 <br />
 
 ## Invited Discussions
++ Fixed Income and Financial Institutions (FIFI) 2022
+: Intermediary Balance Sheets and the Treasury Yield Curve
+  (by Wenxin Du, Benjamin Hébert, Wenhao Li)
+
 + Eastern Finance Associtaion (2021)
 : Does Liquidity Management Induce Fragility in Treasury Prices?
   Evidence from Bond Mutual Funds
@@ -305,7 +312,7 @@ Associate, 2013 -- 2016.
   Review of Economic Studies
     
 + __Conference Program Committee__  
-  Midwest Finance Association (2022); Northern Finance Association (2019, 2020, 2021); 2nd Short-Term Funding Markets Conference (2018)
+  Midwest Finance Association (2022); Northern Finance Association (2019, 2020, 2021, 2022); 2nd Short-Term Funding Markets Conference (2018)
   
 + __Conference Session Chair__  
   ASSA Annual Meeting 2017 (Liquidity and Trading in Bond and Derivatives Markets I); Paris Financial Management Conference 2017 (Financial Engineering and Derivatives I)
@@ -316,7 +323,7 @@ Associate, 2013 -- 2016.
   Midwest Finance Association; Northern Finance Association
 
 + __University Service__  
-  Faculty Recruiting Committee; FinTech Committee; M.S. Finance Program Committee
+  Faculty Recruiting Committee; FinTech Committee; M.S. Finance Program Committee; Faculty Senate (2022); Undergraduate Curriculum Committee
 
 
 <br />
@@ -329,20 +336,4 @@ Associate, 2013 -- 2016.
 
 
 <br />
-
-# Biography
-
-I am Assistant Professor of Finance at the University of Delaware. My research interests include the role of arbitrage in financial markets, fixed income markets, term structure theory, derivative securities, and credit risk.  
-
-My research has been published in top finance journals including the Journal of Finance, the Review of Financial Studies, and the Journal of Financial Economics. Several of my recent research papers have focused on frictions in financial markets that give rise to violations of the law of one price.  
-
-My joint work with Francis A. Longstaff and Hanno Lustig on the U.S. Treasury bond and Treasury Inflation Protected Securities (TIPS) markets was awarded the 2014 Amundi Smith Breeden, and was featured in the Financial Times, and the Economist. I am a frequent speaker at academic conferences, practitioner seminars, and regulatory agencies (CFTC).  
-
-Prior to joining the University of Delaware, I worked as Associate at Cornerstone Research in New York on legal cases involving the valuation of over-the-counter and exchange-traded financial securities, including credit default swaps, foreign exchange and interest rate derivatives, and commodity-linked instruments.  
-
-I have a Ph.D. in Finance from the Anderson School at UCLA, and also Masters’ Degrees in Financial Engineering, Business Administration (MBA), and Industrial Engineering. I have experience teaching at the undergraduate, MBA, and executive education levels.
-
-
-
-
 
