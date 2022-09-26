@@ -1,5 +1,8 @@
 For pdf (no picture), comment out line 10
 Active line /*white-space: pre-wrap;*/ in style.css file
+
+Make sure to set line-ending to LF encoding (not CRLF).
+
 Run: 
 git add .
 git comitt --all
