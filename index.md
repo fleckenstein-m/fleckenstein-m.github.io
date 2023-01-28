@@ -53,9 +53,9 @@ Associate, 2013 -- 2016.
 
 ## Published and Forthcoming Papers
 
-+ [Private Equity Returns: Empirical Evidence from the Business Credit Card Securitization Market (2022)](https://www.nber.org/papers/w28134)  
++ [Private Equity Returns: Empirical Evidence from the Business Credit Card Securitization Market (2022)](http://dx.doi.org/10.1111/jofi.13200)  
   - *With Francis A. Longstaff*
-  - __Accepted at the Journal of Finance.__
+  - __Journal of Finance__, Volume 78, Issue 1, February 2023.
   - NBER Working Paper 28134, 2020.
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/borrowings-suggest-small-company-owners-face-higher-risk/), Research Brief, featured article July 28, 2021.
   : **Abstract:** We present a new approach for estimating private equity returns using secondary market prices for entrepreneurial business credit card securitizations. We show that the market requires a significantly higher premium for entrepreneurial credit risk than for household credit risk. Entrepreneurial risk is systematic in nature and has much in common with risks in corporate bond and real-estate-backed lending markets. The expected return on private equity is on the order of 14 percent and the volatility of private equity returns is comparable to that of the smallest quintile of publicly traded firms.
@@ -149,6 +149,11 @@ Associate, 2013 -- 2016.
 # Conferences
 
 ## Invited Seminars and Conference Presentations
+
++ Treasury Richness
+  - *Seminars*  
+  UCLA&#8224;, PBC School of Finance at Tsinghua University&#8224;, Fixed Income Forum 2022 (Santa Barbara)&#8224;, The Linde Institute at the California Institute of Technology&#8224;, 
+  Trulaske College of Business at the University of Missouri&#8224;,
 
 + The Market Risk Premium for Unsecured Consumer Credit Risk
   - *Conferences*  
@@ -303,7 +308,7 @@ Associate, 2013 -- 2016.
 ## Professional Activity
      
 + __Referee__  
-  American Economic Review; Economic Letters; Financial Management; Finance Research Letters; Financial Review;
+  American Economic Review; Applied Economic Letters; Economics Letters; Financial Management; Finance Research Letters; Financial Review;
   International Finance; Journal of Banking and Finance; Journal of Economic Dynamics and Control;
   Journal of Empirical Finance; Journal of Finance; Journal of Financial and Quantitative Analysis;
   Journal of Financial Intermediation; Journal of Financial Markets; Journal of Monetary Economics;
@@ -323,7 +328,8 @@ Associate, 2013 -- 2016.
   Midwest Finance Association; Northern Finance Association
 
 + __University Service__  
-  Faculty Recruiting Committee; FinTech Committee; M.S. Finance Program Committee; Faculty Senate (2022); Undergraduate Curriculum Committee
+  Faculty Recruiting Committee; FinTech Committee; M.S. Finance Program Committee; Faculty Senate (2022); Undergraduate Curriculum Committee;
+  Continuing-Track Recruiting Committee Chair (2022)
 
 
 <br />
