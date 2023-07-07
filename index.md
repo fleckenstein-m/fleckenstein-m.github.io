@@ -9,7 +9,6 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 
 ![](Fleckenstein_Matthias-2016.jpg)
 
-
 **Matthias Fleckenstein**  
 _Associate Professor of Finance_  
 University of Delaware  
@@ -119,6 +118,12 @@ Associate, 2013 -- 2016.
 <br />
 
 ## Working Papers
++ [Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes?](https://www.nber.org/papers/w31389)
+  - *With Francis A. Longstaff*
+  - NBER Working Paper 31389, 2023. 
+  : **Abstract:** We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. These results suggest that investors are willing to pay a substantial premium to avoid taxes.
+
+
 + [Treasury Richness](https://www.nber.org/papers/w29081) 
   - *With Francis A. Longstaff*
   - Revise and Resubmit at Journal of Finance.
@@ -138,10 +143,9 @@ Associate, 2013 -- 2016.
 
 ## Citations
 + Google Scholar
-  415 (as of April 2021)
+  595 (as of July 2023)
 + Web of Science
-  _Published citing published_: 74 (as of April 2021)
-  _Cited references_: 115 (as of April 2021)
+  _Cited references_: 151 (as of July 2023)
 	
 
 <br />
@@ -150,10 +154,14 @@ Associate, 2013 -- 2016.
 
 ## Invited Seminars and Conference Presentations
 
++ Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes?
+  - *Seminars*  
+  UCLA&#8224;, University of Virginia Darden School of Business&#8224;
+
 + Treasury Richness
   - *Seminars*  
   UCLA&#8224;, PBC School of Finance at Tsinghua University&#8224;, Fixed Income Forum 2022 (Santa Barbara)&#8224;, The Linde Institute at the California Institute of Technology&#8224;, 
-  Trulaske College of Business at the University of Missouri&#8224;,
+  Trulaske College of Business at the University of Missouri&#8224;
 
 + The Market Risk Premium for Unsecured Consumer Credit Risk
   - *Conferences*  
@@ -267,6 +275,12 @@ Associate, 2013 -- 2016.
 
 ## Teaching
 + __University of Delaware__ (Instructor)
+  - UD/ISCTE-IUL Trading and Bloomberg Program (2023): Seminar on the TIPS-Treasury Bond Puzzle
+  - FINC 672: Workshop in Finance - Empirical Research (MS; Spring 2023)
+  - FINC 462: Fixed Income Securities (Undergraduate; Spring 2023)
+  - FINC 662: Fixed Income Securities (MS; Spring 2023)
+  - UD/ISCTE-IUL Trading and Bloomberg Program (2022): Seminar on the TIPS-Treasury Bond Puzzle
+  - Seminar on the TIPS-Treasury Bond Puzzle for the SWUFE-UD Joint Institute (2022)
   - FINC 672: Workshop in Finance - Empirical Research (MS; Spring 2022)
   - FINC 462: Fixed Income Securities (Undergraduate; Spring 2022)
   - FINC 662: Fixed Income Securities (MS; Spring 2022)
@@ -317,7 +331,7 @@ Associate, 2013 -- 2016.
   Review of Economic Studies
     
 + __Conference Program Committee__  
-  Midwest Finance Association (2022); Northern Finance Association (2019, 2020, 2021, 2022); 2nd Short-Term Funding Markets Conference (2018)
+  Midwest Finance Association (2022); Northern Finance Association (2019, 2020, 2021, 2022, 2023); 2nd Short-Term Funding Markets Conference (2018)
   
 + __Conference Session Chair__  
   ASSA Annual Meeting 2017 (Liquidity and Trading in Bond and Derivatives Markets I); Paris Financial Management Conference 2017 (Financial Engineering and Derivatives I)
@@ -328,9 +342,11 @@ Associate, 2013 -- 2016.
   Midwest Finance Association; Northern Finance Association
 
 + __University Service__  
-  Faculty Recruiting Committee; FinTech Committee; M.S. Finance Program Committee; Faculty Senate (2022); Undergraduate Curriculum Committee;
-  Continuing-Track Recruiting Committee Chair (2022)
-
+  Faculty Senate (2022, 2023); Continuing-Track Recruiting Committee Chair (2022); Lerner College of Business and Economics Organization Committee (2021, 2022, 2023); 
+  Faculty Recruiting Committee; FinTech Committee; M.S. Finance Program Committee; Undergraduate Curriculum Committee
+  
++ __Other__  
+  Review of Proposal No.~1231858 for 2023 Regular Fondecyt National Projects Competition
 
 <br />
 
