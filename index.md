@@ -121,6 +121,7 @@ Associate, 2013 -- 2016.
 + [Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes?](https://www.nber.org/papers/w31389)
   - *With Francis A. Longstaff*
   - NBER Working Paper 31389, 2023. 
+  - [UCLA Anderson Review](https://anderson-review.ucla.edu/muni-bond-buyers-pay-a-little-extra-for-the-pleasure-of-not-being-taxed/), Research Brief, featured article August 2, 2023.
   : **Abstract:** We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. These results suggest that investors are willing to pay a substantial premium to avoid taxes.
 
 
