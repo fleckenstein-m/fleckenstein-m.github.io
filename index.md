@@ -121,6 +121,7 @@ Associate, 2013 -- 2016.
 + [Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes?](https://www.nber.org/papers/w31389)
   - *With Francis A. Longstaff*
   - NBER Working Paper 31389, 2023. 
+  - [The Wall Street Journal](https://www.wsj.com/finance/investing/municipal-bonds-tax-free-price-74d4bbcf)
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/muni-bond-buyers-pay-a-little-extra-for-the-pleasure-of-not-being-taxed/), Research Brief, featured article August 2, 2023.
   : **Abstract:** We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. These results suggest that investors are willing to pay a substantial premium to avoid taxes.
 
@@ -157,7 +158,7 @@ Associate, 2013 -- 2016.
 
 + Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes?
   - *Seminars*  
-  UCLA&#8224;, University of Virginia Darden School of Business&#8224;
+  EUROFIDAI-ESSEC Paris December Finance Meeting 2023;, Fixed Income and Financial Institutions Conference 2023 (FIFI);, BYU Marriott School of Business&#8224;, NYU Stern School of Business&#8224;, UCLA&#8224;, University of Virginia Darden School of Business&#8224;
 
 + Treasury Richness
   - *Seminars*  
@@ -216,6 +217,10 @@ Associate, 2013 -- 2016.
 <br />
 
 ## Invited Discussions
++ EUROFIDAI-ESSEC Paris December Finance Meeting 2023
+: Robust difference-in-differences analysis when there is a term structure 
+  (by Kjell G. Nyborg and Jiri Woschitz)
+
 + Fixed Income and Financial Institutions (FIFI) 2022
 : Intermediary Balance Sheets and the Treasury Yield Curve
   (by Wenxin Du, Benjamin Hébert, Wenhao Li)
@@ -332,7 +337,7 @@ Associate, 2013 -- 2016.
   Review of Economic Studies
     
 + __Conference Program Committee__  
-  Midwest Finance Association (2022); Northern Finance Association (2019, 2020, 2021, 2022, 2023); 2nd Short-Term Funding Markets Conference (2018)
+  Midwest Finance Association (2022, 2023, 2024); Northern Finance Association (2019, 2020, 2021, 2022, 2023); 2nd Short-Term Funding Markets Conference (2018)
   
 + __Conference Session Chair__  
   ASSA Annual Meeting 2017 (Liquidity and Trading in Bond and Derivatives Markets I); Paris Financial Management Conference 2017 (Financial Engineering and Derivatives I)
@@ -343,12 +348,12 @@ Associate, 2013 -- 2016.
   Midwest Finance Association; Northern Finance Association
 
 + __University Service__  
-  Faculty Senate (2022, 2023); Continuing-Track Recruiting Committee Chair (2022); Lerner College of Business and Economics Organization Committee (2021, 2022, 2023); 
-  Faculty Recruiting Committee; FinTech Committee; M.S. Finance Program Committee; Undergraduate Curriculum Committee
+  Faculty Senate (2022, 2023); FinTech Committee (2020, 2023); Lerner College of Business and Economics Organization Committee (2021, 2022, 2023); 
+  Continuing-Track Recruiting Committee Chair (2022); Undergraduate Curriculum Committee (2022); Faculty Recruiting Committee (2018, 2019); M.S. Finance Program Committee
   
 + __Other__  
-  Review of Proposal No.~1231858 for 2023 Regular Fondecyt National Projects Competition
-
+  Review of Proposal No. 1231858 for 2023 Regular Fondecyt National Projects Competition
+  
 <br />
 
 ## Additional Information
