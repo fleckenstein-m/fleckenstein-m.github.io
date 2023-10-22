@@ -52,7 +52,7 @@ Associate, 2013 -- 2016.
 
 ## Published and Forthcoming Papers
 
-+ [Private Equity Returns: Empirical Evidence from the Business Credit Card Securitization Market (2022)](http://dx.doi.org/10.1111/jofi.13200)  
++ [Private Equity Returns: Empirical Evidence from the Business Credit Card Securitization Market (2023)](http://dx.doi.org/10.1111/jofi.13200)  
   - *With Francis A. Longstaff*
   - __Journal of Finance__, Volume 78, Issue 1, February 2023.
   - NBER Working Paper 28134, 2020.
