@@ -9,6 +9,7 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 
 ![](Fleckenstein_Matthias-2016.jpg)
 
+
 **Matthias Fleckenstein**  
 _Associate Professor of Finance_  
 University of Delaware  
@@ -58,7 +59,6 @@ Associate, 2013 -- 2016.
   - Accepted at __Journal of Finance__.
   - NBER Working Paper 29081, 2021. 
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/treasury-securities-are-actually-cheap-sometimes/), Research Brief, featured article August 18, 2021.
-  - *Abstract*
   : We provide estimates of Treasury convenience premia across the entire term structure of Treasury bills, notes, and bonds over more than a quarter of a century and
     document a variety of key stylized facts about their time-series and cross-sectional patterns. These results raise concerns about the evolving nature of Treasury markets
     and suggest that investors may now place less weight on the traditional role of Treasury securities as liquid trading vehicles. These stylized facts provide empirical
@@ -70,7 +70,6 @@ Associate, 2013 -- 2016.
   - __Journal of Finance__, Volume 78, Issue 1, February 2023.
   - NBER Working Paper 28134, 2020.
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/borrowings-suggest-small-company-owners-face-higher-risk/), Research Brief, featured article July 28, 2021.
-  - *Abstract*
   : We present a new approach for estimating private equity returns using secondary market prices for entrepreneurial business credit card securitizations. We show that the market requires a significantly higher premium for entrepreneurial credit risk than for household credit risk. Entrepreneurial risk is systematic in nature and has much in common with risks in corporate bond and real-estate-backed lending markets. The expected return on private equity is on the order of 14 percent and the volatility of private equity returns is comparable to that of the smallest quintile of publicly traded firms.
 
 
@@ -80,14 +79,12 @@ Associate, 2013 -- 2016.
   - NBER Working Paper 28029, 2020.
   - NBER Featured Working Papers, January 14, 2021.
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/did-bank-capital-rules-make-credit-card-borrowing-more-expensive/), Research Brief, featured article December 16, 2020.
-  - *Abstract*
   : We use the prices of credit card asset-backed securities to study the market risk premium associated with unsecured consumer credit risk. The consumer credit risk premium has historically been comparable to high yield corporate bond spreads, but has increased dramatically since the financial crisis. We find evidence that this increase is primarily due to balance-sheet costs imposed by recent changes in regulatory capital requirements which have effectively placed credit card securitizations back onto issuer balance sheets. These changes in capital regulation may have added hundreds of basis points to the cost of unsecured household credit. 
 
 
 + [Treasury Yield Implied Volatility and Real Activity (2021)](https://doi.org/10.1016/j.jfineco.2020.12.009)  
   - *With Priyank Gandhi and Martijn Cremers*
   - __Journal of Financial Economics__, Volume 140, Issue 2, May 2021, 412--435.
-  - *Abstract*
   : We show that at-the-money implied volatility of options on futures of 5-year Treasury notes (Treasury ‘yield implied volatility’) predicts both the growth rate and volatility of gross domestic product, as well as of other macroeconomic variables, like industrial production, consumption, and employment. This predictability is robust to controlling for the term spread, credit spread, stock returns, stock market implied volatility, and several other variables that prior literature showed to predict macroeconomic activity. Our results indicate that Treasury yield implied volatility is a useful forward-looking state variable to characterize risks and opportunities in the macro economy.
 
 
@@ -95,28 +92,24 @@ Associate, 2013 -- 2016.
   - *With Francis A. Longstaff*
   - __Review of Financial Studies__, Volume 33, Issue 11, 2020, 5051--5091. 
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/banks-rent-out-their-balance-sheets-so-derivatives-cost-more/), Research Brief, featured article November 17, 2021.
-  - *Abstract*  
   : A long-standing asset pricing puzzle is that the funding rates in derivatives contracts often differ from those in cash markets. We propose that the cost of renting intermediary balance sheet space may help resolve this puzzle. We study a persistent basis in what is arguably the largest derivatives market, namely, the interest rate futures market. This basis is strongly related to exogenous measures of intermediary balance sheet usage and proxies for the balance sheet costs imposed by debt overhang problems and capital regulation. These results extend to the cash derivatives bases documented in many of the other largest financial markets.
 
 
 + [The Treasury Floating Rate Note Puzzle: Is there a Premium for Mark-to-Market Stability? (2020)](https://doi.org/10.1016/j.jfineco.2020.04.006)  
   - *With Francis A. Longstaff*
   - __Journal of Financial Economics__, Volume 137, Issue 3, 2020, 637--658.
-  - *Abstract*
   : We find that Treasury floating rate notes (FRNs) trade at a significant premium relative to the prices of Treasury bills and notes. This premium is directly related to the near-constant nature of FRN prices and is correlated with measures reflecting investor demand for safe assets. Money market funds are often the primary investors in FRNs, and the FRN premium is related to flows into funds with fixed net asset values, but not to flows into funds with variable net asset values. These results provide strong evidence that the FRN premium represents a convenience yield for the mark-to-market stability feature of FRNs.  
   
 
 + [Corporate Taxes and Capital Structure: A Long-Term Historical Perspective (2020)](http://dx.doi.org/10.1561/104.00000069)
   - *With Francis A. Longstaff and Ilya A. Strebulaev*
   - __Critical Finance Review__, Volume 9: No. 1--2, 2020, 1--28.
-  - *Abstract*
   : We study the time series relation between leverage and corporate tax rates using an extensive data set constructed from all corporate income tax returns filed with the Internal Revenue Service from 1926 to 2013. This data set includes financial statement data from millions of private and public corporations. We find strong evidence that changes in corporate leverage are directly related to changes in corporate tax rates for all but the smallest firms. These results are robust to the inclusion of control variables for the costs of financial distress, corporate liquidity, and capital market and macroeconomic conditions. Furthermore, the results hold for both financial and nonfinancial firms as well as for different measures of firm leverage and the marginal corporate income tax rate. An increase in the marginal corporate tax rate of 1% translates into a 0.15% increase in corporate leverage, representing a $132 billion increase in aggregate leverage based on current values.
 
 
 + [Deflation Risk (2017)](https://doi.org/10.1093/rfs/hhx021)  
   - *With Francis A. Longstaff and Hanno Lustig*
   - __Review of Financial Studies__, Volume 30, Issue 8, 2017, 2719--2760.
-  - *Abstract*
   : We study the nature of deflation risk by extracting the objective distribution of inflation from the market prices of inflation swaps and options. We find that the market expects inflation to average about 2.5% over the next 30 years. Despite this, the market places substantial weight on deflation scenarios in which prices significantly decline over extended horizons. The market prices the economic tail risk of deflation similarly to other types of tail risks, such as corporate default or catastrophic insurance losses. We find that deflation risk is strongly negatively correlated with outcomes in the financial markets and with consumer confidence.
 
 
@@ -124,7 +117,6 @@ Associate, 2013 -- 2016.
   - *With Francis A. Longstaff and Hanno Lustig*
   - __Journal of Finance__, Volume 69, Issue 5, 2014, 2151--2197.
   - **_Winner of the Amundi Smith Breeden Award 2014_**
-  - *Abstract*
   : We show that the price of a Treasury bond and an inflation‐swapped Treasury Inflation‐Protected Securities (TIPS) issue exactly replicating the cash flows of the Treasury bond can differ by more than $20 per $100 notional. Treasury bonds are almost always overvalued relative to TIPS. Total TIPS‐Treasury mispricing has exceeded $56 billion, representing nearly 8% of the total amount of TIPS outstanding. We find direct evidence that the mispricing narrows as additional capital flows into the markets. This provides strong support for the slow-moving-capital explanation of arbitrage persistence.
 
 <br />
@@ -142,13 +134,11 @@ Associate, 2013 -- 2016.
   - NBER Working Paper 31389, 2023. 
   - [The Wall Street Journal](https://www.wsj.com/finance/investing/municipal-bonds-tax-free-price-74d4bbcf)
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/muni-bond-buyers-pay-a-little-extra-for-the-pleasure-of-not-being-taxed/), Research Brief, featured article August 2, 2023.
-  - *Abstract*
   : We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. These results suggest that investors are willing to pay a substantial premium to avoid taxes.
 
 + [Tax Policy Uncertainty and Asset Prices: Evidence from Dual-class Corporate Bonds in the Early 20th Century](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3364309)  
   - *With Priyank Gandhi and Pengjie Gao*
   - Working Paper. 2020.
-  - *Abstract*
   : Little is known about how the risk of unexpected changes in tax policy is priced in financial markets. We measure how tax risk affects asset prices using a novel dataset of taxable and tax-exempt corporate bonds in the 19th century, and the introduction of federal taxes as a natural experiment. Our tax risk measure is derived from bonds with a tax-exempt clause that requires firms to pay coupons to investors in full, and to pay investors’ taxes on coupons. Tax risk is pro-cyclical and is priced in the cross-section of asset returns with a statistically and economically significant positive risk premium.
 
 
@@ -169,8 +159,10 @@ Associate, 2013 -- 2016.
 ## Invited Seminars and Conference Presentations
 
 + Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes?
+  - *Conferences*  
+  EUROFIDAI-ESSEC Paris December Finance Meeting 2023, Fixed Income and Financial Institutions (FIFI) Conference 2023
   - *Seminars*  
-  Universidad de Navarra, EUROFIDAI-ESSEC Paris December Finance Meeting 2023, Fixed Income and Financial Institutions Conference 2023 (FIFI), BYU Marriott School of Business&#8224;, NYU Stern School of Business&#8224;, UCLA&#8224;, University of Virginia Darden School of Business&#8224;
+  Universidad de Navarra, BYU Marriott School of Business&#8224;, NYU Stern School of Business&#8224;, UCLA&#8224;, University of Virginia Darden School of Business&#8224;
 
 + Treasury Richness
   - *Seminars*  
@@ -233,11 +225,11 @@ Associate, 2013 -- 2016.
 : Robust difference-in-differences analysis when there is a term structure 
   (by Kjell G. Nyborg and Jiri Woschitz)
 
-+ Fixed Income and Financial Institutions (FIFI) 2022
++ Fixed Income and Financial Institutions (FIFI) Conference (2022)
 : Intermediary Balance Sheets and the Treasury Yield Curve
   (by Wenxin Du, Benjamin Hébert, Wenhao Li)
 
-+ Eastern Finance Associtaion (2021)
++ Eastern Finance Association (2021)
 : Does Liquidity Management Induce Fragility in Treasury Prices?
   Evidence from Bond Mutual Funds
   (by Shiyang Huang, Xiaoxi Liu, Xin Liu, Wenxi Jiang)
@@ -320,7 +312,8 @@ Associate, 2013 -- 2016.
 # Other
 
 ## Honors and Awards
-
++ University of Delaware (2022--)
+  Institute for Financial Services Analytics (IFSA) Affiliated Faculty
 + University of Delaware (2022--)
   *SWUFE-UD Joint Institute Fellow*
 + University of Delaware (2020)
@@ -360,8 +353,8 @@ Associate, 2013 -- 2016.
   Midwest Finance Association; Northern Finance Association
 
 + __University Service__  
-  Faculty Senate (2022, 2023); FinTech Committee (2020, 2023); Lerner College of Business and Economics Organization Committee (2021, 2022, 2023); 
-  Continuing-Track Recruiting Committee Chair (2022); Undergraduate Curriculum Committee (2022); Faculty Recruiting Committee (2018, 2019); M.S. Finance Program Committee
+  Faculty Senate (2022, 2023); Co-chair Tenure-Track Faculty Recruiting Committee (2023); Tenure-Track Faculty Recruiting Committee (2018, 2019); FinTech Committee (2020, 2023); Lerner College of Business and Economics Organization Committee (2021, 2022, 2023); 
+  Ad-hoc committee on Calculus in Finance (2023); Ad-hoc Financial Databases committee (2023); Continuing-Track Recruiting Committee Chair (2022); Undergraduate Curriculum Committee (2022);  M.S. Finance Program Committee (2018)
   
 + __Other__  
   Review of Proposal No. 1231858 for 2023 Regular Fondecyt National Projects Competition
