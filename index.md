@@ -10,6 +10,7 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 
 ![](Fleckenstein_Matthias-2016.jpg)
 
+
 **Matthias Fleckenstein**  
 _Associate Professor of Finance_  
 University of Delaware  
@@ -54,9 +55,9 @@ Associate, 2013 -- 2016.
 ## Published and Forthcoming Papers
 
 
-+ [Treasury Richness](https://www.nber.org/papers/w29081) 
++ [Treasury Richness](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13371) 
   - *With Francis A. Longstaff*
-  - Accepted at __Journal of Finance__.
+  - __Journal of Finance__, Volume 79, Issue 4, August 2024.
   - NBER Working Paper 29081, 2021. 
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/treasury-securities-are-actually-cheap-sometimes/), Research Brief, featured article August 18, 2021.
   : __Abstract__<br />
@@ -148,14 +149,33 @@ Associate, 2013 -- 2016.
   We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. These results suggest that investors are willing to pay a substantial premium to avoid taxes.
 
 
-+ [Is Maturity Transformation Risk Priced Into Bank Deposit Rates?]()
++ [Is Maturity Transformation Risk Priced Into Bank Deposit Rates?](https://www2.nber.org/papers/w32724)
+  - *With Francis A. Longstaff*
+  - NBER Working Paper 32724, 2024.
+  : __Abstract__<br />
+  We use the term structure of bank CD rates to examine whether maturity-transformation risk is
+  priced into the rates banks offer customers. We find that depositors pay a significant cost for the
+  liquidity provided by bank deposits. This cost is strongly related to the amount of maturity-transformation
+  risk that these deposit accounts create. The cost is also negatively correlated with
+  the convenience premia in Treasury markets, which suggests that households do not view deposit
+  liquidity and Treasury liquidity as perfect substitutes. The results have important implications
+  about the role of deposit franchises and market power in banking markets.
+
+
++ [Financial Sophistication and Bank Market Power]()
   - *With Francis A. Longstaff*
   : __Abstract__<br />
-  We use the term structure of bank CD rates to examine whether maturity-transformation risk is priced into the rates banks offer customers. 
-  We find that depositors pay a significant cost for the liquidity provided by bank deposits. This cost is strongly related to the amount of 
-  maturity-transformation risk that these deposit accounts create. The cost is also negatively correlated with the convenience premia in Treasury markets, 
-  which suggests that households do not view deposit liquidity and Treasury liquidity as perfect substitutes. 
-  The results have important implications about the role of deposit franchises and market power in banking markets.
+  We study the relation between bank funding costs and the financial sophistication 
+  of bank customers. In doing this, we make use of a natural
+  experiment that allows us to identify banks that price deposits in a way that
+  may induce unsophisticated customers to accept rates on time deposits that are
+  actually dominated by those available from other time deposits. We find that
+  these banks have significantly lower deposit funding costs. These results provide
+  evidence that having financially-unsophisticated customers may provide banks
+  with substantial market power and be an important component of the value of
+  a bank's deposit franchise.
+
+
 
 
 + [Tax Policy Uncertainty and Asset Prices: Evidence from Dual-class Corporate Bonds in the Early 20th Century](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3364309)  
@@ -193,7 +213,7 @@ Associate, 2013 -- 2016.
 
 + Is Maturity Transformation Risk Priced Into Bank Deposit Rates?
   - *Seminars*  
-  Korea University Business School&#8224;
+  Korea University Business School&#8224; BI Norwegian Business School
 
 + Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes?
   - *Conferences*  
