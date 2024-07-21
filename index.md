@@ -188,21 +188,11 @@ Associate, 2013 -- 2016.
 <br />
 
 
-## Work in Progress
-+ [Why do banks misprice CDs? _(Preliminary)_]()
-  : __Abstract__<br />
-  We study deposit pricing from a completely new perspective. In particular, we show that banks often offer term structures of CD rates in which 
-  the rates for some tenors are actually dominated and should not be accepted by any value-maximizing depositor. 
-  By exploring the potential reasons for this relative mispricing, our goal is to shed new light on the underlying factors that drive deposit pricing by banks.
-
-
-<br />
-
 ## Citations
 + Google Scholar
-  667 (as of April 2023)
+  685 (as of July 2024)
 + Web of Science
-  _Cited references_: 151 (as of July 2023)
+  _Citing Articles_: 151 (as of July 2024)
 	
 
 <br />
