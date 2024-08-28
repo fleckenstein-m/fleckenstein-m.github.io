@@ -149,7 +149,7 @@ Associate, 2013 -- 2016.
   We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. These results suggest that investors are willing to pay a substantial premium to avoid taxes.
 
 
-+ [Is Maturity Transformation Risk Priced Into Bank Deposit Rates?](https://www2.nber.org/papers/w32724)
++ [Is Maturity Transformation Risk Priced Into Bank Deposit Rates?](https://www.nber.org/papers/w32724)
   - *With Francis A. Longstaff*
   - NBER Working Paper 32724, 2024.
   : __Abstract__<br />
