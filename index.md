@@ -162,18 +162,14 @@ Associate, 2013 -- 2016.
   about the role of deposit franchises and market power in banking markets.
 
 
-+ [Financial Sophistication and Bank Market Power]()
++ [Financial Sophistication and Bank Market Power](https://www.nber.org/papers/w33049)
   - *With Francis A. Longstaff*
+  - NBER Working Paper 99049, 2024.
+  - [UCLA Anderson Review](https://anderson-review.ucla.edu/cd-withdrawal-penalties-often-more-than-worth-the-risk/), Research Brief, featured article November 13, 2024.
   : __Abstract__<br />
-  We study the relation between bank funding costs and the financial sophistication 
-  of bank customers. In doing this, we make use of a natural
-  experiment that allows us to identify banks that price deposits in a way that
-  may induce unsophisticated customers to accept rates on time deposits that are
-  actually dominated by those available from other time deposits. We find that
-  these banks have significantly lower deposit funding costs. These results provide
-  evidence that having financially-unsophisticated customers may provide banks
-  with substantial market power and be an important component of the value of
-  a bank's deposit franchise.
+  We study the relation between bank funding costs and the financial sophistication of bank customers. 
+  In doing this, we make use of a natural experiment that allows us to identify banks that--either intentionally or unintentionally--price time deposits in a way that can result in financially-unsophisticated customers essentially being shortchanged. 
+  We find that these banks have significantly lower deposit funding costs. These results provide evidence that having financially-unsophisticated customers may provide banks with substantial market power and be an important component of the value of a bank's deposit franchise.
 
 
 
@@ -202,6 +198,8 @@ Associate, 2013 -- 2016.
 ## Invited Seminars and Conference Presentations
 
 + Is Maturity Transformation Risk Priced Into Bank Deposit Rates?
+  - *Conferences* 
+  Fixed Income and Financial Institutions Conference (FIFI 2024);
   - *Seminars*  
   Korea University Business School&#8224; BI Norwegian Business School
 
@@ -268,6 +266,10 @@ Associate, 2013 -- 2016.
 <br />
 
 ## Invited Discussions
++ Fixed Income and Financial Institutions Conference (FIFI) 2024 
+: Dealer Capacity and US Treasury Market Functionality
+  (by Darrell Duffie, Michael Fleming, Frank Keane, Claire Nelson, Or Shachar, and Peter Van Tassel)
+
 + Financial Intermediation Research Society (FIRS) Conference 2024 
 : LTCM Redux? Hedge Fund Treasury Trading and Funding Fragility
   (by Mathias S. Kruttli, Phillip J. Monin, Lubomir Petrasek, and Sumudu W. Watugala)

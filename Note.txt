@@ -1,5 +1,5 @@
 For pdf (no picture), comment out line 10
-Active line /*white-space: pre-wrap;*/ in style.css file
+Activate line /*white-space: pre-wrap;*/ in style.css file
 
 Take out: 
 ![](Fleckenstein_Matthias-2016.jpg)
