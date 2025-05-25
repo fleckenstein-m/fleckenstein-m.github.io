@@ -4,6 +4,11 @@ Activate line /*white-space: pre-wrap;*/ in style.css file
 Take out: 
 ![](Fleckenstein_Matthias-2016.jpg)
 
+
+For html put in
+![](Fleckenstein_Matthias-2016.jpg) in line 10
+Put in /*white-space: pre-wrap;*/ in style.css file in line 223
+
 Make sure to set line-ending to LF encoding (not CRLF).
 
 Run: 

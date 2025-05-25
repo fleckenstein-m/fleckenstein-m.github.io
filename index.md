@@ -87,15 +87,15 @@ Associate, 2013 -- 2016.
 
 + [Renting Balance Sheet Space: Intermediary Balance Sheet Rental Costs and the Valuation of Derivatives (2020)](https://doi.org/10.1093/rfs/hhaa033)  
   - *With Francis A. Longstaff*
-  - __Review of Financial Studies__, Volume 33, Issue 11, 2020, 5051--5091. 
+  - __Review of Financial Studies__, Volume 33, Issue 11, November 2020, 5051--5091. 
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/banks-rent-out-their-balance-sheets-so-derivatives-cost-more/), Research Brief, featured article November 17, 2021.
   : __Abstract__<br />
   A long-standing asset pricing puzzle is that the funding rates in derivatives contracts often differ from those in cash markets. We propose that the cost of renting intermediary balance sheet space may help resolve this puzzle. We study a persistent basis in what is arguably the largest derivatives market, namely, the interest rate futures market. This basis is strongly related to exogenous measures of intermediary balance sheet usage and proxies for the balance sheet costs imposed by debt overhang problems and capital regulation. These results extend to the cash derivatives bases documented in many of the other largest financial markets.
 
 
-+ [The Treasury Floating Rate Note Puzzle: Is there a Premium for Mark-to-Market Stability? (2020)](https://doi.org/10.1016/j.jfineco.2020.04.006)  
++ [The U.S. Treasury Floating Rate Note Puzzle: Is there a Premium for Mark-to-Market Stability? (2020)](https://doi.org/10.1016/j.jfineco.2020.04.006)  
   - *With Francis A. Longstaff*
-  - __Journal of Financial Economics__, Volume 137, Issue 3, 2020, 637--658.
+  - __Journal of Financial Economics__, Volume 137, Issue 3, September 2020, 637--658.
   : __Abstract__<br />
   We find that Treasury floating rate notes (FRNs) trade at a significant premium relative to the prices of Treasury bills and notes. This premium is directly related to the near-constant nature of FRN prices and is correlated with measures reflecting investor demand for safe assets. Money market funds are often the primary investors in FRNs, and the FRN premium is related to flows into funds with fixed net asset values, but not to flows into funds with variable net asset values. These results provide strong evidence that the FRN premium represents a convenience yield for the mark-to-market stability feature of FRNs.  
   
@@ -109,17 +109,17 @@ Associate, 2013 -- 2016.
 
 + [Deflation Risk (2017)](https://doi.org/10.1093/rfs/hhx021)  
   - *With Francis A. Longstaff and Hanno Lustig*
-  - __Review of Financial Studies__, Volume 30, Issue 8, 2017, 2719--2760.
+  - __Review of Financial Studies__, Volume 30, Issue 8, August 2017, 2719--2760.
   : __Abstract__<br />
   We study the nature of deflation risk by extracting the objective distribution of inflation from the market prices of inflation swaps and options. We find that the market expects inflation to average about 2.5% over the next 30 years. Despite this, the market places substantial weight on deflation scenarios in which prices significantly decline over extended horizons. The market prices the economic tail risk of deflation similarly to other types of tail risks, such as corporate default or catastrophic insurance losses. We find that deflation risk is strongly negatively correlated with outcomes in the financial markets and with consumer confidence.
 
 
 + [The TIPS--Treasury Bond Puzzle (2014)](https://doi.org/10.1111/jofi.12032)  
   - *With Francis A. Longstaff and Hanno Lustig*
-  - __Journal of Finance__, Volume 69, Issue 5, 2014, 2151--2197.
+  - __Journal of Finance__, Volume 69, Issue 5, October 2014, 2151--2197.
   - **_Winner of the Amundi Smith Breeden Award 2014_**.
   : __Abstract__<br />
-  We show that the price of a Treasury bond and an inflation‐swapped Treasury Inflation‐Protected Securities (TIPS) issue exactly replicating the cash flows of the Treasury bond can differ by more than $20 per $100 notional. Treasury bonds are almost always overvalued relative to TIPS. Total TIPS‐Treasury mispricing has exceeded $56 billion, representing nearly 8% of the total amount of TIPS outstanding. We find direct evidence that the mispricing narrows as additional capital flows into the markets. This provides strong support for the slow-moving-capital explanation of arbitrage persistence.
+  We show that the price of a Treasury bond and an inflation‐swapped Treasury Inflation‐Protected Securities (TIPS) issue exactly replicating the cash flows of the Treasury bond can differ by more than $20 per $100 notional. Treasury bonds are almost always overvalued relative to TIPS. Total TIPS‐-Treasury mispricing has exceeded $56 billion, representing nearly 8% of the total amount of TIPS outstanding. We find direct evidence that the mispricing narrows as additional capital flows into the markets. This provides strong support for the slow-moving-capital explanation of arbitrage persistence.
 
 <br />
 
@@ -147,7 +147,7 @@ Associate, 2013 -- 2016.
 
 + [Financial Sophistication and Bank Market Power](https://www.nber.org/papers/w33049)
   - *With Francis A. Longstaff*
-  - NBER Working Paper 99049, 2024.
+  - NBER Working Paper 33049, 2024.
   - [UCLA Anderson Review](https://anderson-review.ucla.edu/cd-withdrawal-penalties-often-more-than-worth-the-risk/), Research Brief, featured article November 13, 2024.
   - [The Wall Street Journal](https://www.wsj.com/personal-finance/short-term-cds-long-term-investments-6da40236?mod=ig_investingmonthlyreport), April 2, 2025.
   : __Abstract__<br />
@@ -254,7 +254,7 @@ Associate, 2013 -- 2016.
   - *Seminars*  
   University of Delaware, Claremont Graduate University&#8224;, Commodity Futures Trading Commission (CFTC)&#8224;, Virtual Derivatives Workshop&#8224;, Federal Reserve Bank of San Francisco&#8224;
 
-+ The Treasury Floating Rate Note Puzzle: Is there a Premium for Mark-to-Market Stability  
++ The U.S. Treasury Floating Rate Note Puzzle: Is there a Premium for Mark-to-Market Stability  
   - *Conferences*  
 	Paris Financial Management Conference (2018), Laboratory for Aggregate Economics and Finance (LAEF) Over-the-counter Markets and Securities Workshop at the University of California Santa Barbara 2018&#8224;, 
 	Fixed Income and Financial Institutions Conference (2019), Midwest Finance Association (2019), Society for Financial Studies (SFS) Cavalcade (2019), 
@@ -377,20 +377,20 @@ Associate, 2013 -- 2016.
 
 ## Teaching
 + __University of Delaware__ (Instructor)
-  - FINC 672: Workshop in Finance - Empirical Research (MS; Spring 2025)
+  - FINC 672: Workshop in Finance--Empirical Research (MS; Spring 2025)
   - FINC 462: Fixed Income Securities (Undergraduate; Spring 2025)
   - FINC 662: Fixed Income Securities (MS; Spring 2025)
-  - UD/ISCTE-IUL Trading and Bloomberg Program (2024): Seminar on the TIPS-Treasury Bond Puzzle
-  - FINC 672: Workshop in Finance - Empirical Research (MS; Spring 2024)
+  - UD/ISCTE-IUL Trading and Bloomberg Program (2024): Seminar on the TIPS--Treasury Bond Puzzle
+  - FINC 672: Workshop in Finance--Empirical Research (MS; Spring 2024)
   - FINC 462: Fixed Income Securities (Undergraduate; Spring 2024)
   - FINC 662: Fixed Income Securities (MS; Spring 2024)
-  - UD/ISCTE-IUL Trading and Bloomberg Program (2023): Seminar on the TIPS-Treasury Bond Puzzle
-  - FINC 672: Workshop in Finance - Empirical Research (MS; Spring 2023)
+  - UD/ISCTE-IUL Trading and Bloomberg Program (2023): Seminar on the TIPS--Treasury Bond Puzzle
+  - FINC 672: Workshop in Finance--Empirical Research (MS; Spring 2023)
   - FINC 462: Fixed Income Securities (Undergraduate; Spring 2023)
   - FINC 662: Fixed Income Securities (MS; Spring 2023)
-  - UD/ISCTE-IUL Trading and Bloomberg Program (2022): Seminar on the TIPS-Treasury Bond Puzzle
-  - Seminar on the TIPS-Treasury Bond Puzzle for the SWUFE-UD Joint Institute (2022)
-  - FINC 672: Workshop in Finance - Empirical Research (MS; Spring 2022)
+  - UD/ISCTE-IUL Trading and Bloomberg Program (2022): Seminar on the TIPS--Treasury Bond Puzzle
+  - Seminar on the TIPS--Treasury Bond Puzzle for the SWUFE-UD Joint Institute (2022)
+  - FINC 672: Workshop in Finance--Empirical Research (MS; Spring 2022)
   - FINC 462: Fixed Income Securities (Undergraduate; Spring 2022)
   - FINC 662: Fixed Income Securities (MS; Spring 2022)
   - FINC 314: Investments (Undergraduate; Spring 2021)
@@ -420,7 +420,7 @@ Associate, 2013 -- 2016.
   *Lerner College Outstanding Junior Faculty Award*
 + Amundi Smith Breeden Distinguished Paper Award (2014)
   for *The TIPS--Treasury Bond Puzzle*
-+ Naumann–Etienne Foundation  (2005--2007)  
++ Naumann-Etienne Foundation  (2005--2007)  
   *Georgia Tech Full Scholarship*
 + University of Delaware Lerner College of Business and Economics (2017, 2018)  
   *Summer Research Grant*
@@ -433,13 +433,13 @@ Associate, 2013 -- 2016.
 ## Service to the Profession
      
 + __Referee__  
-  American Economic Review; Applied Economic Letters; Economics Letters; Finance Research Letters; Financial Management; Financial Review; International Finance; Journal of Banking & Finance; Journal of Economic Dynamics and Control; Journal of Empirical Finance; Journal of Finance; 
+  American Economic Review; Applied Economics Letters; Economics Letters; Finance Research Letters; Financial Management; Financial Review; International Finance; Journal of Banking & Finance; Journal of Economic Dynamics and Control; Journal of Empirical Finance; Journal of Finance; 
   Journal of Financial and Quantitative Analysis; Journal of Financial Intermediation; Journal of Financial Markets; Journal of Monetary Economics; 
-  Journal of Money, Credit and Banking; Management Science; Quarterly Journal of Economics and Finance; Review of Asset Pricing Studies; 
+  Journal of Money, Credit and Banking; Management Science; Quarterly Review of Economics and Finance; Review of Asset Pricing Studies; 
   Review of Economic Dynamics; Review of Economic Studies; Review of Economics and Statistics; Review of Finance; Review of Financial Studies
     
 + __Conference Program Committee__  
-  2nd Short-Term Funding Markets Conference (2018), Midwest Finance Association (2022, 2023, 2024, 2025); Northern Finance Association (2019, 2020, 2021, 2022, 2023, 2024); 
+  2nd Short-Term Funding Markets Conference (2018), Midwest Finance Association (2022, 2023, 2024, 2025); Northern Finance Association (2019, 2020, 2021, 2022, 2023, 2024) 
   
 + __Conference Session Chair__  
   ASSA Annual Meeting 2017 (Liquidity and Trading in Bond and Derivatives Markets I); Paris Financial Management Conference 2017 (Financial Engineering and Derivatives I); Midwest Finance Association Annual Meeting 2025 (Treasury Bonds)
@@ -455,10 +455,10 @@ Associate, 2013 -- 2016.
 
 ## Service to the University
 + M.S. Finance Program Committee (2018); Undergraduate Curriculum Committee (2022); Continuing-Track Faculty Recruiting Committee Chair (2022);
-  FinTech Committee (2020, 2023); Ad-hoc Committee on Calculus in Finance (2023); Ad-hoc Financial Databases committee (2023); 
-  Co-chair Tenure-Track Faculty Recruiting Committee (2023); Tenure-Track Faculty Recruiting Committee (2018, 2019, 2021, 2024);
+  FinTech Committee (2020, 2023); Ad-hoc Committee on Calculus in Finance (2023); Ad-hoc Financial Databases Committee (2023); 
+  Co-Chair Tenure-Track Faculty Recruiting Committee (2023); Tenure-Track Faculty Recruiting Committee (2018, 2019, 2021, 2024);
   Lerner Strategic Planning FinTech Team Leader (jointly with Gang Wang) (2024); P&T Committee Chair (2024); P&T Committee (2023, 2024, 2025); 
-  Lerner College of Business and Economics Organization Committee (2021, 2022, 2023, 2024, 2025); Faculty Senate (2022, 2023, 2024, 2025); 
+  Lerner College of Business and Economics Organization Committee (2021, 2022, 2023, 2024, 2025); Faculty Senate (2022, 2023, 2024, 2025)
     
 <br />
 
