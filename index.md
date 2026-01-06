@@ -18,17 +18,18 @@ Phone: (302) 831-4936
 Email: [mflecken@udel.edu](mailto:mflecken@udel.edu)  
 Website: [http://www.mfleckenstein.com](http://www.mfleckenstein.com)
 
+
 <br />
 
 # Employment
 + **Lerner College of Business and Economics, University of Delaware**  
-  Associate Professor of Finance, 2022 -- Present.
+  Associate Professor of Finance, 2022--Present.
 
 + **Lerner College of Business and Economics, University of Delaware**  
-  Assistant Professor of Finance, 2016 -- 2022.
+  Assistant Professor of Finance, 2016--2022.
 
 + **Cornerstone Research, New York**  
-Associate, 2013 -- 2016.   
+Associate, 2013--2016.   
 
 <br />
 
@@ -51,6 +52,14 @@ Associate, 2013 -- 2016.
 # Research
 
 ## Published and Forthcoming Papers
+
++ [Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes? (2025)](https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhaf100/8328065)
+  - *With Francis A. Longstaff*
+  - __Review of Financial Studies__, published online on November 19, 2025.
+  - [The Wall Street Journal](https://www.wsj.com/finance/investing/municipal-bonds-tax-free-price-74d4bbcf), September 3, 2023.
+  - [UCLA Anderson Review](https://anderson-review.ucla.edu/muni-bond-buyers-pay-a-little-extra-for-the-pleasure-of-not-being-taxed/), Research Brief, featured article August 2, 2023.
+  : __Abstract__<br />
+  We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. These results suggest that investors are willing to pay a substantial premium to avoid taxes.
 
 
 + [Treasury Richness (2024)](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13371) 
@@ -126,11 +135,40 @@ Associate, 2013 -- 2016.
 ## Non-Refereed Publications
 + [Inflation Adjusted Bonds and the Inflation Risk Premium](https://www.wiley.com/en-us/Handbook+of+Fixed+Income+Securities-p-9781118709191)  
   - *With Francis A. Longstaff and Hanno Lustig*
-  - __Handbook of Fixed-Income Securities__. 2016. Wiley \& Sons.
+  - __Handbook of Fixed-Income Securities__. 2016. John Wiley \& Sons.
 
 <br />
+&nbsp;
 
 ## Working Papers
+
++ [Valuing Sticky Deposits](https://www.nber.org/papers/w34641)
+  - *With Shohini Kundu and Francis A. Longstaff*
+  - NBER Working Paper 34641, 2025.
+  : __Abstract__<br />
+  We develop a formal fixed-income framework to value sticky deposits. This framework provides closed-form expressions for deposit values and allows us to study the impact of stickiness on deposit interest-rate and runoff risks. 
+  The duration of a bank deposit can be either positive or negative, which has important implications for hedging the interest-rate risk of bank balance sheets. 
+  Banks that maximize deposit value by following optimal deposit beta strategies may significantly increase their interest-rate and deposit runoff risks. 
+  We test the empirical implications of the valuation model using market deposit premia observed in bank merger/acquisition transactions. The results provide strong empirical support for the model’s predictions.
+
+
++ [Benchmark Interest Rates in the SOFR Era](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5330761)
+  - *With Sven Klingler and Olav Syrstad*
+  - Working Paper, 2025.
+  : __Abstract__<br />
+  The adoption of the Secured Overnight Financing Rate (SOFR) as the predominant floating rate for interest rate swaps introduces a new class of benchmark interest rates. Using no-arbitrage arguments, we establish three novel facts about the relationship between SOFR swap rates and other key benchmarks. First, the basis between swaps referencing the Effective Federal Funds Rate (FFR) and SOFR provides a new measure of the cost of funding Treasury positions. Second, SOFR swap spreads are less volatile and less sensitive to Treasury convenience premiums than FFR swap spreads. 
+  Third, SOFR swap spreads are positively correlated with the FFR-SOFR basis and directly reflect arbitrageurs' financing costs.
+
+
++ [The Last Days of LIBOR](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5313717)
+  - *With Sven Klingler and Olav Syrstad*
+  - Working Paper, 2025.
+  : __Abstract__<br />
+  We use the ``last days of LIBOR,'' the period leading up to the final publication of the London Interbank Offered Rate (LIBOR), to study how financial markets adapt to changes imposed by regulators. 
+  Focusing on interest rate derivatives, we find that regulatory changes that alter contractual cash flows are quickly reflected in prices. The pricing response spills over to contracts with unaffected cash flows, creating dynamics that resemble a liquidity spiral.
+  Moreover, regulatory surprises have persistent effects, as markets raise the perceived probability of further policy changes.
+  Our findings provide evidence on how markets respond to policy interventions.
+
 
 + [Is Maturity Transformation Risk Priced Into Bank Deposit Rates?](https://www.nber.org/papers/w32724)
   - *With Francis A. Longstaff*
@@ -156,18 +194,6 @@ Associate, 2013 -- 2016.
   We find that these banks have significantly lower deposit funding costs. These results provide evidence that having financially-unsophisticated customers may provide banks with substantial market power and be an important component of the value of a bank's deposit franchise.
 
 
-+ [Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes?](https://www.nber.org/papers/w31389)
-  - *With Francis A. Longstaff*
-  - Revise and Resubmit at Review of Financial Studies.
-  - NBER Working Paper 31389, 2023. 
-  - [The Wall Street Journal](https://www.wsj.com/finance/investing/municipal-bonds-tax-free-price-74d4bbcf), September 3, 2023.
-  - [UCLA Anderson Review](https://anderson-review.ucla.edu/muni-bond-buyers-pay-a-little-extra-for-the-pleasure-of-not-being-taxed/), Research Brief, featured article August 2, 2023.
-  : __Abstract__<br />
-  We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of
-  tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. 
-  These results suggest that investors are willing to pay a substantial premium to avoid taxes.
-
-
 + [Tax Policy Uncertainty and Asset Prices: Evidence from Dual-class Corporate Bonds in the Early 20th Century](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3364309)  
   - *With Priyank Gandhi and Pengjie Gao*
   - Working Paper, 2020.
@@ -176,39 +202,6 @@ Associate, 2013 -- 2016.
 
 
 <br />
-
-
-## Work in Progress
-+ [Benchmark Interest Rates in the SOFR Era]()
-  - *With Sven Klingler and Olav Syrstad*
-  : __Abstract__<br />
-  The adoption of the Secured Overnight Financing Rate (SOFR) as variable rate for
-  interest rate swaps introduces a new class of benchmark interest rates. Guided by
-  no-arbitrage arguments, we establish three novel facts about these rates. First, the
-  spread between swap rates linked to the effective FED funds rate (FFR) and SOFR
-  provides a novel measure of expected Treasury repo financing costs over specific
-  horizons. Second, SOFR swap spreads—the difference between SOFR swap rates
-  and Treasury yields—exhibit lower volatility and reduced sensitivity to Treasury
-  convenience premiums compared to their FFR counterparts. Finally, the term
-  structure of FFR-SOFR spreads explains SOFR swap spreads beyond short-term
-  FFR-SOFR spread levels.
-
-+ [The Last Days of LIBOR]()
-  - *With Sven Klingler and Olav Syrstad*
-  : __Abstract__<br />
-  We use the “last days of LIBOR”, the period before the last published London
-  Interbank Offered Rate (LIBOR), to study how financial markets adapt to changes
-  imposed by regulators. Focusing on interest rate derivatives, we find that their
-  prices respond quickly to regulatory changes affecting their cash flows. This response
-  spills over to unaffected contracts, resembling a liquidity spiral. Moreover,
-  an unexpected regulatory change can have a lasting impact as markets incorporate
-  the risk of future unexpected changes. Our findings provide insights into
-  market reactions to policy shifts, highlighting risks to market resilience and the
-  importance of predictable regulatory implementation..
-
-
-<br />
-
 
 
 ## Citations
@@ -223,6 +216,12 @@ Associate, 2013 -- 2016.
 # Conferences
 
 ## Invited Seminars and Conference Presentations
+
++ Benchmark Interest Rates in the SOFR Era
+  - *Conferences*  
+  FMA Annual Meeting (2025)&#8224;
+  - *Seminars*  
+  BI Norwegian Business School&#8224;
 
 + Is Maturity Transformation Risk Priced Into Bank Deposit Rates?
   - *Conferences*  
@@ -254,7 +253,7 @@ Associate, 2013 -- 2016.
   - *Seminars*  
   University of Delaware, Claremont Graduate University&#8224;, Commodity Futures Trading Commission (CFTC)&#8224;, Virtual Derivatives Workshop&#8224;, Federal Reserve Bank of San Francisco&#8224;
 
-+ The U.S. Treasury Floating Rate Note Puzzle: Is there a Premium for Mark-to-Market Stability  
++ The U.S. Treasury Floating Rate Note Puzzle: Is there a Premium for Mark-to-Market Stability?  
   - *Conferences*  
 	Paris Financial Management Conference (2018), Laboratory for Aggregate Economics and Finance (LAEF) Over-the-counter Markets and Securities Workshop at the University of California Santa Barbara 2018&#8224;, 
 	Fixed Income and Financial Institutions Conference (2019), Midwest Finance Association (2019), Society for Financial Studies (SFS) Cavalcade (2019), 
@@ -271,13 +270,13 @@ Associate, 2013 -- 2016.
 	American Economic Association Meetings (2014)&#8224;, Montréal Institute of Structured Finance and Derivatives Conference (2014)&#8224;, Q Group Conference (2015)&#8224;
   - *Seminars*  
 	University of California at Berkeley&#8224;, Columbia University&#8224;, University of Oklahoma&#8224;, New York University&#8224;, University of Texas at Dallas&#8224;, Wharton School at the University of Pennsylvania&#8224;
-	
+
 + The TIPS--Treasury Bond Puzzle  
   - *Conferences*  
 	National Bureau of Economic Research Asset Pricing Conference Spring (2011)&#8224;, 6th Annual Central Bank Workshop on the Microstructure of Financial Markets&#8224;, Western Finance Association (2011)&#8224;
   - *Seminars*  
-	AQR Capital Management&#8224;, Armored Wolf LLC&#8224;, BlackRock Investment Management&#8224;
-	Federal Reserve Bank of New York&#8224;, Federal Reserve Bank of San Francisco&#8224;, Kepos Capital&#8224;, Massachusetts Institute of Technology&#8224;, University of California at Los Angeles&#8224;
+	AQR Capital Management&#8224;, Armored Wolf LLC&#8224;, BlackRock Investment Management&#8224;, 
+  Federal Reserve Bank of New York&#8224;, Federal Reserve Bank of San Francisco&#8224;, Kepos Capital&#8224;, Massachusetts Institute of Technology&#8224;, University of California at Los Angeles&#8224;
 	
 + Treasury Yield Implied Volatility and Real Activity  
   - *Conferences*  
@@ -297,78 +296,62 @@ Associate, 2013 -- 2016.
 <br />
 
 ## Invited Discussions
-+ 8th Short-Term Funding Markets (STFM) Conference (2025)
-: New Evidence on Convenient Asset Demand
-  (by Collin Jones)
++ Fixed Income and Financial Institutions Conference (2025)  
+*Pre-Refunding Announcement Gains in U.S.~Treasuries (by Chen Wang and Kevin Zhao}*
 
-+ Eastern Finance Association (2025)
-: Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?
-  (by Abhishek Bhardwaj, Shan Ge, and Saptarshi Mukherjee)
++ 8th Short-Term Funding Markets (STFM) Conference (2025)  
+*New Evidence on Convenient Asset Demand (by Collin Jones)*
 
-+ Fixed Income and Financial Institutions Conference (2024)
-: Dealer Capacity and US Treasury Market Functionality
-  (by Darrell Duffie, Michael Fleming, Frank Keane, Claire Nelson, Or Shachar, and Peter Van Tassel)
++ Eastern Finance Association (2025)  
+*Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks? (by Abhishek Bhardwaj, Shan Ge, and Saptarshi Mukherjee)*
 
-+ Financial Intermediation Research Society (FIRS) Conference (2024)
-: LTCM Redux? Hedge Fund Treasury Trading and Funding Fragility
-  (by Mathias S. Kruttli, Phillip J. Monin, Lubomir Petrasek, and Sumudu W. Watugala)
++ Fixed Income and Financial Institutions Conference (2024)  
+*Dealer Capacity and US Treasury Market Functionality (by Darrell Duffie, Michael Fleming, Frank Keane, Claire Nelson, Or Shachar, and Peter Van Tassel)*
 
-+ EUROFIDAI-ESSEC Paris December Finance Meeting (2023)
-: Robust difference-in-differences analysis when there is a term structure 
-  (by Kjell G. Nyborg and Jiri Woschitz)
++ Financial Intermediation Research Society (FIRS) Conference (2024)  
+*LTCM Redux? Hedge Fund Treasury Trading and Funding Fragility (by Mathias S. Kruttli, Phillip J. Monin, Lubomir Petrasek, and Sumudu W. Watugala)*
 
-+ Fixed Income and Financial Institutions Conference (2022)
-: Intermediary Balance Sheets and the Treasury Yield Curve
-  (by Wenxin Du, Benjamin Hébert, Wenhao Li)
++ EUROFIDAI-ESSEC Paris December Finance Meeting (2023)  
+*Robust Difference-in-Differences Analysis when there is a Term Structure  (by Kjell G. Nyborg and Jiri Woschitz)*
 
-+ Eastern Finance Association (2021)
-: Does Liquidity Management Induce Fragility in Treasury Prices?
-  Evidence from Bond Mutual Funds
-  (by Shiyang Huang, Xiaoxi Liu, Xin Liu, Wenxi Jiang)
++ Fixed Income and Financial Institutions Conference (2022)  
+*Intermediary Balance Sheets and the Treasury Yield Curve (by Wenxin Du, Benjamin Hébert, Wenhao Li)*
 
-+ Chicago Financial Institutions Conference (2020)
-: Zombie Credit and (Dis)-Inflation: Evidence from Europe
-  (by Viral V. Acharya, Matteo Crosignani, Tim Eisert, Christian Eufinger)
++ Eastern Finance Association (2021)  
+*Does Liquidity Management Induce Fragility in Treasury Prices? Evidence from Bond Mutual Funds (by Shiyang Huang, Xiaoxi Liu, Xin Liu, Wenxi Jiang)*
 
-+ Paris December Finance Meeting (2019)
-: Overcoming Arbitrage Limits: Option Trading and Momentum Returns  
-  (by A. Abhyankar, I. Filippou, P. A. Garcia-Ares, and O. Haykir) 
++ Chicago Financial Institutions Conference (2020)  
+*Zombie Credit and (Dis)-Inflation: Evidence from Europe (by Viral V. Acharya, Matteo Crosignani, Tim Eisert, Christian Eufinger)*
+
++ Paris December Finance Meeting (2019)  
+*Overcoming Arbitrage Limits: Option Trading and Momentum Returns (by A. Abhyankar, I. Filippou, P. A. Garcia-Ares, and O. Haykir) *
 	
-+ Paris Financial Management Conference (2019)
-: Price bias and common practice in option Pricing  
-  (by J.-F. B&#233;gin and G. Gauthier)
++ Paris Financial Management Conference (2019)  
+*Price Bias and Common Practice in Option Pricing  (by J.-F. B&#233;gin and G. Gauthier)*
 	
-+ Northern Finance Association (2019)
-: Default Risk and the Pricing of U.S. Sovereign Bonds
-  (by R. Dittmar, A. Hsu, G. Roussellet, P. Simasek)
++ Northern Finance Association (2019)  
+*Default Risk and the Pricing of U.S. Sovereign Bonds (by R. Dittmar, A. Hsu, G. Roussellet, P. Simasek)*
 	
-+ Midwest Finance Association (2019)
-: A Result and Finding to Differentiate Among Models of Term-Structure and Interest-Rate Claims  
-  (by G. Bakshi, J. Crosby, X. Gao Bakshi)
++ Midwest Finance Association (2019)  
+*A Result and Finding to Differentiate Among Models of Term-Structure and Interest-Rate Claims (by G. Bakshi, J. Crosby, X. Gao Bakshi)*
 
-+ Paris Financial Management Conference (2018)
-: A Day Late and a Dollar Short: Liquidity and Household Formation among Student Borrowers  
-  (by S. Goodman, A. Isen, and C. Yannelis)
++ Paris Financial Management Conference (2018)  
+*A Day Late and a Dollar Short: Liquidity and Household Formation among Student Borrowers  (by S. Goodman, A. Isen, and C. Yannelis)*
 
-+ 2nd Short-Term Funding Markets Conference (2018)
-: Liquidity Risk and Funding Cost  
-  (by A. Bechtel, A. Ranaldo, and J. Wrampelmeyer)
++ 2nd Short-Term Funding Markets Conference (2018)  
+*Liquidity Risk and Funding Cost (by A. Bechtel, A. Ranaldo, and J. Wrampelmeyer)*
 	  
-+ Eastern Finance Association (2018)
-: R&D Investment Intensity and Jump Volatility of Stock Prices  
-  (by C. Jiang, J. Kose, and D. Larsen)
++ Eastern Finance Association (2018)  
+*R\&D Investment Intensity and Jump Volatility of Stock Prices  (by C. Jiang, J. Kose, and D. Larsen)*
 	  
-+ Paris Financial Management Conference (2017)
-: The Volatility-of-Volatility Term Structure  
-  (by N. Brager, H. H{\"u}lsbusch, and A. Kraftschnik)
++ Paris Financial Management Conference (2017)  
+*The Volatility-of-Volatility Term Structure  (by N. Brager, H. Hülsbusch, and A. Kraftschnik)*
 	  
-+ Northern Finance Association (2017)
-: Basel III LCR: A Regulatory Shock on a Bank and Beyond  
-  (by Y. K. Gam)
++ Northern Finance Association (2017)  
+*Basel III LCR: A Regulatory Shock on a Bank and Beyond  (by Y. K. Gam)*
 	  
-+ Western Finance Association (2016)
-: The Invisible Hand of the Government: Moral Suasion During the European Debt Crisis  
-  (by A. Popov, S. Ongena, and N. van Horen)
++ Western Finance Association (2016)  
+*The Invisible Hand of the Government: Moral Suasion During the European Debt Crisis (by A. Popov, S. Ongena, and N. van Horen)*
 
 <sup>*</sup> Includes scheduled discussions
 
@@ -377,6 +360,9 @@ Associate, 2013 -- 2016.
 
 ## Teaching
 + __University of Delaware__ (Instructor)
+  - FINC 672: Financial Data Analytics (MS; Spring 2026)
+  - FINC 409: Fixed Income Securities (Undergraduate; Spring 2026)
+  - FINC 609: Fixed Income Securities (MS; Spring 2026)
   - FINC 672: Workshop in Finance--Empirical Research (MS; Spring 2025)
   - FINC 462: Fixed Income Securities (Undergraduate; Spring 2025)
   - FINC 662: Fixed Income Securities (MS; Spring 2025)
@@ -411,14 +397,15 @@ Associate, 2013 -- 2016.
 # Other
 
 ## Honors and Awards
-+ University of Delaware Outstanding Faculty Scholar Award (2025)
-+ University of Delaware (2022--Present)
-  Institute for Financial Services Analytics (IFSA) Affiliated Faculty
-+ University of Delaware (2022--Present)
++ University of Delaware (2025)  
+  *Lerner College of Business and Economics Outstanding Faculty Scholar Award*
++ University of Delaware (2022--Present)  
   *SWUFE-UD Joint Institute Fellow*
-+ University of Delaware (2020)
++ University of Delaware (2022--Present)  
+  *Institute for Financial Services Analytics (IFSA) Affiliated Faculty*
++ University of Delaware (2020)  
   *Lerner College Outstanding Junior Faculty Award*
-+ Amundi Smith Breeden Distinguished Paper Award (2014)
++ Amundi Smith Breeden Distinguished Paper Award (2014)  
   for *The TIPS--Treasury Bond Puzzle*
 + Naumann-Etienne Foundation  (2005--2007)  
   *Georgia Tech Full Scholarship*
@@ -439,16 +426,16 @@ Associate, 2013 -- 2016.
   Review of Economic Dynamics; Review of Economic Studies; Review of Economics and Statistics; Review of Finance; Review of Financial Studies
     
 + __Conference Program Committee__  
-  2nd Short-Term Funding Markets Conference (2018), Midwest Finance Association (2022, 2023, 2024, 2025); Northern Finance Association (2019, 2020, 2021, 2022, 2023, 2024) 
+  2nd Short-Term Funding Markets Conference (2018), Midwest Finance Association (2022, 2023, 2024, 2025); Northern Finance Association (2019, 2020, 2021, 2022, 2023, 2024, 2025) 
   
 + __Conference Session Chair__  
   ASSA Annual Meeting 2017 (Liquidity and Trading in Bond and Derivatives Markets I); Paris Financial Management Conference 2017 (Financial Engineering and Derivatives I); Midwest Finance Association Annual Meeting 2025 (Treasury Bonds)
   
-+ __Professional Membership__  
++ __Professional Memberships__  
   American Finance Association; American Economic Association; Eastern Finance Association; European Finance Association; Financial Management Association; Midwest Finance Association; Northern Finance Association; Society for Financial Studies; Western Finance Association
 
 + __Other__  
-  Review of Proposal No. 1231858 on Pension Policy and Sovereign Credit Risk for 2023 Regular Fondecyt National Projects Competition by the Chilean National Research Agency (ANID); 
+  Review of Proposal No. 1231858 on Pension Policy and Sovereign Credit Risk for the 2023 Regular FONDECYT National Projects Competition by the Chilean National Research Agency (ANID); 
   Comment on Treasury Futures Basis Trade for the [Global Association of Risk Professionals (GARP)](https://www.garp.org/risk-intelligence/market/trades-treasury-risk-240112)
 
 <br />
