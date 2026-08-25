@@ -10,7 +10,7 @@ title: Matthias Fleckenstein, Ph.D.\vspace{-0.25in}
 ![](Fleckenstein_Matthias-2016.jpg)
 
 **Matthias Fleckenstein**  
-_Associate Professor of Finance_  
+_Professor of Finance_  
 University of Delaware  
 Lerner College of Business and Economics  
 310 Purnell Hall, Newark, Delaware 19716  
@@ -23,7 +23,10 @@ Website: [http://www.mfleckenstein.com](http://www.mfleckenstein.com)
 
 # Employment
 + **Lerner College of Business and Economics, University of Delaware**  
-  Associate Professor of Finance, 2022--Present.
+  Professor of Finance, 2026--Present.
+
++ **Lerner College of Business and Economics, University of Delaware**  
+  Associate Professor of Finance, 2022--2026.
 
 + **Lerner College of Business and Economics, University of Delaware**  
   Assistant Professor of Finance, 2016--2022.
@@ -61,6 +64,10 @@ Associate, 2013--2016.
   : __Abstract__<br />
   We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. These results suggest that investors are willing to pay a substantial premium to avoid taxes.
 
+<br />
+<br />
+<br />
+&nbsp;
 
 + [Treasury Richness (2024)](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13371) 
   - *With Francis A. Longstaff*
@@ -137,10 +144,34 @@ Associate, 2013--2016.
   - *With Francis A. Longstaff and Hanno Lustig*
   - __Handbook of Fixed-Income Securities__. 2016. John Wiley \& Sons.
 
-<br />
-&nbsp;
+
 
 ## Working Papers
+
++ [The Puzzling Internal Inconsistencies in Term Structures of Bank CD Rates]()
+  - *With Francis A. Longstaff*
+  - Revise and Resubmit at Journal of Financial Economics.
+  - Previously titled: Financial Sophistication and Bank Market Power, NBER Working Paper 33049, 2024.
+  - [UCLA Anderson Review](https://anderson-review.ucla.edu/cd-withdrawal-penalties-often-more-than-worth-the-risk/), Research Brief, featured article November 13, 2024.
+  - [The Wall Street Journal](https://www.wsj.com/personal-finance/short-term-cds-long-term-investments-6da40236?mod=ig_investingmonthlyreport), April 2, 2025.
+  : __Abstract__<br />
+  We study the term structures of bank CD rates. The majority are so internally inconsistent that some CDs are actually dominated since their cash
+  flows can be replicated via a longer-term CD with money left over. Some mispricing may be intentional since many banks never once mispriced their term 
+  structures while others almost always did. Mispricing has real effects since banks offering inconsistent term structures have significantly lower funding costs.
+  This suggests that some banks may price CDs in ways that make it easier for less-sophisticated consumers to be shortchanged by unknowingly accepting lower rates.
+
+
++ [Fixed Floating Interest Rate Parity]()
+  - *With Sven Klingler and Francis A. Longstaff*
+  : __Abstract__<br />
+  We present a new no-arbitrage relation which we denote as fixed/floating interest rate parity. 
+  This relation can be viewed as a domestic version of covered interest rate parity. 
+  We test this relation using fixed-rate bonds and floating-rate notes in the $2 trillion U.S. agency debt market 
+  and document significant violations. These violations are largely unrelated to other arbitrage spreads 
+  and measures of intermediary constraints. Instead, they are closely tied to the behavior of money market funds 
+  which hold the vast majority of floating-rate notes. 
+  Our results identify clientele effects as a source of persistent mispricing.
+
 
 + [Valuing Sticky Deposits](https://www.nber.org/papers/w34641)
   - *With Shohini Kundu and Francis A. Longstaff*
@@ -183,17 +214,6 @@ Associate, 2013--2016.
   about the role of deposit franchises and market power in banking markets.
 
 
-+ [Financial Sophistication and Bank Market Power](https://www.nber.org/papers/w33049)
-  - *With Francis A. Longstaff*
-  - NBER Working Paper 33049, 2024.
-  - [UCLA Anderson Review](https://anderson-review.ucla.edu/cd-withdrawal-penalties-often-more-than-worth-the-risk/), Research Brief, featured article November 13, 2024.
-  - [The Wall Street Journal](https://www.wsj.com/personal-finance/short-term-cds-long-term-investments-6da40236?mod=ig_investingmonthlyreport), April 2, 2025.
-  : __Abstract__<br />
-  We study the relation between bank funding costs and the financial sophistication of bank customers. 
-  In doing this, we make use of a natural experiment that allows us to identify banks that--either intentionally or unintentionally--price time deposits in a way that can result in financially-unsophisticated customers essentially being shortchanged. 
-  We find that these banks have significantly lower deposit funding costs. These results provide evidence that having financially-unsophisticated customers may provide banks with substantial market power and be an important component of the value of a bank's deposit franchise.
-
-
 + [Tax Policy Uncertainty and Asset Prices: Evidence from Dual-class Corporate Bonds in the Early 20th Century](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3364309)  
   - *With Priyank Gandhi and Pengjie Gao*
   - Working Paper, 2020.
@@ -216,6 +236,8 @@ Associate, 2013--2016.
 # Conferences
 
 ## Invited Seminars and Conference Presentations
++ Valuing Sticky Deposits
+  - *Conferences*  Western Finance Association (2026)
 
 + Benchmark Interest Rates in the SOFR Era
   - *Conferences*  
@@ -296,8 +318,14 @@ Associate, 2013--2016.
 <br />
 
 ## Invited Discussions
++ Western Finance Association (2026)  
+*The Debt Ceiling's Disruptive Impact: Evidence from Many Markets by William Cassidy and Shreye Mirani*
+
++ SFS Cavalcade (2026)
+*An Anatomy of Retail Option Trading (by Vincent Bogousslavsky and Dmitriy Muravyev)*
+
 + Fixed Income and Financial Institutions Conference (2025)  
-*Pre-Refunding Announcement Gains in U.S.~Treasuries (by Chen Wang and Kevin Zhao}*
+*Pre-Refunding Announcement Gains in U.S.~Treasuries (by Chen Wang and Kevin Zhao)*
 
 + 8th Short-Term Funding Markets (STFM) Conference (2025)  
 *New Evidence on Convenient Asset Demand (by Collin Jones)*
@@ -429,7 +457,8 @@ Associate, 2013--2016.
   2nd Short-Term Funding Markets Conference (2018), Midwest Finance Association (2022, 2023, 2024, 2025); Northern Finance Association (2019, 2020, 2021, 2022, 2023, 2024, 2025) 
   
 + __Conference Session Chair__  
-  ASSA Annual Meeting 2017 (Liquidity and Trading in Bond and Derivatives Markets I); Paris Financial Management Conference 2017 (Financial Engineering and Derivatives I); Midwest Finance Association Annual Meeting 2025 (Treasury Bonds)
+  ASSA Annual Meeting 2017 (Liquidity and Trading in Bond and Derivatives Markets I); Paris Financial Management Conference 2017 (Financial Engineering and Derivatives I); Midwest Finance Association Annual Meeting 2025 (Treasury Bonds);
+  SFS Cavalcade 2026 (Asset Pricing: Credit and Derivatives)
   
 + __Professional Memberships__  
   American Finance Association; American Economic Association; Eastern Finance Association; European Finance Association; Financial Management Association; Midwest Finance Association; Northern Finance Association; Society for Financial Studies; Western Finance Association
