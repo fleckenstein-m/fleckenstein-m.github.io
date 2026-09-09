@@ -1,0 +1,77 @@
+# Migration template. Copy to .github/workflows/pages.yml in the GitHub checkout.
+# It is deliberately not active in the private Sites checkout.
+name: Academic website
+
+on:
+  pull_request:
+    branches: [master]
+  push:
+    branches: [master]
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: Publish this build to the public academic website
+        type: boolean
+        required: true
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    env:
+      ACADEMIC_PUBLIC_SITE: ${{ github.event_name == 'workflow_dispatch' && inputs.publish && github.ref == 'refs/heads/master' && 'true' || 'false' }}
+      ACADEMIC_SITE_URL: ${{ vars.ACADEMIC_SITE_URL || 'https://fleckenstein-m.github.io/' }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24.19.0'
+          cache: npm
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Install LaTeX and fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends texlive-latex-extra texlive-fonts-extra texlive-bibtex-extra
+          kpsewhich ETbb.sty
+          kpsewhich fontawesome.sty
+          kpsewhich needspace.sty
+          kpsewhich biblatex.sty
+      - name: Install project dependencies
+        run: |
+          npm ci
+          python -m pip install -r requirements.txt pdfplumber
+      - name: Check content and generate website and CV
+        run: |
+          python scripts/test_content_model.py
+          npm run build
+          npx --no-install tsc --noEmit
+          python scripts/verify_record.py
+      - name: Save generated website
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist/client
+
+  deploy:
+    if: github.event_name == 'workflow_dispatch' && inputs.publish && github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: academic-pages-deployment
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4

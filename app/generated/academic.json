@@ -1,0 +1,690 @@
+{
+  "profile": {
+    "name": "Matthias Fleckenstein",
+    "role": "Professor of Finance",
+    "institution": "University of Delaware",
+    "school": "Lerner College of Business and Economics",
+    "email": "mflecken@udel.edu",
+    "phone": "(302) 831-4936",
+    "office": "310 Purnell Hall",
+    "address": "Newark, Delaware 19716",
+    "website": "http://www.mfleckenstein.com",
+    "portrait": "/portrait.jpg",
+    "updated": "August 2026"
+  },
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/matthias-fleckenstein-a327915/"
+    },
+    {
+      "label": "Twitter / X",
+      "url": "https://x.com/m_fleckenstein"
+    }
+  ],
+  "homepage": {
+    "publications": [
+      "do-municipal-bond-investors-pay-a-convenience-premium-to-avoid-taxes",
+      "treasury-richness"
+    ],
+    "working_papers": [
+      "the-puzzling-internal-inconsistencies-in-term-structures-of-bank-cd-rates",
+      "fixed-floating-interest-rate-parity"
+    ]
+  },
+  "employment": [
+    {
+      "institution": "University of Delaware",
+      "unit": "Lerner College of Business and Economics",
+      "roles": [
+        {
+          "title": "Professor of Finance",
+          "dates": "2026–Present"
+        },
+        {
+          "title": "Associate Professor of Finance",
+          "dates": "2022–2026"
+        },
+        {
+          "title": "Assistant Professor of Finance",
+          "dates": "2016–2022"
+        }
+      ]
+    },
+    {
+      "institution": "Cornerstone Research, New York",
+      "roles": [
+        {
+          "title": "Associate",
+          "dates": "2013–2016"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Los Angeles",
+      "degree": "Ph.D. in Finance",
+      "year": 2013
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "degree": "M.S. in Quantitative and Computational Finance; Master of Business Administration (MBA)",
+      "year": 2007
+    },
+    {
+      "institution": "University of Technology Berlin, Germany",
+      "degree": "M.S. in Industrial Engineering and Business Administration",
+      "year": 2005
+    }
+  ],
+  "publications": [
+    {
+      "id": "do-municipal-bond-investors-pay-a-convenience-premium-to-avoid-taxes",
+      "title": "Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes?",
+      "type": "published",
+      "coauthors": "Francis A. Longstaff",
+      "year": 2025,
+      "journal": "Review of Financial Studies",
+      "citation": "published online on November 19, 2025.",
+      "url": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhaf100/8328065",
+      "media": [
+        {
+          "label": "The Wall Street Journal",
+          "url": "https://www.wsj.com/finance/investing/municipal-bonds-tax-free-price-74d4bbcf",
+          "date": "September 3, 2023."
+        },
+        {
+          "label": "UCLA Anderson Review",
+          "url": "https://anderson-review.ucla.edu/muni-bond-buyers-pay-a-little-extra-for-the-pleasure-of-not-being-taxed/",
+          "date": "Research Brief, featured article August 2, 2023."
+        }
+      ],
+      "abstract": "We study the valuation of state-issued tax-exempt municipal bonds and find that there are significant convenience premia in their prices. These premia parallel those identified in Treasury markets. We find evidence that these premia are tax related. Specifically, the premia are related to measures of tax and fiscal uncertainty, forecast flows into state municipal bond funds, and are directly linked to outmigration from high-tax to low-tax states and to other measures of tax aversion such as IRA and retirement plan contributions. These results suggest that investors are willing to pay a substantial premium to avoid taxes."
+    },
+    {
+      "id": "treasury-richness",
+      "title": "Treasury Richness",
+      "type": "published",
+      "coauthors": "Francis A. Longstaff",
+      "year": 2024,
+      "journal": "Journal of Finance",
+      "citation": "Volume 79, Issue 4, August 2024, 2797–2844.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13371",
+      "media": [
+        {
+          "label": "UCLA Anderson Review",
+          "url": "https://anderson-review.ucla.edu/treasury-securities-are-actually-cheap-sometimes/",
+          "date": "Research Brief, featured article August 18, 2021."
+        }
+      ],
+      "abstract": "We provide estimates of Treasury convenience premia across the entire term structure of Treasury bills, notes, and bonds over more than a quarter of a century and document a variety of key stylized facts about their time-series and cross-sectional patterns. These results raise concerns about the evolving nature of Treasury markets and suggest that investors may now place less weight on the traditional role of Treasury securities as liquid trading vehicles. These stylized facts provide empirical benchmarks that could help guide future theoretical and empirical work about the economics of safe assets in financial markets."
+    },
+    {
+      "id": "small-business-equity-returns-empirical-evidence-from-the-business-credit-card-securitization-market",
+      "title": "Small Business Equity Returns: Empirical Evidence from the Business Credit Card Securitization Market",
+      "type": "published",
+      "coauthors": "Francis A. Longstaff",
+      "year": 2023,
+      "journal": "Journal of Finance",
+      "citation": "Volume 78, Issue 1, February 2023, 389–425.",
+      "url": "http://dx.doi.org/10.1111/jofi.13200",
+      "media": [
+        {
+          "label": "UCLA Anderson Review",
+          "url": "https://anderson-review.ucla.edu/borrowings-suggest-small-company-owners-face-higher-risk/",
+          "date": "Research Brief, featured article July 28, 2021."
+        }
+      ],
+      "abstract": "We present a new approach for estimating small business equity returns. This approach applies the Merton (1974) credit model to the returns on entrepreneurial business credit card debt securitizations and solves for the implied equity returns for the small businesses owned by the cardholders. The estimated small business equity premium is 10.74%. The standard deviation of small business equity returns is 56.37%. We validate the methodology by applying it to investment-grade corporate bonds and recovering a public equity premium of 6.17%."
+    },
+    {
+      "id": "the-market-risk-premium-for-unsecured-consumer-credit-risk",
+      "title": "The Market Risk Premium for Unsecured Consumer Credit Risk",
+      "type": "published",
+      "coauthors": "Francis A. Longstaff",
+      "year": 2022,
+      "journal": "Review of Financial Studies",
+      "citation": "Volume 35, Issue 10, October 2022, 4756–4801.",
+      "url": "https://academic.oup.com/rfs/article/35/10/4756/6500307",
+      "media": [
+        {
+          "label": "UCLA Anderson Review",
+          "url": "https://anderson-review.ucla.edu/did-bank-capital-rules-make-credit-card-borrowing-more-expensive/",
+          "date": "Research Brief, featured article December 16, 2020."
+        }
+      ],
+      "abstract": "We use the prices of credit card asset-backed securities to study the market risk premium associated with unsecured consumer credit risk. We find that the market incorporates a substantial credit risk premium into the prices of these securities. Furthermore, there has been a major repricing of unsecured consumer credit risk since the 2007–2009 financial crisis. We find evidence that this increase is linked to balance-sheet costs imposed by postcrisis changes in regulations that have placed credit card securitizations back onto issuer balance sheets. These regulatory changes may have added more than 100 basis points to the cost of unsecured household credit.",
+      "recognition": [
+        "NBER Featured Working Papers, January 14, 2021."
+      ]
+    },
+    {
+      "id": "treasury-yield-implied-volatility-and-real-activity",
+      "title": "Treasury Yield Implied Volatility and Real Activity",
+      "type": "published",
+      "coauthors": "Priyank Gandhi and Martijn Cremers",
+      "year": 2021,
+      "journal": "Journal of Financial Economics",
+      "citation": "Volume 140, Issue 2, May 2021, 412–435.",
+      "url": "https://doi.org/10.1016/j.jfineco.2020.12.009",
+      "abstract": "We show that at-the-money implied volatility of options on futures of 5-year Treasury notes (Treasury ‘yield implied volatility’) predicts both the growth rate and volatility of gross domestic product, as well as of other macroeconomic variables, like industrial production, consumption, and employment. This predictability is robust to controlling for the term spread, credit spread, stock returns, stock market implied volatility, and several other variables that prior literature showed to predict macroeconomic activity. Our results indicate that Treasury yield implied volatility is a useful forward-looking state variable to characterize risks and opportunities in the macro economy."
+    },
+    {
+      "id": "renting-balance-sheet-space-intermediary-balance-sheet-rental-costs-and-the-valuation-of-derivatives",
+      "title": "Renting Balance Sheet Space: Intermediary Balance Sheet Rental Costs and the Valuation of Derivatives",
+      "type": "published",
+      "coauthors": "Francis A. Longstaff",
+      "year": 2020,
+      "journal": "Review of Financial Studies",
+      "citation": "Volume 33, Issue 11, November 2020, 5051–5091.",
+      "url": "https://doi.org/10.1093/rfs/hhaa033",
+      "media": [
+        {
+          "label": "UCLA Anderson Review",
+          "url": "https://anderson-review.ucla.edu/banks-rent-out-their-balance-sheets-so-derivatives-cost-more/",
+          "date": "Research Brief, featured article November 17, 2021."
+        }
+      ],
+      "abstract": "A long-standing asset pricing puzzle is that the funding rates in derivatives contracts often differ from those in cash markets. We propose that the cost of renting intermediary balance sheet space may help resolve this puzzle. We study a persistent basis in what is arguably the largest derivatives market, namely, the interest rate futures market. This basis is strongly related to exogenous measures of intermediary balance sheet usage and proxies for the balance sheet costs imposed by debt overhang problems and capital regulation. These results extend to the cash derivatives bases documented in many of the other largest financial markets."
+    },
+    {
+      "id": "the-u-s-treasury-floating-rate-note-puzzle-is-there-a-premium-for-mark-to-market-stability",
+      "title": "The U.S. Treasury Floating Rate Note Puzzle: Is there a Premium for Mark-to-Market Stability?",
+      "type": "published",
+      "coauthors": "Francis A. Longstaff",
+      "year": 2020,
+      "journal": "Journal of Financial Economics",
+      "citation": "Volume 137, Issue 3, September 2020, 637–658.",
+      "url": "https://doi.org/10.1016/j.jfineco.2020.04.006",
+      "abstract": "We find that Treasury floating rate notes (FRNs) trade at a significant premium relative to the prices of Treasury bills and notes. This premium is directly related to the near-constant nature of FRN prices and is correlated with measures reflecting investor demand for safe assets. Money market funds are often the primary investors in FRNs, and the FRN premium is related to flows into funds with fixed net asset values, but not to flows into funds with variable net asset values. These results provide strong evidence that the FRN premium represents a convenience yield for the mark-to-market stability feature of FRNs."
+    },
+    {
+      "id": "corporate-taxes-and-capital-structure-a-long-term-historical-perspective",
+      "title": "Corporate Taxes and Capital Structure: A Long-Term Historical Perspective",
+      "type": "published",
+      "coauthors": "Francis A. Longstaff and Ilya A. Strebulaev",
+      "year": 2020,
+      "journal": "Critical Finance Review",
+      "citation": "Volume 9: No. 1–2, 2020, 1–28.",
+      "url": "http://dx.doi.org/10.1561/104.00000069",
+      "abstract": "We study the time series relation between leverage and corporate tax rates using an extensive data set constructed from all corporate income tax returns filed with the Internal Revenue Service from 1926 to 2013. This data set includes financial statement data from millions of private and public corporations. We find strong evidence that changes in corporate leverage are directly related to changes in corporate tax rates for all but the smallest firms. These results are robust to the inclusion of control variables for the costs of financial distress, corporate liquidity, and capital market and macroeconomic conditions. Furthermore, the results hold for both financial and nonfinancial firms as well as for different measures of firm leverage and the marginal corporate income tax rate. An increase in the marginal corporate tax rate of 1% translates into a 0.15% increase in corporate leverage, representing a $132 billion increase in aggregate leverage based on current values."
+    },
+    {
+      "id": "deflation-risk",
+      "title": "Deflation Risk",
+      "type": "published",
+      "coauthors": "Francis A. Longstaff and Hanno Lustig",
+      "year": 2017,
+      "journal": "Review of Financial Studies",
+      "citation": "Volume 30, Issue 8, August 2017, 2719–2760.",
+      "url": "https://doi.org/10.1093/rfs/hhx021",
+      "abstract": "We study the nature of deflation risk by extracting the objective distribution of inflation from the market prices of inflation swaps and options. We find that the market expects inflation to average about 2.5% over the next 30 years. Despite this, the market places substantial weight on deflation scenarios in which prices significantly decline over extended horizons. The market prices the economic tail risk of deflation similarly to other types of tail risks, such as corporate default or catastrophic insurance losses. We find that deflation risk is strongly negatively correlated with outcomes in the financial markets and with consumer confidence."
+    },
+    {
+      "id": "the-tips-treasury-bond-puzzle",
+      "title": "The TIPS–Treasury Bond Puzzle",
+      "type": "published",
+      "coauthors": "Francis A. Longstaff and Hanno Lustig",
+      "year": 2014,
+      "journal": "Journal of Finance",
+      "citation": "Volume 69, Issue 5, October 2014, 2151–2197.",
+      "url": "https://doi.org/10.1111/jofi.12032",
+      "pdf": "/papers/FL_2014_JF.pdf",
+      "award": "Amundi Smith Breeden Distinguished Paper Award, 2014",
+      "abstract": "We show that the price of a Treasury bond and an inflation‐swapped Treasury Inflation‐Protected Securities (TIPS) issue exactly replicating the cash flows of the Treasury bond can differ by more than $20 per $100 notional. Treasury bonds are almost always overvalued relative to TIPS. Total TIPS‐-Treasury mispricing has exceeded $56 billion, representing nearly 8% of the total amount of TIPS outstanding. We find direct evidence that the mispricing narrows as additional capital flows into the markets. This provides strong support for the slow-moving-capital explanation of arbitrage persistence."
+    },
+    {
+      "id": "the-puzzling-internal-inconsistencies-in-term-structures-of-bank-cd-rates",
+      "title": "The Puzzling Internal Inconsistencies in Term Structures of Bank CD Rates",
+      "type": "working",
+      "coauthors": "Francis A. Longstaff",
+      "status": "Revise and Resubmit at Journal of Financial Economics.",
+      "note": "Previously titled: Financial Sophistication and Bank Market Power, NBER Working Paper 33049, 2024.",
+      "media": [
+        {
+          "label": "UCLA Anderson Review",
+          "url": "https://anderson-review.ucla.edu/cd-withdrawal-penalties-often-more-than-worth-the-risk/",
+          "date": "Research Brief, featured article November 13, 2024."
+        },
+        {
+          "label": "The Wall Street Journal",
+          "url": "https://www.wsj.com/personal-finance/short-term-cds-long-term-investments-6da40236?mod=ig_investingmonthlyreport",
+          "date": "April 2, 2025."
+        }
+      ],
+      "abstract": "We study the term structures of bank CD rates. The majority are so internally inconsistent that some CDs are actually dominated since their cash flows can be replicated via a longer-term CD with money left over. Some mispricing may be intentional since many banks never once mispriced their term structures while others almost always did. Mispricing has real effects since banks offering inconsistent term structures have significantly lower funding costs. This suggests that some banks may price CDs in ways that make it easier for less-sophisticated consumers to be shortchanged by unknowingly accepting lower rates."
+    },
+    {
+      "id": "fixed-floating-interest-rate-parity",
+      "title": "Fixed Floating Interest Rate Parity",
+      "type": "working",
+      "coauthors": "Sven Klingler and Francis A. Longstaff",
+      "status": "Working paper",
+      "abstract": "We present a new no-arbitrage relation which we denote as fixed/floating interest rate parity. This relation can be viewed as a domestic version of covered interest rate parity. We test this relation using fixed-rate bonds and floating-rate notes in the $2 trillion U.S. agency debt market and document significant violations. These violations are largely unrelated to other arbitrage spreads and measures of intermediary constraints. Instead, they are closely tied to the behavior of money market funds which hold the vast majority of floating-rate notes. Our results identify clientele effects as a source of persistent mispricing."
+    },
+    {
+      "id": "valuing-sticky-deposits",
+      "title": "Valuing Sticky Deposits",
+      "type": "working",
+      "coauthors": "Shohini Kundu and Francis A. Longstaff",
+      "year": 2025,
+      "url": "https://www.nber.org/papers/w34641",
+      "status": "NBER Working Paper 34641, 2025.",
+      "abstract": "We develop a formal fixed-income framework to value sticky deposits. This framework provides closed-form expressions for deposit values and allows us to study the impact of stickiness on deposit interest-rate and runoff risks. The duration of a bank deposit can be either positive or negative, which has important implications for hedging the interest-rate risk of bank balance sheets. Banks that maximize deposit value by following optimal deposit beta strategies may significantly increase their interest-rate and deposit runoff risks. We test the empirical implications of the valuation model using market deposit premia observed in bank merger/acquisition transactions. The results provide strong empirical support for the model’s predictions."
+    },
+    {
+      "id": "benchmark-interest-rates-in-the-sofr-era",
+      "title": "Benchmark Interest Rates in the SOFR Era",
+      "type": "working",
+      "coauthors": "Sven Klingler and Olav Syrstad",
+      "year": 2025,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5330761",
+      "status": "Working Paper, 2025.",
+      "abstract": "The adoption of the Secured Overnight Financing Rate (SOFR) as the predominant floating rate for interest rate swaps introduces a new class of benchmark interest rates. Using no-arbitrage arguments, we establish three novel facts about the relationship between SOFR swap rates and other key benchmarks. First, the basis between swaps referencing the Effective Federal Funds Rate (FFR) and SOFR provides a new measure of the cost of funding Treasury positions. Second, SOFR swap spreads are less volatile and less sensitive to Treasury convenience premiums than FFR swap spreads. Third, SOFR swap spreads are positively correlated with the FFR-SOFR basis and directly reflect arbitrageurs' financing costs."
+    },
+    {
+      "id": "the-last-days-of-libor",
+      "title": "The Last Days of LIBOR",
+      "type": "working",
+      "coauthors": "Sven Klingler and Olav Syrstad",
+      "year": 2025,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5313717",
+      "status": "Working Paper, 2025.",
+      "abstract": "We use the ``last days of LIBOR,'' the period leading up to the final publication of the London Interbank Offered Rate (LIBOR), to study how financial markets adapt to changes imposed by regulators. Focusing on interest rate derivatives, we find that regulatory changes that alter contractual cash flows are quickly reflected in prices. The pricing response spills over to contracts with unaffected cash flows, creating dynamics that resemble a liquidity spiral. Moreover, regulatory surprises have persistent effects, as markets raise the perceived probability of further policy changes. Our findings provide evidence on how markets respond to policy interventions."
+    },
+    {
+      "id": "is-maturity-transformation-risk-priced-into-bank-deposit-rates",
+      "title": "Is Maturity Transformation Risk Priced Into Bank Deposit Rates?",
+      "type": "working",
+      "coauthors": "Francis A. Longstaff",
+      "year": 2024,
+      "url": "https://www.nber.org/papers/w32724",
+      "status": "NBER Working Paper 32724, 2024.",
+      "abstract": "We use the term structure of bank CD rates to examine whether maturity-transformation risk is priced into the rates banks offer customers. We find that depositors pay a significant cost for the liquidity provided by bank deposits. This cost is strongly related to the amount of maturity-transformation risk that these deposit accounts create. The cost is also negatively correlated with the convenience premia in Treasury markets, which suggests that households do not view deposit liquidity and Treasury liquidity as perfect substitutes. The results have important implications about the role of deposit franchises and market power in banking markets."
+    },
+    {
+      "id": "tax-policy-uncertainty-and-asset-prices-evidence-from-dual-class-corporate-bonds-in-the-early-20th-century",
+      "title": "Tax Policy Uncertainty and Asset Prices: Evidence from Dual-class Corporate Bonds in the Early 20th Century",
+      "type": "working",
+      "coauthors": "Priyank Gandhi and Pengjie Gao",
+      "year": 2020,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3364309",
+      "status": "Working Paper, 2020.",
+      "abstract": "Little is known about how the risk of unexpected changes in tax policy is priced in financial markets. We measure how tax risk affects asset prices using a novel dataset of taxable and tax-exempt corporate bonds in the 19th century, and the introduction of federal taxes as a natural experiment. Our tax risk measure is derived from bonds with a tax-exempt clause that requires firms to pay coupons to investors in full, and to pay investors’ taxes on coupons. Tax risk is pro-cyclical and is priced in the cross-section of asset returns with a statistically and economically significant positive risk premium."
+    }
+  ],
+  "other_publications": [
+    {
+      "id": "inflation-adjusted-bonds",
+      "title": "Inflation Adjusted Bonds and the Inflation Risk Premium",
+      "url": "https://www.wiley.com/en-us/Handbook+of+Fixed+Income+Securities-p-9781118709191",
+      "coauthors": "Francis A. Longstaff and Hanno Lustig",
+      "journal": "Handbook of Fixed-Income Securities",
+      "citation": "2016. John Wiley & Sons."
+    }
+  ],
+  "citations": [
+    {
+      "title": "Google Scholar",
+      "text": "757 (as of April 2025)"
+    },
+    {
+      "title": "Web of Science",
+      "text": "Citing Articles: 193 (as of April 2025)"
+    }
+  ],
+  "datasets": [
+    {
+      "id": "tips-treasury-mispricing",
+      "paper_id": "the-tips-treasury-bond-puzzle",
+      "title": "TIPS–Treasury Mispricing",
+      "description": "Time series of the average TIPS-Treasury mispricing, measured in basis points, across the pairs included in the sample, where the average is weighted by the notional amount of the TIPS issue. Data plotted in Figure 2 of the paper.",
+      "files": [
+        {
+          "label": "Download data (Excel)",
+          "url": "/data/FLL_2014_JF.xlsx"
+        }
+      ]
+    }
+  ],
+  "presentations": [
+    {
+      "paper_id": "valuing-sticky-deposits",
+      "conferences": "Western Finance Association (2026)"
+    },
+    {
+      "paper_id": "benchmark-interest-rates-in-the-sofr-era",
+      "conferences": "FMA Annual Meeting (2025)†",
+      "seminars": "BI Norwegian Business School†"
+    },
+    {
+      "paper_id": "is-maturity-transformation-risk-priced-into-bank-deposit-rates",
+      "conferences": "Fixed Income and Financial Institutions Conference (2024), Midwest Finance Association (2025), Eastern Finance Association (2025)",
+      "seminars": "Korea University Business School†, BI Norwegian Business School, Mercer Advisors†, Federal Deposit Insurance Corporation (FDIC), Binghamton University School of Management"
+    },
+    {
+      "paper_id": "the-puzzling-internal-inconsistencies-in-term-structures-of-bank-cd-rates",
+      "title_at_presentation": "Financial Sophistication and Bank Market Power",
+      "seminars": "Mercer Advisors†"
+    },
+    {
+      "paper_id": "do-municipal-bond-investors-pay-a-convenience-premium-to-avoid-taxes",
+      "conferences": "EUROFIDAI-ESSEC Paris December Finance Meeting (2023), Fixed Income and Financial Institutions Conference (2023)",
+      "seminars": "BYU Marriott School of Business†, NYU Stern School of Business†, UCLA†, University of Virginia Darden School of Business†, Mercer Advisors†, Virtual Municipal Finance Workshop, Universidad de Navarra"
+    },
+    {
+      "paper_id": "treasury-richness",
+      "seminars": "UCLA†, PBC School of Finance at Tsinghua University†, Fixed Income Forum Santa Barbara (2022)†, The Linde Institute at the California Institute of Technology†, Trulaske College of Business at the University of Missouri†, Mercer Advisors†"
+    },
+    {
+      "paper_id": "the-market-risk-premium-for-unsecured-consumer-credit-risk",
+      "conferences": "Western Finance Association (2021)†, Midwest Finance Association (2021), Eastern Finance Association (2021)"
+    },
+    {
+      "paper_id": "renting-balance-sheet-space-intermediary-balance-sheet-rental-costs-and-the-valuation-of-derivatives",
+      "conferences": "Drexel, Lehigh, Temple and University of Delaware Research Symposium (2017), Eastern Finance Association (2018), Duke/University of North Carolina Asset Pricing Conference (2018), Fixed Income and Financial Institutions Conference (2018), Canadian Derivatives Institute (CDI) Conference on Derivatives (2018), Paris Financial Management Conference (2019), Midwest Finance Association (2020)",
+      "seminars": "University of Delaware, Claremont Graduate University†, Commodity Futures Trading Commission (CFTC)†, Virtual Derivatives Workshop†, Federal Reserve Bank of San Francisco†"
+    },
+    {
+      "paper_id": "the-u-s-treasury-floating-rate-note-puzzle-is-there-a-premium-for-mark-to-market-stability",
+      "conferences": "Paris Financial Management Conference (2018), Laboratory for Aggregate Economics and Finance (LAEF) Over-the-counter Markets and Securities Workshop at the University of California Santa Barbara 2018†, Fixed Income and Financial Institutions Conference (2019), Midwest Finance Association (2019), Society for Financial Studies (SFS) Cavalcade (2019), Drexel, Lehigh, Temple and University of Delaware Research Symposium (2019), Paris December Finance Meeting (2019)",
+      "seminars": "University of California at Los Angeles†, University of Wisconsin-Madison, Temple University, McGill University†"
+    },
+    {
+      "paper_id": "corporate-taxes-and-capital-structure-a-long-term-historical-perspective",
+      "seminars": "U.S. Securities and Exchange Commission†, University of California at Los Angeles†"
+    },
+    {
+      "paper_id": "deflation-risk",
+      "conferences": "American Economic Association Meetings (2014)†, Montréal Institute of Structured Finance and Derivatives Conference (2014)†, Q Group Conference (2015)†",
+      "seminars": "University of California at Berkeley†, Columbia University†, University of Oklahoma†, New York University†, University of Texas at Dallas†, Wharton School at the University of Pennsylvania†"
+    },
+    {
+      "paper_id": "the-tips-treasury-bond-puzzle",
+      "conferences": "National Bureau of Economic Research Asset Pricing Conference Spring (2011)†, 6th Annual Central Bank Workshop on the Microstructure of Financial Markets†, Western Finance Association (2011)†",
+      "seminars": "AQR Capital Management†, Armored Wolf LLC†, BlackRock Investment Management†, Federal Reserve Bank of New York†, Federal Reserve Bank of San Francisco†, Kepos Capital†, Massachusetts Institute of Technology†, University of California at Los Angeles†"
+    },
+    {
+      "paper_id": "treasury-yield-implied-volatility-and-real-activity",
+      "conferences": "Paris Financial Management Conference (2017), ASSA Annual Meeting (2018), IFSID Sixth Annual Conference (2018)†",
+      "seminars": "Northeastern University†, Rutgers Business School†, University of Georgia†, University of Notre Dame†"
+    },
+    {
+      "paper_id": "tax-policy-uncertainty-and-asset-prices-evidence-from-dual-class-corporate-bonds-in-the-early-20th-century",
+      "conferences": "Florida State University SunTrust Beach Conference (2018)†, ASSA Annual Meeting (2020)†, Midwest Finance Association (2020)",
+      "seminars": "University of Notre Dame†, Rutgers University†"
+    }
+  ],
+  "presentations_note": "Includes scheduled presentations; † Presented by co-author.",
+  "discussions": [
+    {
+      "title": "Western Finance Association (2026)",
+      "text": "The Debt Ceiling's Disruptive Impact: Evidence from Many Markets by William Cassidy and Shreye Mirani"
+    },
+    {
+      "title": "SFS Cavalcade (2026)",
+      "text": "An Anatomy of Retail Option Trading (by Vincent Bogousslavsky and Dmitriy Muravyev)"
+    },
+    {
+      "title": "Fixed Income and Financial Institutions Conference (2025)",
+      "text": "Pre-Refunding Announcement Gains in U.S. Treasuries (by Chen Wang and Kevin Zhao)"
+    },
+    {
+      "title": "8th Short-Term Funding Markets (STFM) Conference (2025)",
+      "text": "New Evidence on Convenient Asset Demand (by Collin Jones)"
+    },
+    {
+      "title": "Eastern Finance Association (2025)",
+      "text": "Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks? (by Abhishek Bhardwaj, Shan Ge, and Saptarshi Mukherjee)"
+    },
+    {
+      "title": "Fixed Income and Financial Institutions Conference (2024)",
+      "text": "Dealer Capacity and US Treasury Market Functionality (by Darrell Duffie, Michael Fleming, Frank Keane, Claire Nelson, Or Shachar, and Peter Van Tassel)"
+    },
+    {
+      "title": "Financial Intermediation Research Society (FIRS) Conference (2024)",
+      "text": "LTCM Redux? Hedge Fund Treasury Trading and Funding Fragility (by Mathias S. Kruttli, Phillip J. Monin, Lubomir Petrasek, and Sumudu W. Watugala)"
+    },
+    {
+      "title": "EUROFIDAI-ESSEC Paris December Finance Meeting (2023)",
+      "text": "Robust Difference-in-Differences Analysis when there is a Term Structure (by Kjell G. Nyborg and Jiri Woschitz)"
+    },
+    {
+      "title": "Fixed Income and Financial Institutions Conference (2022)",
+      "text": "Intermediary Balance Sheets and the Treasury Yield Curve (by Wenxin Du, Benjamin Hébert, Wenhao Li)"
+    },
+    {
+      "title": "Eastern Finance Association (2021)",
+      "text": "Does Liquidity Management Induce Fragility in Treasury Prices? Evidence from Bond Mutual Funds (by Shiyang Huang, Xiaoxi Liu, Xin Liu, Wenxi Jiang)"
+    },
+    {
+      "title": "Chicago Financial Institutions Conference (2020)",
+      "text": "Zombie Credit and (Dis)-Inflation: Evidence from Europe (by Viral V. Acharya, Matteo Crosignani, Tim Eisert, Christian Eufinger)"
+    },
+    {
+      "title": "Paris December Finance Meeting (2019)",
+      "text": "Overcoming Arbitrage Limits: Option Trading and Momentum Returns (by A. Abhyankar, I. Filippou, P. A. Garcia-Ares, and O. Haykir)"
+    },
+    {
+      "title": "Paris Financial Management Conference (2019)",
+      "text": "Price Bias and Common Practice in Option Pricing (by J.-F. Bégin and G. Gauthier)"
+    },
+    {
+      "title": "Northern Finance Association (2019)",
+      "text": "Default Risk and the Pricing of U.S. Sovereign Bonds (by R. Dittmar, A. Hsu, G. Roussellet, P. Simasek)"
+    },
+    {
+      "title": "Midwest Finance Association (2019)",
+      "text": "A Result and Finding to Differentiate Among Models of Term-Structure and Interest-Rate Claims (by G. Bakshi, J. Crosby, X. Gao Bakshi)"
+    },
+    {
+      "title": "Paris Financial Management Conference (2018)",
+      "text": "A Day Late and a Dollar Short: Liquidity and Household Formation among Student Borrowers (by S. Goodman, A. Isen, and C. Yannelis)"
+    },
+    {
+      "title": "2nd Short-Term Funding Markets Conference (2018)",
+      "text": "Liquidity Risk and Funding Cost (by A. Bechtel, A. Ranaldo, and J. Wrampelmeyer)"
+    },
+    {
+      "title": "Eastern Finance Association (2018)",
+      "text": "R&D Investment Intensity and Jump Volatility of Stock Prices (by C. Jiang, J. Kose, and D. Larsen)"
+    },
+    {
+      "title": "Paris Financial Management Conference (2017)",
+      "text": "The Volatility-of-Volatility Term Structure (by N. Brager, H. Hülsbusch, and A. Kraftschnik)"
+    },
+    {
+      "title": "Northern Finance Association (2017)",
+      "text": "Basel III LCR: A Regulatory Shock on a Bank and Beyond (by Y. K. Gam)"
+    },
+    {
+      "title": "Western Finance Association (2016)",
+      "text": "The Invisible Hand of the Government: Moral Suasion During the European Debt Crisis (by A. Popov, S. Ongena, and N. van Horen)"
+    }
+  ],
+  "discussions_note": "Includes scheduled discussions.",
+  "course_links": [
+    {
+      "id": "fixed-income-spring-2026",
+      "code": "FINC 409 / 609",
+      "title": "Fixed Income Securities",
+      "term": "Spring 2026",
+      "url": "https://fleckenstein-m.github.io/FINC462-662-SP2026/"
+    },
+    {
+      "id": "financial-data-analytics-spring-2026",
+      "code": "FINC 672",
+      "title": "Financial Data Analytics",
+      "term": "Spring 2026",
+      "url": "https://fleckenstein-m.github.io/FINC672-SP2026/"
+    }
+  ],
+  "teaching": [
+    {
+      "title": "University of Delaware (Instructor)",
+      "items": [
+        "FINC 672: Financial Data Analytics (MS; Spring 2026)",
+        "FINC 409: Fixed Income Securities (Undergraduate; Spring 2026)",
+        "FINC 609: Fixed Income Securities (MS; Spring 2026)",
+        "FINC 672: Workshop in Finance–Empirical Research (MS; Spring 2025)",
+        "FINC 462: Fixed Income Securities (Undergraduate; Spring 2025)",
+        "FINC 662: Fixed Income Securities (MS; Spring 2025)",
+        "UD/ISCTE-IUL Trading and Bloomberg Program (2024): Seminar on the TIPS–Treasury Bond Puzzle",
+        "FINC 672: Workshop in Finance–Empirical Research (MS; Spring 2024)",
+        "FINC 462: Fixed Income Securities (Undergraduate; Spring 2024)",
+        "FINC 662: Fixed Income Securities (MS; Spring 2024)",
+        "UD/ISCTE-IUL Trading and Bloomberg Program (2023): Seminar on the TIPS–Treasury Bond Puzzle",
+        "FINC 672: Workshop in Finance–Empirical Research (MS; Spring 2023)",
+        "FINC 462: Fixed Income Securities (Undergraduate; Spring 2023)",
+        "FINC 662: Fixed Income Securities (MS; Spring 2023)",
+        "UD/ISCTE-IUL Trading and Bloomberg Program (2022): Seminar on the TIPS–Treasury Bond Puzzle",
+        "Seminar on the TIPS–Treasury Bond Puzzle for the SWUFE-UD Joint Institute (2022)",
+        "FINC 672: Workshop in Finance–Empirical Research (MS; Spring 2022)",
+        "FINC 462: Fixed Income Securities (Undergraduate; Spring 2022)",
+        "FINC 662: Fixed Income Securities (MS; Spring 2022)",
+        "FINC 314: Investments (Undergraduate; Spring 2021)",
+        "FINC 662: Fixed Income Securities (MS; Spring 2021)",
+        "FINC 462: Fixed Income Securities (Undergraduate; Spring 2021)",
+        "FINC 313: Fixed Income Securities (Undergraduate; Spring 2017, 2018, 2019, 2020)",
+        "FINC 862: Fixed Income Securities (MS; Spring 2017, 2018, 2020)"
+      ]
+    },
+    {
+      "title": "UCLA (Teaching Assistant)",
+      "items": [
+        "MGMT 232A: Security Analysis and Investment Management (MBA; Spring 2011)",
+        "MGMT 231C: Corporate Valuation (MBA; Winter 2011, Spring 2011, Fall 2011, Spring 2012)",
+        "MGMT 237J: Asset-Backed Securities (MFE; Fall 2009, Fall 2011)",
+        "MGMT 237K: Introduction to Credit Markets (MFE; Fall 2011)",
+        "MGMT 408: Securities Markets and Investments (MBA, FEMBA; Spring 2009, Fall 2009)"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "University of Delaware (2025)",
+      "text": "Lerner College of Business and Economics Outstanding Faculty Scholar Award"
+    },
+    {
+      "title": "University of Delaware (2022–Present)",
+      "text": "SWUFE-UD Joint Institute Fellow"
+    },
+    {
+      "title": "University of Delaware (2022–Present)",
+      "text": "Institute for Financial Services Analytics (IFSA) Affiliated Faculty"
+    },
+    {
+      "title": "University of Delaware (2020)",
+      "text": "Lerner College Outstanding Junior Faculty Award"
+    },
+    {
+      "title": "Amundi Smith Breeden Distinguished Paper Award (2014)",
+      "text": "for The TIPS–Treasury Bond Puzzle"
+    },
+    {
+      "title": "Naumann-Etienne Foundation (2005–2007)",
+      "text": "Georgia Tech Full Scholarship"
+    },
+    {
+      "title": "University of Delaware Lerner College of Business and Economics (2017, 2018)",
+      "text": "Summer Research Grant"
+    },
+    {
+      "title": "UCLA (2008–2010)",
+      "text": "UCLA Anderson School of Management Summer Doctoral Fellowship"
+    }
+  ],
+  "professional_service": [
+    {
+      "title": "Referee",
+      "text": "American Economic Review; Applied Economics Letters; Economics Letters; Finance Research Letters; Financial Management; Financial Review; International Finance; Journal of Banking & Finance; Journal of Economic Dynamics and Control; Journal of Empirical Finance; Journal of Finance; Journal of Financial and Quantitative Analysis; Journal of Financial Intermediation; Journal of Financial Markets; Journal of Monetary Economics; Journal of Money, Credit and Banking; Management Science; Quarterly Review of Economics and Finance; Review of Asset Pricing Studies; Review of Economic Dynamics; Review of Economic Studies; Review of Economics and Statistics; Review of Finance; Review of Financial Studies"
+    },
+    {
+      "title": "Conference Program Committee",
+      "text": "2nd Short-Term Funding Markets Conference (2018), Midwest Finance Association (2022, 2023, 2024, 2025); Northern Finance Association (2019, 2020, 2021, 2022, 2023, 2024, 2025)"
+    },
+    {
+      "title": "Conference Session Chair",
+      "text": "ASSA Annual Meeting 2017 (Liquidity and Trading in Bond and Derivatives Markets I); Paris Financial Management Conference 2017 (Financial Engineering and Derivatives I); Midwest Finance Association Annual Meeting 2025 (Treasury Bonds); SFS Cavalcade 2026 (Asset Pricing: Credit and Derivatives)"
+    },
+    {
+      "title": "Professional Memberships",
+      "text": "American Finance Association; American Economic Association; Eastern Finance Association; European Finance Association; Financial Management Association; Midwest Finance Association; Northern Finance Association; Society for Financial Studies; Western Finance Association"
+    },
+    {
+      "title": "Other",
+      "text": "Review of Proposal No. 1231858 on Pension Policy and Sovereign Credit Risk for the 2023 Regular FONDECYT National Projects Competition by the Chilean National Research Agency (ANID); Comment on Treasury Futures Basis Trade for the [Global Association of Risk Professionals (GARP)](https://www.garp.org/risk-intelligence/market/trades-treasury-risk-240112)"
+    }
+  ],
+  "university_service": [
+    {
+      "title": "M.S. Finance Program Committee (2018)",
+      "text": ""
+    },
+    {
+      "title": "Undergraduate Curriculum Committee (2022)",
+      "text": ""
+    },
+    {
+      "title": "Continuing-Track Faculty Recruiting Committee Chair (2022)",
+      "text": ""
+    },
+    {
+      "title": "FinTech Committee (2020, 2023)",
+      "text": ""
+    },
+    {
+      "title": "Ad-hoc Committee on Calculus in Finance (2023)",
+      "text": ""
+    },
+    {
+      "title": "Ad-hoc Financial Databases Committee (2023)",
+      "text": ""
+    },
+    {
+      "title": "Co-Chair Tenure-Track Faculty Recruiting Committee (2023)",
+      "text": ""
+    },
+    {
+      "title": "Tenure-Track Faculty Recruiting Committee (2018, 2019, 2021, 2024)",
+      "text": ""
+    },
+    {
+      "title": "Lerner Strategic Planning FinTech Team Leader (jointly with Gang Wang) (2024)",
+      "text": ""
+    },
+    {
+      "title": "P&T Committee Chair (2024)",
+      "text": ""
+    },
+    {
+      "title": "P&T Committee (2023, 2024, 2025)",
+      "text": ""
+    },
+    {
+      "title": "Lerner College of Business and Economics Organization Committee (2021, 2022, 2023, 2024, 2025)",
+      "text": ""
+    },
+    {
+      "title": "Faculty Senate (2022, 2023, 2024, 2025)",
+      "text": ""
+    }
+  ],
+  "additional_information": [
+    {
+      "title": "Programming Languages and Software: C/C++, Julia, MATLAB, Python, SAS, Stata",
+      "text": ""
+    },
+    {
+      "title": "Citizenship: United States, Germany",
+      "text": ""
+    },
+    {
+      "title": "Languages: English, French, German (native)",
+      "text": ""
+    }
+  ],
+  "biography": "My research focuses on asset pricing and how financial frictions create persistent deviations from no-arbitrage relationships and shape prices across financial markets.",
+  "sourceHash": "55726d10aecd6ffa31931cc7cc15d1d1859c000b26cbc232629a73096716cb0b"
+}
