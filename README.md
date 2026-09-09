@@ -2,9 +2,11 @@
 
 Edit [content/academic.md](content/academic.md) to update the website and full CleanCV PDF. Store downloadable files in `public/`. Everything else is generated or controls the design.
 
-Project folder on this computer: `F:\AcademicWebpage\design-proof`.
+Project folder on this computer: `F:\AcademicWebpage\github-pages-migration`. Use its `master` branch for routine updates.
 
-The [private design preview](https://matthias-fleckenstein-design-proof.magicmaze.chatgpt.site/) is separate from the existing public website. Building locally does not publish. See [the step-by-step GitHub Pages migration guide](docs/GITHUB-PAGES.md) for the public launch procedure, commands, and rollback instructions. The accompanying workflow template is prepared under `docs/` and has not been installed on GitHub.
+The [public website](https://fleckenstein-m.github.io/) is live on GitHub Pages. The installed [Academic website workflow](.github/workflows/pages.yml) builds and checks updates to `master`; publication requires a manual run with **Publish this build to the public academic website** checked. Building locally does not publish. See [the GitHub Pages guide](docs/GITHUB-PAGES.md#routine-updates-after-migration) for routine updates and rollback instructions.
+
+The [private design preview](https://matthias-fleckenstein-design-proof.magicmaze.chatgpt.site/) remains separate. Maintain this GitHub checkout as the authoritative source; edits do not automatically synchronize to the old design-proof folder or its hosted preview.
 
 ## 1. What goes where
 
@@ -135,8 +137,8 @@ Replace the example DOI with the real URL. Add only fields whose files you have 
 
 | File on this computer | Value in academic.md |
 | --- | --- |
-| `F:\AcademicWebpage\design-proof\public\papers\treasury-richness.pdf` | `/papers/treasury-richness.pdf` |
-| `F:\AcademicWebpage\design-proof\public\appendices\treasury-richness-internet-appendix.pdf` | `/appendices/treasury-richness-internet-appendix.pdf` |
+| `F:\AcademicWebpage\github-pages-migration\public\papers\treasury-richness.pdf` | `/papers/treasury-richness.pdf` |
+| `F:\AcademicWebpage\github-pages-migration\public\appendices\treasury-richness-internet-appendix.pdf` | `/appendices/treasury-richness-internet-appendix.pdf` |
 
 The `public` folder is the website root, so **do not include `public` in the link**. Do not use an `E:\` or `F:\` path in a URL. Files elsewhere on your computer are not automatically copied or synchronized.
 
@@ -179,7 +181,7 @@ datasets:
     url: /data/FLL_2014_JF.xlsx
 ```
 
-The file lives at `F:\AcademicWebpage\design-proof\public\data\FLL_2014_JF.xlsx`. Its website path is `/data/FLL_2014_JF.xlsx`: omit `public` and retain the exact filename capitalization. The dataset description is displayed as written, and **Associated paper** links to the paper identified by `paper_id`.
+The file lives at `F:\AcademicWebpage\github-pages-migration\public\data\FLL_2014_JF.xlsx`. Its website path is `/data/FLL_2014_JF.xlsx`: omit `public` and retain the exact filename capitalization. The dataset description is displayed as written, and **Associated paper** links to the paper identified by `paper_id`.
 
 ### Add another dataset
 
@@ -317,7 +319,7 @@ Change a label or URL, reorder entries, or copy an entry to add another profile.
 Open PowerShell:
 
 ```powershell
-Set-Location 'F:\AcademicWebpage\design-proof'
+Set-Location 'F:\AcademicWebpage\github-pages-migration'
 npm run build
 ```
 
@@ -339,7 +341,16 @@ npm run content
 
 That refreshes website data and the PDF. Refresh the browser or reopen the PDF if it still shows a cached version. Run `npm run build` before publication.
 
-Review the changed Research/Data entries, open new downloads, and check the affected CV pages. **None of these commands publishes.** The private Sites preview requires a separate deployment; automatic publishing to GitHub Pages is not yet configured.
+Review the changed Research/Data entries, open new downloads, and check the affected CV pages. **None of these commands publishes.** After committing and pushing to `master`, open GitHub's **Actions → Academic website → Run workflow**, select **master**, check **Publish this build to the public academic website**, and start the run. Wait for both **build** and **deploy** to succeed.
+
+For a fresh checkout on this computer, install the local dependencies once before building:
+
+```powershell
+npm ci
+& 'C:\Users\mflecken\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m pip install --target scripts/vendor -r requirements.txt
+```
+
+The `scripts/vendor` folder is ignored by Git. The build wrapper selects the same bundled Python installation automatically. On another computer, follow Section 13 instead.
 
 ### If something fails
 
@@ -383,8 +394,9 @@ For maintenance checks, `python scripts/test_content_model.py` tests resource va
 | `templates/cleancv/` | Unmodified MIT-licensed CleanCV style |
 | `work/cv/` | Generated LaTeX and compilation logs |
 | `dist/client/` | Generated deployable website |
-| `docs/GITHUB-PAGES.md` | Public migration and publishing plan |
-| `docs/pages-workflow.example.yml` | Inactive GitHub Actions template for the migration |
+| `.github/workflows/pages.yml` | Installed GitHub build and manual publishing workflow |
+| `docs/GITHUB-PAGES.md` | Migration record, routine publishing, and rollback instructions |
+| `docs/pages-workflow.example.yml` | Reference copy of the installed workflow; keep it synchronized |
 
 The original August 2026 CV was migrated in full: 10 published/forthcoming papers, 7 working papers, 1 book chapter, 14 presentation groups, 21 discussions, 29 teaching entries, 8 awards, citation totals with their source dates, service, and additional information. These are historical migration totals, not limits on future entries.
 
@@ -394,4 +406,4 @@ The original `E:\Research\Tenure\CurriculumVitae\MarkdownCV` directory remains u
 
 “Design proof” was the name given to the separate site used to develop and review this replacement. The current implementation is functional, including the CV, paper downloads, Data, and Teaching pages. The phrase is a name, not a limitation of the website.
 
-The current address is hosted by Sites and is restricted to your account. It is not your GitHub Pages publication. When the same website is published through your existing GitHub repository, visitors will use your verified public domain or `https://fleckenstein-m.github.io/`; `design-proof` will not be part of that address. The local folder name can stay as it is and has no effect on the public URL.
+The private preview address is hosted by Sites and is restricted to your account. The public GitHub Pages website is now live at `https://fleckenstein-m.github.io/`. The original design-proof folder can remain as a reference; use `F:\AcademicWebpage\github-pages-migration\content\academic.md` for future public-site updates. The local folder name has no effect on the public URL.

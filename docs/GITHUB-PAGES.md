@@ -1,8 +1,10 @@
 # Step-by-step migration to GitHub Pages
 
-This guide moves the new academic website to your existing public repository. **These migration steps have not been executed.** The existing GitHub homepage, course websites, and DNS remain unchanged.
+The redesigned website was published successfully on September 9, 2026 at [fleckenstein-m.github.io](https://fleckenstein-m.github.io/), after [pull request #3](https://github.com/fleckenstein-m/fleckenstein-m.github.io/pull/3) merged. The first [public publishing run](https://github.com/fleckenstein-m/fleckenstein-m.github.io/actions/runs/34393179505) passed both build and deploy. All five pages, the nine-page CV, the paper and dataset downloads, and the two course websites were verified.
 
-Prepared September 9, 2026. The public repository was checked: it is `fleckenstein-m/fleckenstein-m.github.io`, its default branch is `master`, and Pages is enabled. The actual Pages publishing source and custom-domain setting require checking in your signed-in repository settings.
+Current setup: repository `fleckenstein-m/fleckenstein-m.github.io`, default branch `master`, Pages source **GitHub Actions**, **Enforce HTTPS** enabled, and no GitHub custom domain. The domain `mfleckenstein.com` remains at IONOS with its existing frame redirect to `https://fleckenstein-m.github.io/`; direct custom-domain setup is still pending. Before migration, Pages used **Deploy from a branch → master → / (root)**. The tag `before-academic-redesign-2026-09-09` preserves that source for rollback.
+
+The numbered migration steps below are retained as a record. For ongoing changes, use [Routine updates after migration](#routine-updates-after-migration), working in `F:\AcademicWebpage\github-pages-migration` on `master`.
 
 ## What “design-proof” means
 
@@ -18,7 +20,7 @@ Retain the existing GitHub repository and its history. Prepare the new source on
 
 Use the supplied [workflow template](pages-workflow.example.yml). It checks pull requests and pushes to `master`. Public deployment happens only when you run it manually from `master` with **Publish** selected. This makes the first launch and subsequent publication decisions explicit.
 
-The template is stored under `docs/` and is inactive. It has not run on a GitHub runner. The first pull-request build below is the required check of the Linux/LaTeX setup before public cutover. No new paid service, database, or always-running server is required by this website architecture.
+The installed workflow is `.github/workflows/pages.yml`; `docs/pages-workflow.example.yml` is its reference copy. GitHub's Linux/LaTeX build and the first public deployment have passed. No new paid service, database, or always-running server is required by this website architecture.
 
 ## Step 1 — Record the current setup
 
@@ -58,7 +60,7 @@ First make sure the design-proof checkout contains your latest saved work and a 
 
 ```powershell
 Set-Location 'F:\AcademicWebpage\design-proof'
-git status --short
+git -c safe.directory=F:/AcademicWebpage/design-proof status --short
 npm run build
 ```
 
@@ -67,12 +69,14 @@ The next command exports the latest committed version. If `git status` shows unc
 Export the tracked source and expand it into the migration branch:
 
 ```powershell
-git archive --format=zip --output='F:/AcademicWebpage/academic-site-source.zip' HEAD
+git -c safe.directory=F:/AcademicWebpage/design-proof archive --format=zip --output='F:/AcademicWebpage/academic-site-source.zip' HEAD
 Expand-Archive -LiteralPath 'F:\AcademicWebpage\academic-site-source.zip' -DestinationPath 'F:\AcademicWebpage\github-pages-migration' -Force
 Set-Location 'F:\AcademicWebpage\github-pages-migration'
 ```
 
 This preserves the migration checkout's `.git` directory because `git archive` does not contain Git's internal history. It also excludes ignored dependencies and temporary files.
+
+The command-specific `safe.directory` setting handles the original design-proof folder's sandbox ownership without changing global Git settings.
 
 Remove only the copied Sites manifest from the new GitHub checkout; GitHub does not use it. Keep the original manifest in the design-proof checkout:
 
@@ -136,7 +140,7 @@ In `F:\AcademicWebpage\github-pages-migration`:
 
 ```powershell
 npm ci
-python -m pip install -r requirements.txt pdfplumber
+& 'C:\Users\mflecken\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m pip install --target scripts/vendor -r requirements.txt
 npm run build
 npm run dev
 ```
