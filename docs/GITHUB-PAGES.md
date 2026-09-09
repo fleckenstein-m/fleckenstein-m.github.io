@@ -109,7 +109,7 @@ Copy-Item -LiteralPath 'docs\pages-workflow.example.yml' -Destination '.github\w
 The template:
 
 - Uses the confirmed `master` branch. Update all branch references if you deliberately change the repository's default branch later.
-- Installs Node, Python, pdfLaTeX, and the CleanCV font packages.
+- Installs Node, Python, pdfLaTeX, the CleanCV font packages, and `texlive-bibtex-extra`, which supplies the template's required `biblatex.sty`. Checks that the key LaTeX packages are present before building.
 - Runs content checks, builds both outputs, checks TypeScript, and audits CV completeness.
 - Verifies all generated pages and local file references through the project's build script.
 - Uploads only `dist/client/`.

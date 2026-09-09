@@ -37,10 +37,11 @@ jobs:
       - name: Install LaTeX and fonts
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends texlive-latex-extra texlive-fonts-extra
+          sudo apt-get install -y --no-install-recommends texlive-latex-extra texlive-fonts-extra texlive-bibtex-extra
           kpsewhich ETbb.sty
           kpsewhich fontawesome.sty
           kpsewhich needspace.sty
+          kpsewhich biblatex.sty
       - name: Install project dependencies
         run: |
           npm ci
