@@ -1,0 +1,4 @@
+import {SiteFrame,Arrow} from '../site-frame';
+import data from '../generated/academic.json';
+export const metadata={title:'Curriculum Vitae | Matthias Fleckenstein'};
+export default function CV(){return <SiteFrame active="cv"><main className="shell cv-main" id="main"><div className="cv-heading"><div className="page-heading"><p className="eyebrow">Academic record</p><h1>Curriculum vitae</h1></div><a className="button primary" href="/Matthias-Fleckenstein-CV.pdf" download>Download PDF <Arrow/></a></div><p className="proof-note">Updated {data.profile.updated}</p><div className="cv-viewer"><object data="/Matthias-Fleckenstein-CV.pdf#view=FitH" type="application/pdf" aria-label="Curriculum vitae"><p><a href="/Matthias-Fleckenstein-CV.pdf">Open the CV PDF</a></p></object></div><p className="cv-fallback"><a className="text-link" href="/Matthias-Fleckenstein-CV.pdf" target="_blank" rel="noopener noreferrer">Open PDF in a new tab <Arrow/></a></p></main></SiteFrame>}
