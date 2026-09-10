@@ -1,12 +1,29 @@
-# Step-by-step migration to GitHub Pages
+# GitHub Pages: completed migration and maintenance guide
 
 The redesigned website was published successfully on September 9, 2026 at [fleckenstein-m.github.io](https://fleckenstein-m.github.io/), after [pull request #3](https://github.com/fleckenstein-m/fleckenstein-m.github.io/pull/3) merged. The first [public publishing run](https://github.com/fleckenstein-m/fleckenstein-m.github.io/actions/runs/34393179505) passed both build and deploy. All five pages, the nine-page CV, the paper and dataset downloads, and the two course websites were verified.
 
 Current setup, September 10, 2026: repository `fleckenstein-m/fleckenstein-m.github.io`, default branch `master`, Pages source **GitHub Actions**, custom domain **www.mfleckenstein.com**, and **Enforce HTTPS** selected. The public address is [https://www.mfleckenstein.com/](https://www.mfleckenstein.com/). IONOS manages the domain registration and DNS; GitHub Pages directly serves the website and its HTTPS certificate. The address without `www` redirects to the `www` address. The repository variable `ACADEMIC_SITE_URL` is set to `https://www.mfleckenstein.com/`.
 
+The final custom-domain update, commit [`1c8637f`](https://github.com/fleckenstein-m/fleckenstein-m.github.io/commit/1c8637f8b55a46cecf0ea40839e9ef696f9dfa0a), passed its [automatic build check](https://github.com/fleckenstein-m/fleckenstein-m.github.io/actions/runs/34472419419) and was published by [run 34472885126](https://github.com/fleckenstein-m/fleckenstein-m.github.io/actions/runs/34472885126). Both **build** and **deploy** succeeded. This completes the website, CV, and custom-domain migration.
+
 Before migration, Pages used **Deploy from a branch → master → / (root)** and IONOS used a frame redirect. The tag `before-academic-redesign-2026-09-09` preserves that source for rollback.
 
 The numbered migration steps below are retained as a record. For ongoing changes, use [Routine updates after migration](#routine-updates-after-migration), working in `F:\AcademicWebpage\github-pages-migration` on `master`.
+
+### Final verification on September 10, 2026
+
+| Check | Verified result |
+| --- | --- |
+| `http://www.mfleckenstein.com/` | 301 redirect to `https://www.mfleckenstein.com/` |
+| `http://mfleckenstein.com/` and `https://mfleckenstein.com/` | 301 redirect to the secure `www` address |
+| `https://fleckenstein-m.github.io/` | 301 redirect to the secure `www` address |
+| Home, Research, CV, Data, and Teaching | All returned HTTP 200 over HTTPS |
+| Current downloadable CV | Nine pages; the website hyperlink uses HTTPS; the build audited all 253 content fields |
+| Original dated CV, paper PDF, and XLSX dataset | Download links returned HTTP 200 |
+| Both Spring 2026 course links | Redirected to the corresponding custom-domain paths and returned HTTP 200 |
+| Homepage search indexing | `index, follow`; no `noindex` directive in the published homepage |
+
+These results record the completed migration. For later content updates, verify the affected pages and downloads after publication.
 
 ## Custom domain configuration
 
@@ -43,9 +60,26 @@ The old IONOS Webhosting connection for `www` was disabled when the CNAME was cr
 
 ### HTTPS and course links
 
-GitHub issues the HTTPS certificate after DNS validation. During this migration, **DNS check successful** appeared before **Enforce HTTPS** became available. A cached DNS lookup initially returned the old IONOS address; HTTPS was serving correctly the following morning. If troubleshooting is needed, check the current DNS and certificate before changing records or restarting the certificate request. See [GitHub's HTTPS guidance](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https).
+GitHub issues the HTTPS certificate after DNS validation. These are separate stages:
 
-After enabling enforcement, verify that `http://www.mfleckenstein.com/` redirects to `https://www.mfleckenstein.com/`. A cached HTTP response can remain briefly after the setting changes.
+| Stage | What it confirms |
+| --- | --- |
+| Account domain verification | The TXT record proves ownership of `mfleckenstein.com`; it does not route website traffic |
+| **DNS check successful** in repository Pages settings | GitHub accepts the website's DNS configuration; this does not yet confirm that the certificate is ready |
+| The HTTPS address opens with a valid certificate | GitHub can serve the secure website |
+| **Enforce HTTPS** is selected and HTTP redirects to HTTPS | Visitors using the HTTP address are sent to the secure website |
+
+During this migration, DNS validation passed while the checkbox still said the domain was not properly configured for HTTPS. The authoritative IONOS nameservers had the correct CNAME, but a cached lookup still returned the old IONOS address. The certificate request was restarted once using GitHub's documented remove-and-readd procedure. HTTPS was serving correctly the following morning; a full reload of the Pages settings with **Ctrl+F5** was used before enabling enforcement.
+
+If this issue recurs, first verify the saved DNS records and open the secure address directly. If HTTPS already works but the checkbox is unavailable, fully reload the GitHub Pages settings. Allow certificate processing and DNS caches to settle; GitHub documents that the HTTPS option can take up to 24 hours to become available. Repeatedly changing correct DNS records or removing and readding the custom domain is not a routine content-update step. See [GitHub's HTTPS guidance](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https) and [custom-domain instructions](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
+
+After the checkbox was enabled, one cached HTTP response initially still served the page without redirecting. A later check confirmed the expected 301 redirect. Enforcement was therefore verified from the live response as well as the checkbox. For a quick future check, run:
+
+```powershell
+curl.exe --head http://www.mfleckenstein.com/
+```
+
+The expected response begins with `301 Moved Permanently` and includes `Location: https://www.mfleckenstein.com/`.
 
 The Teaching page's original GitHub course links now redirect to `https://www.mfleckenstein.com/FINC462-662-SP2026/` and `https://www.mfleckenstein.com/FINC672-SP2026/`. Both destinations were checked successfully. Continue maintaining the course content in its separate repositories.
 
@@ -59,7 +93,7 @@ The current `matthias-fleckenstein-design-proof.magicmaze.chatgpt.site` address 
 
 The local folder `F:\AcademicWebpage\design-proof` can retain its name. A folder name does not determine the public address. Keep the private preview available for review during migration; there is no need to rename it to launch on GitHub.
 
-## The recommended approach
+## The original migration approach
 
 Retain the existing GitHub repository and its history. Prepare the new source on a separate branch. GitHub Actions builds the website and CV together and publishes only `dist/client/`.
 
@@ -142,6 +176,8 @@ Get-ChildItem -LiteralPath 'F:\AcademicWebpage\github-pages-migration' -File -Fi
 
 The new website's current CV remains `/Matthias-Fleckenstein-CV.pdf`. Keep dated legacy filenames attached to their original documents; do not substitute a new CV under an old date.
 
+This copy step was completed during migration. After launch, the 24 redundant root-level CV PDFs were removed, including `a.pdf` and `index.pdf`. Each retained `public/` copy was verified against the root original using SHA-256 before removal, and its hash was checked again afterward. The current checkout keeps these historical downloads in `public/`; do not repeat the initial copy step as part of routine maintenance.
+
 Review other important old public paths. To preserve any of them, copy the relevant file into the same relative path under `public/`. Root `index.html` is replaced by the newly generated homepage.
 
 Do not move or rename the repositories hosting `FINC462-662-SP2026` and `FINC672-SP2026`. The Teaching page links to them at their existing addresses. Check those links after the academic-site launch as part of the final verification.
@@ -165,6 +201,17 @@ The template:
 - Deploys only a manually requested publishing run from `master` after its build succeeds.
 
 GitHub's [custom Pages workflows documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages) describes this artifact-based publication method. Runtime setup follows the official [Node setup action](https://github.com/actions/setup-node) and [Python setup action](https://github.com/actions/setup-python).
+
+### Build issues resolved during migration
+
+| Issue | Resolution |
+| --- | --- |
+| `biblatex.sty` missing on the GitHub runner | Added `texlive-bibtex-extra` to the Ubuntu package installation and a `kpsewhich biblatex.sty` check |
+| Long LaTeX installation | The font packages required a large download; the installation completed successfully. Diagnose an actual failed step rather than treating an active download as a failure |
+| Node.js 20 deprecation warnings from Pages actions | Updated `actions/upload-pages-artifact` to `v5.0.0`, `actions/configure-pages` to `v6.0.0`, and `actions/deploy-pages` to `v5.0.1`. The action runtime is separate from the Node version used to build the website |
+| Git reported dubious ownership of the original design-proof checkout | Used the command-specific `-c safe.directory=F:/AcademicWebpage/design-proof` setting shown in Step 3 |
+
+These fixes are already in the installed workflow or documented migration commands. Keep `.github/workflows/pages.yml` and `docs/pages-workflow.example.yml` synchronized when changing the build. The final successful publishing run exercised the updated build and deploy actions.
 
 ## Step 6 — Set the final site address for public builds
 
@@ -202,7 +249,7 @@ git commit -m "Prepare redesigned academic website and CV"
 git push -u origin academic-redesign
 ```
 
-On GitHub, open a pull request from `academic-redesign` into `master`. Wait for the **Academic website / build** check to pass. Review the changed files and the generated artifact. A missing LaTeX package, broken local resource reference, or compilation failure must be fixed on this branch and checked again.
+On GitHub, prepare a pull request with base `master` and compare branch `academic-redesign`. Enter its title and description before clicking the final **Create pull request** button. Wait for the **Academic website / build** check to pass. Review the changed files and the generated artifact. A missing LaTeX package, broken local resource reference, or compilation failure must be fixed on this branch and checked again.
 
 The first runner build verifies the prepared workflow in the real GitHub environment. It may take longer because it installs the font packages. A successful local build does not substitute for this check.
 
@@ -224,10 +271,10 @@ If you use a custom domain, its authoritative setting is **Settings → Pages �
 
 1. Open the repository's **Actions** tab.
 2. Select **Academic website**.
-3. Choose **Run workflow**.
-4. Select branch **master**.
-5. Select **Publish this build to the public academic website**.
-6. Start the run and wait for both **build** and **deploy** to succeed.
+3. Click **Run workflow** above the run list to open its options panel.
+4. In that panel, select branch **master**.
+5. Check **Publish this build to the public academic website**.
+6. Click the green **Run workflow** button inside the panel, then wait for both **build** and **deploy** to succeed.
 7. Open the URL in the deployment result.
 
 The **Run workflow** control becomes available after the workflow file exists on the default branch. If GitHub requires approval for the `github-pages` environment, approve that deployment after checking the run.
@@ -252,13 +299,19 @@ Confirm a public publishing build does not contain `noindex` in the homepage's r
 
 Use the GitHub checkout as the authoritative project after launch. You can continue using the private preview when needed, but do not independently edit two diverging copies of academic.md.
 
+The [README publishing checklist](../README.md#publish-an-update) contains the PowerShell commands and exact GitHub controls for ordinary updates. The initial migration branch, source archive, rollback tag, domain verification, and DNS records do not need to be recreated.
+
 1. Pull the latest `master` into `F:\AcademicWebpage\github-pages-migration`.
 2. Edit `content/academic.md`; add files under `public/` when needed.
 3. Build and review.
 4. Commit and push, or use a pull request for review.
-5. Wait for the automatic build check.
-6. Run **Academic website** manually from `master` with **Publish** selected.
-7. Confirm deployment success before treating the update as live.
+5. Wait for the automatic build check for that commit. Its **deploy** job is skipped by design.
+6. Open **Run workflow**, choose `master`, select **Publish this build to the public academic website**, and then click the green **Run workflow** button inside the panel.
+7. Confirm both **build** and **deploy** succeed in the new manual run, and verify the changed public pages or downloads.
+
+The manual run rebuilds the website and CV from the selected branch. It does not publish files from your local computer or automatically promote the earlier push-run artifact. Include your source edits, new downloads, and regenerated tracked JSON/CV files in the commit before starting it.
+
+For changes only to `README.md` or files under `docs/`, commit and push the documentation. The automatic build check will still run, but a local website build and a manual public deployment are unnecessary because these documents are not website content.
 
 Initially, manual publication is the recommended setting. Later we can configure successful updates to `master` to publish automatically. That would require changing the workflow's deployment condition and public-build flag together; adding a push trigger alone is insufficient.
 

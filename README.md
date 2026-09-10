@@ -10,6 +10,10 @@ The [private design preview](https://matthias-fleckenstein-design-proof.magicmaz
 
 The custom domain was connected on September 10, 2026. IONOS manages the domain registration and DNS; GitHub Pages serves the website and its HTTPS certificate. The repository variable `ACADEMIC_SITE_URL` is set to `https://www.mfleckenstein.com/`, and `profile.website` in the main content file supplies the CV's website link. Ordinary content updates need no DNS changes. See [the saved domain configuration](docs/GITHUB-PAGES.md#custom-domain-configuration) for the exact settings and the IONOS `www` checkbox detail.
 
+Migration is complete: the [final publishing run](https://github.com/fleckenstein-m/fleckenstein-m.github.io/actions/runs/34472885126) deployed commit `1c8637f` successfully on September 10, 2026. HTTPS enforcement and the redirects from the bare domain and original GitHub address were verified, along with the public pages, CV, paper and data downloads, and course links.
+
+For your next update, start with the relevant content example below, then follow [Publish an update](#publish-an-update). The migration guide's initial setup steps are historical; routine updates use the existing checkout and domain settings.
+
 ## 1. What goes where
 
 | Change | Location in academic.md | Appears in |
@@ -343,7 +347,7 @@ npm run content
 
 That refreshes website data and the PDF. Refresh the browser or reopen the PDF if it still shows a cached version. Run `npm run build` before publication.
 
-Review the changed Research/Data entries, open new downloads, and check the affected CV pages. **None of these commands publishes.** After committing and pushing to `master`, open GitHub's **Actions → Academic website → Run workflow**, select **master**, check **Publish this build to the public academic website**, and start the run. Wait for both **build** and **deploy** to succeed.
+Review the changed Research/Data entries, open new downloads, and check the affected CV pages. **None of these commands publishes.** Use the publishing steps below when the update is ready.
 
 For a fresh checkout on this computer, install the local dependencies once before building:
 
@@ -353,6 +357,45 @@ npm ci
 ```
 
 The `scripts/vendor` folder is ignored by Git. The build wrapper selects the same bundled Python installation automatically. On another computer, follow Section 13 instead.
+
+### Publish an update
+
+Before starting a new edit, open the existing project and synchronize it:
+
+```powershell
+Set-Location 'F:\AcademicWebpage\github-pages-migration'
+git status --short --branch
+git switch master
+git pull --ff-only
+```
+
+If the status lists unfinished local edits, preserve or finish that work before switching branches or pulling. If you have already edited the main file, continue with that work instead of restarting the synchronization steps.
+
+After editing `content/academic.md`, adding any files under `public/`, and completing the build and review above, save the changes in Git:
+
+```powershell
+git status --short
+git diff --stat
+git add content/academic.md app/generated/academic.json public/
+git diff --cached --stat
+git commit -m "Update academic website and CV"
+git push origin master
+```
+
+Use a commit message describing your update, such as `Add working paper on Treasury liquidity`. Review the listed files before committing. The build regenerates `app/generated/academic.json` and both current CV copies; include those generated changes. If you also edited documentation or code, add those specific files as well.
+
+Then publish from GitHub:
+
+1. Open the [Academic website workflow](https://github.com/fleckenstein-m/fleckenstein-m.github.io/actions/workflows/pages.yml). Wait for the automatic run for your pushed commit to finish with a green **build** check. **deploy: Skipped** is expected for this push run.
+2. Click **Run workflow** above the run list to open its options.
+3. In that panel, choose **Branch: master** and check **Publish this build to the public academic website**.
+4. After setting those options, click the green **Run workflow** button inside the panel. This starts a separate publishing run.
+5. Open that new run and wait for both **build** and **deploy** to succeed. Check that the run uses the commit you intended to publish.
+6. Open [the public website](https://www.mfleckenstein.com/) and check the changed pages and downloads. For a CV change, open the [current public PDF](https://www.mfleckenstein.com/Matthias-Fleckenstein-CV.pdf). Reload the page or PDF if it shows an older cached copy.
+
+A green push build confirms that the changes passed checks. The separate successful publishing run makes them live. Each public build generates the website and CV together using the content committed to GitHub.
+
+For changes only to `README.md` or `docs/`, commit and push those files to update the repository documentation. A local website build and a manual website deployment are unnecessary; the automatic GitHub push check still runs.
 
 ### If something fails
 
@@ -365,7 +408,12 @@ The `scripts/vendor` folder is ignored by Git. The build wrapper selects the sam
 | Unknown paper_id | Copy the paper's existing ID exactly |
 | Data entry has no resources | Add a real file/link or leave the draft out of the list |
 | CleanCV compilation failed | Inspect `work/cv/compile-output.txt`; verify MiKTeX/TeX Live is installed |
-| Content changed locally but not online | Rebuild, review, then publish through the configured hosting workflow |
+| Content changed locally but not online | Confirm you edited this checkout's `content/academic.md`, then build, commit, push, and complete the manual publishing run |
+| Green build with **deploy: Skipped** | Expected for a push check or a manual run without the Publish checkbox; use [Publish an update](#publish-an-update) to publish |
+| Missing `biblatex.sty` on GitHub | The workflow must install `texlive-bibtex-extra`; see [build troubleshooting](docs/GITHUB-PAGES.md#build-issues-resolved-during-migration) |
+| LaTeX installation takes a long time | The font packages are large; an active download is not itself a build failure |
+| DNS check passed but Enforce HTTPS is unavailable | DNS validation, certificate readiness, and enforcement are separate stages; follow [HTTPS troubleshooting](docs/GITHUB-PAGES.md#https-and-course-links) |
+| A page or CV looks old after successful deployment | Reload the public page or PDF; confirm the publishing run used the intended commit |
 
 ## 13. Setup on another computer
 
@@ -389,6 +437,7 @@ For maintenance checks, `python scripts/test_content_model.py` tests resource va
 | `public/papers/` | Author paper PDFs |
 | `public/appendices/` | Internet Appendices |
 | `public/data/` | Selected datasets and documentation |
+| Dated CV PDFs in `public/` | Retained originals that preserve historical download URLs |
 | `public/portrait.jpg` | Homepage portrait |
 | `app/` | Website layout and page templates |
 | `scripts/content_model.py` | Content and local-file validation |
@@ -403,6 +452,19 @@ For maintenance checks, `python scripts/test_content_model.py` tests resource va
 The original August 2026 CV was migrated in full: 10 published/forthcoming papers, 7 working papers, 1 book chapter, 14 presentation groups, 21 discussions, 29 teaching entries, 8 awards, citation totals with their source dates, service, and additional information. These are historical migration totals, not limits on future entries.
 
 The original `E:\Research\Tenure\CurriculumVitae\MarkdownCV` directory remains unchanged. Going forward, maintain this project's academic.md; changes to the old index.md do not synchronize into it.
+
+The 24 old CV PDFs formerly duplicated in the project root were removed after verifying that each had an identical copy in `public/`. This includes the older `a.pdf` and `index.pdf` files. The retained public copies keep historical download links working. Use `public/Matthias-Fleckenstein-CV.pdf` for the current generated CV; there is no need to keep another copy in the project root.
+
+### Other folders under F:\AcademicWebpage
+
+| Folder or file | Keep it? |
+| --- | --- |
+| `F:\AcademicWebpage\github-pages-migration` | Yes. This is the current working project for the public website and CV. |
+| `F:\AcademicWebpage\tmp` | Optional; removable. It contains migration scripts, early content copies, proof archives, and rendered CV preview images. The current project does not depend on it. |
+| `F:\AcademicWebpage\design-proof` | Optional; removable if you no longer need to work on the old prototype or retain its local Git history. The current project does not depend on it. |
+| `F:\AcademicWebpage\academic-site-source.zip` | Keep as a compact source snapshot of the original prototype. It contains all 109 tracked files from design-proof commit `f7c5dfc`; this was verified on September 10, 2026. It excludes Git history, ignored dependencies, and temporary build files. |
+
+The ZIP is a historical prototype snapshot, not a backup of the latest public project. Current source updates belong in the GitHub checkout and are saved to the repository by committing and pushing. Removing either optional sibling folder does not change the GitHub repository or its deployed website.
 
 ## What “design-proof” means
 
