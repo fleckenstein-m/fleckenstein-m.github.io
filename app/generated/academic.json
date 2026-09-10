@@ -8,7 +8,7 @@
     "phone": "(302) 831-4936",
     "office": "310 Purnell Hall",
     "address": "Newark, Delaware 19716",
-    "website": "http://www.mfleckenstein.com",
+    "website": "https://www.mfleckenstein.com",
     "portrait": "/portrait.jpg",
     "updated": "August 2026"
   },
@@ -686,5 +686,5 @@
     }
   ],
   "biography": "My research focuses on asset pricing and how financial frictions create persistent deviations from no-arbitrage relationships and shape prices across financial markets.",
-  "sourceHash": "55726d10aecd6ffa31931cc7cc15d1d1859c000b26cbc232629a73096716cb0b"
+  "sourceHash": "b68ea71f8c492a3e69e8b520ab9f8a64e01fa845a63c2a7ee83ac190aab8e7d0"
 }

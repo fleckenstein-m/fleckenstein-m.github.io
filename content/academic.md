@@ -8,7 +8,7 @@ profile:
   phone: (302) 831-4936
   office: 310 Purnell Hall
   address: Newark, Delaware 19716
-  website: http://www.mfleckenstein.com
+  website: https://www.mfleckenstein.com
   portrait: /portrait.jpg
   updated: August 2026
 # Small text links in the website footer, in display order.

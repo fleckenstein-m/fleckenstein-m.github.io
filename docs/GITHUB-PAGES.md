@@ -2,9 +2,54 @@
 
 The redesigned website was published successfully on September 9, 2026 at [fleckenstein-m.github.io](https://fleckenstein-m.github.io/), after [pull request #3](https://github.com/fleckenstein-m/fleckenstein-m.github.io/pull/3) merged. The first [public publishing run](https://github.com/fleckenstein-m/fleckenstein-m.github.io/actions/runs/34393179505) passed both build and deploy. All five pages, the nine-page CV, the paper and dataset downloads, and the two course websites were verified.
 
-Current setup: repository `fleckenstein-m/fleckenstein-m.github.io`, default branch `master`, Pages source **GitHub Actions**, **Enforce HTTPS** enabled, and no GitHub custom domain. The domain `mfleckenstein.com` remains at IONOS with its existing frame redirect to `https://fleckenstein-m.github.io/`; direct custom-domain setup is still pending. Before migration, Pages used **Deploy from a branch → master → / (root)**. The tag `before-academic-redesign-2026-09-09` preserves that source for rollback.
+Current setup, September 10, 2026: repository `fleckenstein-m/fleckenstein-m.github.io`, default branch `master`, Pages source **GitHub Actions**, custom domain **www.mfleckenstein.com**, and **Enforce HTTPS** selected. The public address is [https://www.mfleckenstein.com/](https://www.mfleckenstein.com/). IONOS manages the domain registration and DNS; GitHub Pages directly serves the website and its HTTPS certificate. The address without `www` redirects to the `www` address. The repository variable `ACADEMIC_SITE_URL` is set to `https://www.mfleckenstein.com/`.
+
+Before migration, Pages used **Deploy from a branch → master → / (root)** and IONOS used a frame redirect. The tag `before-academic-redesign-2026-09-09` preserves that source for rollback.
 
 The numbered migration steps below are retained as a record. For ongoing changes, use [Routine updates after migration](#routine-updates-after-migration), working in `F:\AcademicWebpage\github-pages-migration` on `master`.
+
+## Custom domain configuration
+
+This is the completed configuration, not a list of records to add again. The secure homepage, Research, CV, Data, Teaching, current and legacy CV downloads, paper PDF, dataset, and both course links were checked on September 10, 2026.
+
+### GitHub settings
+
+- Account **Settings → Pages → Verified domains**: `mfleckenstein.com` is verified. Keep the verification TXT record at IONOS; verification of the base domain also covers `www`.
+- Repository **Settings → Pages → Custom domain**: `www.mfleckenstein.com`.
+- Repository **Settings → Pages → Enforce HTTPS**: selected after the certificate became available.
+- Repository **Settings → Secrets and variables → Actions → Variables**: `ACADEMIC_SITE_URL` = `https://www.mfleckenstein.com/`.
+- Main content file: `profile.website` = `https://www.mfleckenstein.com`. This sets the link in the generated CV. The build variable sets the website's metadata base.
+
+GitHub Actions publishing does not require a `CNAME` file in the repository. The custom-domain field in Pages settings controls the domain association.
+
+### IONOS records
+
+The website uses these DNS records, with a TTL of one hour:
+
+| Type | Host name | Value |
+| --- | --- | --- |
+| A | `@` | `185.199.108.153` |
+| A | `@` | `185.199.109.153` |
+| A | `@` | `185.199.110.153` |
+| A | `@` | `185.199.111.153` |
+| CNAME | `www` | `fleckenstein-m.github.io` |
+| TXT | `_github-pages-challenge-fleckenstein-m` | Keep the GitHub-generated verification value already saved in IONOS. |
+
+The `@` host means `mfleckenstein.com`. The CNAME target has no `https://` prefix or path. The main domain's existing email records, including its MX, SPF, DKIM, and DMARC records, remain at IONOS.
+
+When adding an A record in IONOS, select **Do not add DNS record for www**. The additional `www` preview becomes crossed out. Without this option, IONOS tries to add a competing A record for `www`, even when the Host name field is `@`. During setup, this produced a conflict warning with a blank service name and empty record list; excluding `www` resolved it.
+
+The old IONOS Webhosting connection for `www` was disabled when the CNAME was created. The user confirmed that no email addresses ending in `@www.mfleckenstein.com` were in use. Mail for `@mfleckenstein.com` is separate. Normal content updates do not require changing any of these domain settings.
+
+### HTTPS and course links
+
+GitHub issues the HTTPS certificate after DNS validation. During this migration, **DNS check successful** appeared before **Enforce HTTPS** became available. A cached DNS lookup initially returned the old IONOS address; HTTPS was serving correctly the following morning. If troubleshooting is needed, check the current DNS and certificate before changing records or restarting the certificate request. See [GitHub's HTTPS guidance](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https).
+
+After enabling enforcement, verify that `http://www.mfleckenstein.com/` redirects to `https://www.mfleckenstein.com/`. A cached HTTP response can remain briefly after the setting changes.
+
+The Teaching page's original GitHub course links now redirect to `https://www.mfleckenstein.com/FINC462-662-SP2026/` and `https://www.mfleckenstein.com/FINC672-SP2026/`. Both destinations were checked successfully. Continue maintaining the course content in its separate repositories.
+
+References: [GitHub custom domains](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site), [GitHub domain verification](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages), and [IONOS CNAME settings](https://www.ionos.com/help/domains/configuring-cname-records-for-subdomains/configuring-a-cname-record-for-a-subdomain/).
 
 ## What “design-proof” means
 
@@ -126,9 +171,9 @@ GitHub's [custom Pages workflows documentation](https://docs.github.com/en/pages
 In the homepage repository, open **Settings → Secrets and variables → Actions → Variables**. Create a repository variable:
 
 - **Name:** `ACADEMIC_SITE_URL`
-- **Value:** the verified final HTTPS address, including its scheme; for example `https://www.mfleckenstein.com/` if that is the domain confirmed in Step 1.
+- **Value:** `https://www.mfleckenstein.com/` (the verified address configured on September 10, 2026).
 
-If you intend to use the standard GitHub address, set `https://fleckenstein-m.github.io/`, or omit the variable and use the template's default.
+This variable is already configured for the current site. Edit the existing variable if the domain changes in the future. If deliberately returning to the standard GitHub address, set `https://fleckenstein-m.github.io/`, or omit the variable and use the template's default.
 
 This is a public address, so use a repository variable rather than a secret. This variable supplies the site's metadata base. It does not configure DNS or attach a domain to Pages.
 

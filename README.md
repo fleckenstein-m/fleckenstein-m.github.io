@@ -4,9 +4,11 @@ Edit [content/academic.md](content/academic.md) to update the website and full C
 
 Project folder on this computer: `F:\AcademicWebpage\github-pages-migration`. Use its `master` branch for routine updates.
 
-The [public website](https://fleckenstein-m.github.io/) is live on GitHub Pages. The installed [Academic website workflow](.github/workflows/pages.yml) builds and checks updates to `master`; publication requires a manual run with **Publish this build to the public academic website** checked. Building locally does not publish. See [the GitHub Pages guide](docs/GITHUB-PAGES.md#routine-updates-after-migration) for routine updates and rollback instructions.
+The [public website](https://www.mfleckenstein.com/) is live on GitHub Pages at **https://www.mfleckenstein.com/**. The address without `www` redirects to it. The installed [Academic website workflow](.github/workflows/pages.yml) builds and checks updates to `master`; publication requires a manual run with **Publish this build to the public academic website** checked. Building locally does not publish. See [the GitHub Pages guide](docs/GITHUB-PAGES.md#routine-updates-after-migration) for routine updates and rollback instructions.
 
 The [private design preview](https://matthias-fleckenstein-design-proof.magicmaze.chatgpt.site/) remains separate. Maintain this GitHub checkout as the authoritative source; edits do not automatically synchronize to the old design-proof folder or its hosted preview.
+
+The custom domain was connected on September 10, 2026. IONOS manages the domain registration and DNS; GitHub Pages serves the website and its HTTPS certificate. The repository variable `ACADEMIC_SITE_URL` is set to `https://www.mfleckenstein.com/`, and `profile.website` in the main content file supplies the CV's website link. Ordinary content updates need no DNS changes. See [the saved domain configuration](docs/GITHUB-PAGES.md#custom-domain-configuration) for the exact settings and the IONOS `www` checkbox detail.
 
 ## 1. What goes where
 
@@ -406,4 +408,4 @@ The original `E:\Research\Tenure\CurriculumVitae\MarkdownCV` directory remains u
 
 “Design proof” was the name given to the separate site used to develop and review this replacement. The current implementation is functional, including the CV, paper downloads, Data, and Teaching pages. The phrase is a name, not a limitation of the website.
 
-The private preview address is hosted by Sites and is restricted to your account. The public GitHub Pages website is now live at `https://fleckenstein-m.github.io/`. The original design-proof folder can remain as a reference; use `F:\AcademicWebpage\github-pages-migration\content\academic.md` for future public-site updates. The local folder name has no effect on the public URL.
+The private preview address is hosted by Sites and is restricted to your account. The public GitHub Pages website is now live at `https://www.mfleckenstein.com/`; the original GitHub address also redirects to the custom domain. The original design-proof folder can remain as a reference; use `F:\AcademicWebpage\github-pages-migration\content\academic.md` for future public-site updates. The local folder name has no effect on the public URL.
